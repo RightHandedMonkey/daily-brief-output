@@ -89,5 +89,14 @@
       <guid isPermaLink="false">84933507007f8b811db2bdffd5e1e28c</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Science X Newsletter Tue, Jul 21 (SCIENCE_X)</title>
+      <pubDate>Mon, 27 Jul 2026 14:58:44 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers five scientific breakthroughs: an LLM agent for synchrotron beamline sample alignment, passive diamagnetic microcrystal levitation, a two-layer spin transistor, frozen liquid-core optoacoustic optical fibers, and laser-steered electron currents in semiconductors.</description>
+      <itunes:summary>[Quality: Good] The briefing covers five scientific breakthroughs: an LLM agent for synchrotron beamline sample alignment, passive diamagnetic microcrystal levitation, a two-layer spin transistor, frozen liquid-core optoacoustic optical fibers, and laser-steered electron currents in semiconductors.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260727_science_x_1.mp3" length="10" type="audio/mpeg"/>
+      <guid isPermaLink="false">dba40adc7cc15a15cdf4e5c834e06f60</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
