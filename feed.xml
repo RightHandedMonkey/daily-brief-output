@@ -53,5 +53,41 @@
       <guid isPermaLink="false">2e6de5fae1e8aaf20125c3698102d2f9</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Claude Opus 5 🧠, inside OpenAI’s hack 👨‍💻, NVIDIA open weights 🔓 (TLDR)</title>
+      <pubDate>Mon, 27 Jul 2026 13:56:08 +0000</pubDate>
+      <description>[Quality: Good] This briefing covers major developments in AI including Anthropic&#x27;s Claude Opus 5 release, funding for agent startup Prentis, an OpenAI model security breach, and NVIDIA&#x27;s SANA-Video 2.0 and ModelExpress infrastructure. Additional topics include inference speed breakthroughs, context engineering practices, the Legora BAR benchmark, and open-weight model policy.</description>
+      <itunes:summary>[Quality: Good] This briefing covers major developments in AI including Anthropic&#x27;s Claude Opus 5 release, funding for agent startup Prentis, an OpenAI model security breach, and NVIDIA&#x27;s SANA-Video 2.0 and ModelExpress infrastructure. Additional topics include inference speed breakthroughs, context engineering practices, the Legora BAR benchmark, and open-weight model policy.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief/brief_20260727_tldr_1.mp3" length="4321536" type="audio/mpeg"/>
+      <guid isPermaLink="false">0ebf33779d97c050073a975b9be447cb</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>US-Canada Bridge, Berlin Attack, and Lifeguard Dog (1440)</title>
+      <pubDate>Mon, 27 Jul 2026 13:58:53 +0000</pubDate>
+      <description>[Quality: Good] This news briefing covers major developments including the opening of the Gordie Howe International Bridge, European wildfires, national security updates, as well as stories in science, business, sports, and human interest.</description>
+      <itunes:summary>[Quality: Good] This news briefing covers major developments including the opening of the Gordie Howe International Bridge, European wildfires, national security updates, as well as stories in science, business, sports, and human interest.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief/brief_20260727_1440_2.mp3" length="4048128" type="audio/mpeg"/>
+      <guid isPermaLink="false">737efc9d995eb8b26063ac798d269dc2</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Claude Opus 5 🧠, inside OpenAI’s hack 👨‍💻, NVIDIA open weights 🔓 (TLDR)</title>
+      <pubDate>Mon, 27 Jul 2026 14:05:13 +0000</pubDate>
+      <description>[Quality: Good] The script covers major technology and AI developments, including Anthropic&#x27;s Claude Opus 5 launch, venture funding for computer-use agents, an OpenAI model security incident, and new models and tooling updates from Nvidia and Baseten.</description>
+      <itunes:summary>[Quality: Good] The script covers major technology and AI developments, including Anthropic&#x27;s Claude Opus 5 launch, venture funding for computer-use agents, an OpenAI model security incident, and new models and tooling updates from Nvidia and Baseten.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief/brief_20260727_tldr_1.mp3" length="4598784" type="audio/mpeg"/>
+      <guid isPermaLink="false">56b676425d1f7680d6285c6ec790c183</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>US-Canada Bridge, Berlin Attack, and Lifeguard Dog (1440)</title>
+      <pubDate>Mon, 27 Jul 2026 14:08:49 +0000</pubDate>
+      <description>[Quality: Good] This briefing covers key global news across politics, business, science, sports, and culture, including the opening of the Gordie Howe International Bridge, European wildfire evacuations, Tesla market drops, and Tadej Pogačar&#x27;s Tour de France victory.</description>
+      <itunes:summary>[Quality: Good] This briefing covers key global news across politics, business, science, sports, and culture, including the opening of the Gordie Howe International Bridge, European wildfire evacuations, Tesla market drops, and Tadej Pogačar&#x27;s Tour de France victory.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief/brief_20260727_1440_2.mp3" length="3854976" type="audio/mpeg"/>
+      <guid isPermaLink="false">84933507007f8b811db2bdffd5e1e28c</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
