@@ -1,0 +1,7 @@
+# Ignore all files by default
+*
+
+# Allow only feed.xml, MP3 files, and .gitignore
+!feed.xml
+!*.mp3
+!.gitignore

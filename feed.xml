@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Daily Brief Podcast</title>
+    <description>Daily automated audio briefings from top tech, science, and news sources.</description>
+    <language>en-us</language>
+    <link>https://RightHandedMonkey.github.io/daily-brief</link>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Science X Newsletter Fri, Jul 24 (SCIENCE_X)</title>
+      <pubDate>Sun, 26 Jul 2026 20:09:33 +0000</pubDate>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief/output/brief_20260726_science_x_1.mp3" length="10" type="audio/mpeg"/>
+      <guid isPermaLink="false">71cef1b53a8589dff6ad4dfd422a4960</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Thu, Jun 11 (SCIENCE_X)</title>
+      <pubDate>Sun, 26 Jul 2026 20:28:01 +0000</pubDate>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief/output/brief_20260726_science_x_1.mp3" length="4767744" type="audio/mpeg"/>
+      <guid isPermaLink="false">9accba4a7056325f71a44b207d0fb9d6</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Cursor Router 🔀, OpenAI Presence 🤖, AMD + Anthropic deal 🤝🏻 (TLDR)</title>
+      <pubDate>Sun, 26 Jul 2026 20:37:48 +0000</pubDate>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief/output/brief_20260726_tldr_1.mp3" length="900096" type="audio/mpeg"/>
+      <guid isPermaLink="false">841dcc7301d3d727fee50d5729c89426</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Fri, Jul 24 (SCIENCE_X)</title>
+      <pubDate>Sun, 26 Jul 2026 20:48:02 +0000</pubDate>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief/output/brief_20260726_science_x_1.mp3" length="9166464" type="audio/mpeg"/>
+      <guid isPermaLink="false">663eca5af4f732717cd3c94ee625adc9</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Cursor Router 🔀, OpenAI Presence 🤖, AMD + Anthropic deal 🤝🏻 (TLDR)</title>
+      <pubDate>Sun, 26 Jul 2026 20:53:44 +0000</pubDate>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief/brief_20260726_tldr_1.mp3" length="3487104" type="audio/mpeg"/>
+      <guid isPermaLink="false">e2a8533181bff40fa7fdc40cabe1a811</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+  </channel>
+</rss>
