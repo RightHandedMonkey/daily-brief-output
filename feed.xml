@@ -44,5 +44,14 @@
       <guid isPermaLink="false">e2a8533181bff40fa7fdc40cabe1a811</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Cursor Router 🔀, OpenAI Presence 🤖, AMD + Anthropic deal 🤝🏻 (TLDR)</title>
+      <pubDate>Sun, 26 Jul 2026 21:06:23 +0000</pubDate>
+      <description>[Quality: Good] This script covers major AI hardware investments and infrastructure expansions by AMD, OpenAI, and TSMC, alongside new AI agent platforms, security findings, and developer tools. It also highlights international AI policy, GPU cluster financial valuation models, and recent industry news.</description>
+      <itunes:summary>[Quality: Good] This script covers major AI hardware investments and infrastructure expansions by AMD, OpenAI, and TSMC, alongside new AI agent platforms, security findings, and developer tools. It also highlights international AI policy, GPU cluster financial valuation models, and recent industry news.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief/brief_20260726_tldr_1.mp3" length="4937088" type="audio/mpeg"/>
+      <guid isPermaLink="false">2e6de5fae1e8aaf20125c3698102d2f9</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
