@@ -116,5 +116,14 @@
       <guid isPermaLink="false">8f6f7e840a915b018c1f625c844c624a</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>TPS Expires, World Heritage Sites, and a Whale Dinner Party (1440)</title>
+      <pubDate>Tue, 28 Jul 2026 06:13:27 +0000</pubDate>
+      <description>[Quality: Good] This daily briefing covers top U.S. and international news, including U.S. immigration policy changes, Apple&#x27;s record market capitalization, major legal updates, and science breakthroughs in cancer and allergy research.</description>
+      <itunes:summary>[Quality: Good] This daily briefing covers top U.S. and international news, including U.S. immigration policy changes, Apple&#x27;s record market capitalization, major legal updates, and science breakthroughs in cancer and allergy research.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260728_1440_1.mp3" length="4311168" type="audio/mpeg"/>
+      <guid isPermaLink="false">7fe531b758268416a9656f83343076d9</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
