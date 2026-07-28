@@ -107,5 +107,14 @@
       <guid isPermaLink="false">ea2f514fc4a3acc0c1f0ede37660af19</guid>
       <itunes:duration>371</itunes:duration>
     </item>
+      <item>
+      <title>Science X Newsletter Mon, Jul 27 (SCIENCE_X)</title>
+      <pubDate>Mon, 27 Jul 2026 22:26:27 +0000</pubDate>
+      <description>[Quality: Good] The script covers five scientific advances: thermodynamic modeling of chiral micro-robot swarms, noise-enhanced quantum neural network execution on hardware, biodegradable implants for targeted cancer immunotherapy, substrate coupling in vanadium dioxide neuromorphic thin films, and a non-magnetic electro-optic isolator on lithium niobate.</description>
+      <itunes:summary>[Quality: Good] The script covers five scientific advances: thermodynamic modeling of chiral micro-robot swarms, noise-enhanced quantum neural network execution on hardware, biodegradable implants for targeted cancer immunotherapy, substrate coupling in vanadium dioxide neuromorphic thin films, and a non-magnetic electro-optic isolator on lithium niobate.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260727_science_x_1.mp3" length="5282304" type="audio/mpeg"/>
+      <guid isPermaLink="false">8f6f7e840a915b018c1f625c844c624a</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
