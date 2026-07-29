@@ -125,5 +125,32 @@
       <guid isPermaLink="false">7fe531b758268416a9656f83343076d9</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Anthropic on open weights 🔓, Kimi releases K3 weights 🤖, MAI Cyber model 🔐 (TLDR)</title>
+      <pubDate>Tue, 28 Jul 2026 20:23:54 +0000</pubDate>
+      <description>[Quality: Good] Today&#x27;s digest covers major AI policy updates, frontier model releases like Moonshot&#x27;s Kimi K3, and cybersecurity advancements. It also highlights OpenAI workforce research, new developer tools for model distillation, and agentic reinforcement learning frameworks.</description>
+      <itunes:summary>[Quality: Good] Today&#x27;s digest covers major AI policy updates, frontier model releases like Moonshot&#x27;s Kimi K3, and cybersecurity advancements. It also highlights OpenAI workforce research, new developer tools for model distillation, and agentic reinforcement learning frameworks.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260728_tldr_1.mp3" length="4092672" type="audio/mpeg"/>
+      <guid isPermaLink="false">f21cb713a98d63f116ee63a3a4319942</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>TPS Expires, World Heritage Sites, and a Whale Dinner Party (1440)</title>
+      <pubDate>Tue, 28 Jul 2026 20:25:33 +0000</pubDate>
+      <description>[Quality: Good] This daily briefing covers major national and global updates, including the expiration of Temporary Protected Status for Haitians and Syrians, market milestones such as Apple&#x27;s record valuation, and new scientific research on genetics and cancer.</description>
+      <itunes:summary>[Quality: Good] This daily briefing covers major national and global updates, including the expiration of Temporary Protected Status for Haitians and Syrians, market milestones such as Apple&#x27;s record valuation, and new scientific research on genetics and cancer.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260728_1440_2.mp3" length="10" type="audio/mpeg"/>
+      <guid isPermaLink="false">1d996bc140ea53032eff02b463d8a561</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Apple Upgrade, KFC Auction, and the Worst Aquarium (1440)</title>
+      <pubDate>Wed, 29 Jul 2026 06:13:14 +0000</pubDate>
+      <description>[Quality: Good] This news briefing details global military actions, political updates, a Japanese earthquake, key financial and corporate developments, and updates across science, tech, and culture.</description>
+      <itunes:summary>[Quality: Good] This news briefing details global military actions, political updates, a Japanese earthquake, key financial and corporate developments, and updates across science, tech, and culture.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260729_1440_1.mp3" length="3871872" type="audio/mpeg"/>
+      <guid isPermaLink="false">db93c3ac6d77521b7972923a573b30aa</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
