@@ -152,5 +152,23 @@
       <guid isPermaLink="false">db93c3ac6d77521b7972923a573b30aa</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Fauci Hearing, Blood Pressure, and America&#x27;s Best States (1440)</title>
+      <pubDate>Thu, 30 Jul 2026 06:14:28 +0000</pubDate>
+      <description>[Quality: Good] This daily briefing covers key developments across politics, health, business, and science, including Dr. Anthony Fauci&#x27;s Senate hearing testimony, Saudi Arabian military joint strikes, a CDC study on maternal hypertension, and Wall Street market reactions to the Federal Reserve&#x27;s rate decision.</description>
+      <itunes:summary>[Quality: Good] This daily briefing covers key developments across politics, health, business, and science, including Dr. Anthony Fauci&#x27;s Senate hearing testimony, Saudi Arabian military joint strikes, a CDC study on maternal hypertension, and Wall Street market reactions to the Federal Reserve&#x27;s rate decision.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260730_1440_1.mp3" length="3871872" type="audio/mpeg"/>
+      <guid isPermaLink="false">fe33defaa397125da7384e72334f2835</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>AI slowdown pact ⏸️, Personal superintelligence access 🌍, Grok Build Mode 🛠️ (TLDR)</title>
+      <pubDate>Thu, 30 Jul 2026 06:17:46 +0000</pubDate>
+      <description>[Quality: Good] This script covers major AI developments including xAI&#x27;s SuperGrok Build Mode, safety concerns around an autonomous agent intrusion, Amazon&#x27;s consolidation of its Nova models, and technical updates for Kimi K3. It also details developer tool releases and research milestones from camelAI, Google, Anthropic, Microsoft, and OpenAI.</description>
+      <itunes:summary>[Quality: Good] This script covers major AI developments including xAI&#x27;s SuperGrok Build Mode, safety concerns around an autonomous agent intrusion, Amazon&#x27;s consolidation of its Nova models, and technical updates for Kimi K3. It also details developer tool releases and research milestones from camelAI, Google, Anthropic, Microsoft, and OpenAI.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260730_tldr_2.mp3" length="10" type="audio/mpeg"/>
+      <guid isPermaLink="false">03c805bea9e7dea05b2cb499e30ad29a</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
