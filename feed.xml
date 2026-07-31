@@ -170,5 +170,23 @@
       <guid isPermaLink="false">03c805bea9e7dea05b2cb499e30ad29a</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Spain Standoff, Elephant Poisoning, and the Best of July (1440)</title>
+      <pubDate>Fri, 31 Jul 2026 06:11:29 +0000</pubDate>
+      <description>[Quality: Good] This news briefing covers key global and national events, including border migration in Ceuta, economic indicators and corporate earnings, AI and scientific research breakthroughs, and cultural highlights.</description>
+      <itunes:summary>[Quality: Good] This news briefing covers key global and national events, including border migration in Ceuta, economic indicators and corporate earnings, AI and scientific research breakthroughs, and cultural highlights.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260731_1440_1.mp3" length="10" type="audio/mpeg"/>
+      <guid isPermaLink="false">5522f056505c6ae981638ac19321dd2f</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>OpenAI tops ARC-AGI-3 📈, GPT-5.6 efficiency ⚙️, AlphaFold team dissolution 🧬 (TLDR)</title>
+      <pubDate>Fri, 31 Jul 2026 06:15:50 +0000</pubDate>
+      <description>[Quality: Good] This episode covers major AI industry updates, including talent shifts across top labs like OpenAI and DeepMind, benchmark optimizations, and open-source developer tools. It also details new audio generation models, security software releases, and emerging trends in AI compute economics.</description>
+      <itunes:summary>[Quality: Good] This episode covers major AI industry updates, including talent shifts across top labs like OpenAI and DeepMind, benchmark optimizations, and open-source developer tools. It also details new audio generation models, security software releases, and emerging trends in AI compute economics.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260731_tldr_2.mp3" length="4254720" type="audio/mpeg"/>
+      <guid isPermaLink="false">79c8c50112054573e52e8a21965d96be</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
