@@ -188,5 +188,23 @@
       <guid isPermaLink="false">79c8c50112054573e52e8a21965d96be</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Colorado River, Women&#x27;s Baseball, and George Washington&#x27;s Diet (1440)</title>
+      <pubDate>Sat, 01 Aug 2026 06:12:50 +0000</pubDate>
+      <description>[Quality: Good] This briefing covers proposed Colorado River water cutbacks, a Hamas disarmament proposal in Gaza, and a mountain avalanche in Pakistan. It also highlights AI cybersecurity incidents, a VA clinical trial using GLP-1 for alcohol use disorder, and various environmental, sports, and cultural news.</description>
+      <itunes:summary>[Quality: Good] This briefing covers proposed Colorado River water cutbacks, a Hamas disarmament proposal in Gaza, and a mountain avalanche in Pakistan. It also highlights AI cybersecurity incidents, a VA clinical trial using GLP-1 for alcohol use disorder, and various environmental, sports, and cultural news.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260801_1440_1.mp3" length="3393024" type="audio/mpeg"/>
+      <guid isPermaLink="false">fee6c4ed83110506cae5eb7fd1a4262d</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Inkling-Small 🧠, GPT-5.6 price cuts 💸, Gemini Robotics 2 🤖 (TLDR)</title>
+      <pubDate>Sat, 01 Aug 2026 06:15:44 +0000</pubDate>
+      <description>[Quality: Good] This digest covers major AI updates including model releases like Inkling-Small and Kimi K3, price cuts for GPT-5.6, developer tools such as WASTE, and insights into AI safety, benchmarks, and infrastructure.</description>
+      <itunes:summary>[Quality: Good] This digest covers major AI updates including model releases like Inkling-Small and Kimi K3, price cuts for GPT-5.6, developer tools such as WASTE, and insights into AI safety, benchmarks, and infrastructure.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260801_tldr_2.mp3" length="3588096" type="audio/mpeg"/>
+      <guid isPermaLink="false">aad4943837819fd00e0697145d3624a2</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
