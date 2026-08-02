@@ -206,5 +206,14 @@
       <guid isPermaLink="false">aad4943837819fd00e0697145d3624a2</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Mosquitos, Earthquakes, and the World&#x27;s Oldest Population (1440)</title>
+      <pubDate>Sun, 02 Aug 2026 06:12:57 +0000</pubDate>
+      <description>[Quality: Good] This news briefing covers key global events, including a recent earthquake in Japan, Federal Reserve interest rate decisions, UNESCO heritage additions, and US immigration demographics. It also details scientific advancements in mosquito control and historical milestones for August 2nd.</description>
+      <itunes:summary>[Quality: Good] This news briefing covers key global events, including a recent earthquake in Japan, Federal Reserve interest rate decisions, UNESCO heritage additions, and US immigration demographics. It also details scientific advancements in mosquito control and historical milestones for August 2nd.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260802_1440_1.mp3" length="3358464" type="audio/mpeg"/>
+      <guid isPermaLink="false">2faca2423502eccb83207d9e4447e845</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
