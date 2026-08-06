@@ -215,5 +215,32 @@
       <guid isPermaLink="false">2faca2423502eccb83207d9e4447e845</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Google LLM router ➡️, Cloudflare Wallets 💳, Anthropic and Volta 🤝 (TLDR)</title>
+      <pubDate>Wed, 05 Aug 2026 21:06:18 +0000</pubDate>
+      <description>[Quality: Good] This episode covers major AI and tech developments, including Anthropic&#x27;s $10 billion cloud deal, new developer tools from Google Cloud and Cloudflare for AI agents, open model releases from Mistral and NVIDIA, and massive infrastructure investments by SpaceX.</description>
+      <itunes:summary>[Quality: Good] This episode covers major AI and tech developments, including Anthropic&#x27;s $10 billion cloud deal, new developer tools from Google Cloud and Cloudflare for AI agents, open model releases from Mistral and NVIDIA, and massive infrastructure investments by SpaceX.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260805_tldr_1.mp3" length="4730880" type="audio/mpeg"/>
+      <guid isPermaLink="false">474d00b6f9706b258dfa78ce5586ad93</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Moon Crash, Water Cyberattacks, and History&#x27;s Weirdest Pets (1440)</title>
+      <pubDate>Wed, 05 Aug 2026 21:08:54 +0000</pubDate>
+      <description>[Quality: Good] This daily briefing covers diverse top news including U.S. infrastructure cyberattacks, political primary updates, and major business acquisitions like Airtable. It also details environmental conservation initiatives, scientific discoveries, and pop culture milestones.</description>
+      <itunes:summary>[Quality: Good] This daily briefing covers diverse top news including U.S. infrastructure cyberattacks, political primary updates, and major business acquisitions like Airtable. It also details environmental conservation initiatives, scientific discoveries, and pop culture milestones.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260805_1440_2.mp3" length="3094656" type="audio/mpeg"/>
+      <guid isPermaLink="false">1560f7cc7752b905bb61d79c575a5a35</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>ChronicleBio 🧬, Mind Lab continual learning 📈, GPT-Live architecture 🎙️ (TLDR)</title>
+      <pubDate>Wed, 05 Aug 2026 21:09:51 +0000</pubDate>
+      <description>[Quality: Good] This digest highlights AI health-tech startup ChronicleBio, insights on talent retention from Anthropic&#x27;s CEO, and novel AI architectures and benchmarks. It also covers developer tools like Kiro and Microsoft Orchard along with industry updates on model efficiency and governance.</description>
+      <itunes:summary>[Quality: Good] This digest highlights AI health-tech startup ChronicleBio, insights on talent retention from Anthropic&#x27;s CEO, and novel AI architectures and benchmarks. It also covers developer tools like Kiro and Microsoft Orchard along with industry updates on model efficiency and governance.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260805_tldr_3.mp3" length="10" type="audio/mpeg"/>
+      <guid isPermaLink="false">9f9311da8e8698a3dfc12da91cc2a807</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
