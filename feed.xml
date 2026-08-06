@@ -242,5 +242,23 @@
       <guid isPermaLink="false">9f9311da8e8698a3dfc12da91cc2a807</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Gene-Edited Dogs, Sun Photographs, and Bush Cop (1440)</title>
+      <pubDate>Thu, 06 Aug 2026 06:13:36 +0000</pubDate>
+      <description>[Quality: Good] This news briefing covers international developments including a Turkish peace proposal with the PKK, domestic U.S. political updates, financial market shifts, and key scientific advances in gene editing and solar dynamics.</description>
+      <itunes:summary>[Quality: Good] This news briefing covers international developments including a Turkish peace proposal with the PKK, domestic U.S. political updates, financial market shifts, and key scientific advances in gene editing and solar dynamics.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260806_1440_1.mp3" length="4192128" type="audio/mpeg"/>
+      <guid isPermaLink="false">f58048caa81912b0bb37a2d4ddb07d57</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Google LLM router ➡️, Cloudflare Wallets 💳, Anthropic and Volta 🤝 (TLDR)</title>
+      <pubDate>Thu, 06 Aug 2026 06:16:30 +0000</pubDate>
+      <description>[Quality: Good] This digest covers major AI infrastructure moves, including Anthropic&#x27;s $10B cloud deal and SpaceX&#x27;s compute expansion, alongside software and model announcements from Google, OpenAI, Cloudflare, and Mistral.</description>
+      <itunes:summary>[Quality: Good] This digest covers major AI infrastructure moves, including Anthropic&#x27;s $10B cloud deal and SpaceX&#x27;s compute expansion, alongside software and model announcements from Google, OpenAI, Cloudflare, and Mistral.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260806_tldr_2.mp3" length="10" type="audio/mpeg"/>
+      <guid isPermaLink="false">b357eec9570edec73124ab9ad5490257</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
