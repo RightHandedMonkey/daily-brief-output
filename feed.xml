@@ -260,5 +260,23 @@
       <guid isPermaLink="false">b357eec9570edec73124ab9ad5490257</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Lab-Made Viruses, Faster Flu Shot, and Victorian Junk Food (1440)</title>
+      <pubDate>Fri, 07 Aug 2026 06:10:24 +0000</pubDate>
+      <description>[Quality: Good] This briefing covers key U.S. political updates, an Eastern European energy crisis, major corporate financial news, breakthroughs in biomanufacturing and medicine, and notable sports and culture stories.</description>
+      <itunes:summary>[Quality: Good] This briefing covers key U.S. political updates, an Eastern European energy crisis, major corporate financial news, breakthroughs in biomanufacturing and medicine, and notable sports and culture stories.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260807_1440_1.mp3" length="10" type="audio/mpeg"/>
+      <guid isPermaLink="false">48180731e5aed90cad74dbb2705616e1</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Google DeepMind reshuffle 🧠, Meta Muse Code 💻, Anthropic chip team 🧩 (TLDR)</title>
+      <pubDate>Fri, 07 Aug 2026 06:12:16 +0000</pubDate>
+      <description>[Quality: Good] This script covers major AI executive reshuffles at Google DeepMind, custom chip initiatives and model releases from Anthropic, Meta, ByteDance, and Xiaomi, alongside novel security frameworks for autonomous AI agents.</description>
+      <itunes:summary>[Quality: Good] This script covers major AI executive reshuffles at Google DeepMind, custom chip initiatives and model releases from Anthropic, Meta, ByteDance, and Xiaomi, alongside novel security frameworks for autonomous AI agents.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260807_tldr_2.mp3" length="10" type="audio/mpeg"/>
+      <guid isPermaLink="false">5f4e3be66abddc827d01434815d864ab</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
