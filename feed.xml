@@ -278,5 +278,23 @@
       <guid isPermaLink="false">5f4e3be66abddc827d01434815d864ab</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Stress Scars, Puerto Rican Water, and a $100 Hot Dog (1440)</title>
+      <pubDate>Sat, 08 Aug 2026 06:13:38 +0000</pubDate>
+      <description>[Quality: Good] This news briefing covers major international security agreements, U.S. political and economic developments, and breakthrough scientific research regarding mental health and food allergies. Additional topics include Pentagon UAP file releases, space exploration initiatives, and local community stories.</description>
+      <itunes:summary>[Quality: Good] This news briefing covers major international security agreements, U.S. political and economic developments, and breakthrough scientific research regarding mental health and food allergies. Additional topics include Pentagon UAP file releases, space exploration initiatives, and local community stories.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260808_1440_1.mp3" length="4793088" type="audio/mpeg"/>
+      <guid isPermaLink="false">66b232ca0f84bd40265a47116aef2e33</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>GPT-5.6 Luna default 🌙, Agent Plugins 🔌, AMD Taalas acquisition 🧩 (TLDR)</title>
+      <pubDate>Sat, 08 Aug 2026 06:15:42 +0000</pubDate>
+      <description>[Quality: Good] This episode covers major tech developments including OpenAI&#x27;s GPT-5.6 Luna rollout, ByteDance&#x27;s 10-trillion parameter model, AMD&#x27;s acquisition of Taalas, and DeepMind&#x27;s WeatherNext model. It also highlights research on multi-modal pre-training efficiency and new developer tools for AI agent infrastructure.</description>
+      <itunes:summary>[Quality: Good] This episode covers major tech developments including OpenAI&#x27;s GPT-5.6 Luna rollout, ByteDance&#x27;s 10-trillion parameter model, AMD&#x27;s acquisition of Taalas, and DeepMind&#x27;s WeatherNext model. It also highlights research on multi-modal pre-training efficiency and new developer tools for AI agent infrastructure.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260808_tldr_2.mp3" length="10" type="audio/mpeg"/>
+      <guid isPermaLink="false">84146e16b86e4ebc27a89b0bd75f8926</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
