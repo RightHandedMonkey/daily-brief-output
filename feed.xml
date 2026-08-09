@@ -296,5 +296,14 @@
       <guid isPermaLink="false">84146e16b86e4ebc27a89b0bd75f8926</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Manhattan Project, Moon Crash, and a Literature Map (1440)</title>
+      <pubDate>Sun, 09 Aug 2026 06:12:22 +0000</pubDate>
+      <description>[Quality: Good] This news briefing covers key national and political events such as the Michigan Senate primary and Washington wildfires, alongside international updates on nuclear security, science breakthroughs like gene-edited allergen-free beagles, and historical anniversaries.</description>
+      <itunes:summary>[Quality: Good] This news briefing covers key national and political events such as the Michigan Senate primary and Washington wildfires, alongside international updates on nuclear security, science breakthroughs like gene-edited allergen-free beagles, and historical anniversaries.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260809_1440_1.mp3" length="3093888" type="audio/mpeg"/>
+      <guid isPermaLink="false">24707e634163474eb0f6bfb561f8ae5f</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
