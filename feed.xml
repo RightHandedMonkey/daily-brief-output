@@ -332,5 +332,23 @@
       <guid isPermaLink="false">b1cdfd9476322eb3bd4f1e3818459441</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Presidential Ruse, Celestial Show, and WWII Military Meals (1440)</title>
+      <pubDate>Wed, 12 Aug 2026 06:13:07 +0000</pubDate>
+      <description>[Quality: Good] This daily briefing covers major global security and human rights updates from Afghanistan and the DRC, domestic political primaries, and corporate news. It also highlights emerging scientific and AI research, rare celestial events, and notable developments in sports and culture.</description>
+      <itunes:summary>[Quality: Good] This daily briefing covers major global security and human rights updates from Afghanistan and the DRC, domestic political primaries, and corporate news. It also highlights emerging scientific and AI research, rare celestial events, and notable developments in sports and culture.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260812_1440_1.mp3" length="3884160" type="audio/mpeg"/>
+      <guid isPermaLink="false">a73e716c75ceba76a3febf5e4c68fe19</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Muse Glimmer ✨, OpenAI Cyber 🛡️, Claude vs Riemann Hypothesis 🧠 (TLDR)</title>
+      <pubDate>Wed, 12 Aug 2026 06:16:58 +0000</pubDate>
+      <description>[Quality: Good] This tech digest covers key updates across AI research and industry news, including Meta&#x27;s Muse Glimmer model release, OpenAI&#x27;s GPT 5.6 Cyber, and math progress by Anthropic&#x27;s Claude. It also details hardware developments from Nvidia and Microsoft alongside corporate updates from OpenAI and Anthropic.</description>
+      <itunes:summary>[Quality: Good] This tech digest covers key updates across AI research and industry news, including Meta&#x27;s Muse Glimmer model release, OpenAI&#x27;s GPT 5.6 Cyber, and math progress by Anthropic&#x27;s Claude. It also details hardware developments from Nvidia and Microsoft alongside corporate updates from OpenAI and Anthropic.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260812_tldr_2.mp3" length="4427520" type="audio/mpeg"/>
+      <guid isPermaLink="false">1a168c817989b4dcf6c2d1a5234d79dd</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
