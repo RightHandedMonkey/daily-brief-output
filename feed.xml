@@ -350,5 +350,14 @@
       <guid isPermaLink="false">1a168c817989b4dcf6c2d1a5234d79dd</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Science X Newsletter Fri, Aug 14 (SCIENCE_X)</title>
+      <pubDate>Fri, 14 Aug 2026 23:00:25 +0000</pubDate>
+      <description>[Quality: Good] This briefing covers breakthroughs in solar-powered nano-biohybrids, thermodynamic modeling of cellular biomolecular condensates, and reconfigurable liquid-crystal assemblies for controlling light rotation. It also explores atomic-scale ion transport in lithium iron phosphate batteries and an AI architecture for forecasting solar eruptions.</description>
+      <itunes:summary>[Quality: Good] This briefing covers breakthroughs in solar-powered nano-biohybrids, thermodynamic modeling of cellular biomolecular condensates, and reconfigurable liquid-crystal assemblies for controlling light rotation. It also explores atomic-scale ion transport in lithium iron phosphate batteries and an AI architecture for forecasting solar eruptions.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260814_science_x_1.mp3" length="5052288" type="audio/mpeg"/>
+      <guid isPermaLink="false">fa94f618c081159a638419bd9234a58c</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
