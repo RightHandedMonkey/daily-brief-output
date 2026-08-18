@@ -386,5 +386,32 @@
       <guid isPermaLink="false">187431bfca891212b8f2534903831f64</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Trillion-Dollar Trial, Airborne Radiation, and a Strava Hamster (1440)</title>
+      <pubDate>Tue, 18 Aug 2026 06:13:36 +0000</pubDate>
+      <description>[Quality: Good] This briefing covers major developments including a landmark youth safety trial against Meta, a deadly Ebola outbreak in the DRC, and surging AI infrastructure investments alongside market movements. It also touches on Middle East geopolitical tensions, aircrew radiation health findings, and notable updates in sports and culture.</description>
+      <itunes:summary>[Quality: Good] This briefing covers major developments including a landmark youth safety trial against Meta, a deadly Ebola outbreak in the DRC, and surging AI infrastructure investments alongside market movements. It also touches on Middle East geopolitical tensions, aircrew radiation health findings, and notable updates in sports and culture.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260818_1440_1.mp3" length="4920192" type="audio/mpeg"/>
+      <guid isPermaLink="false">bc3ab8097266236426c29349fd612dd0</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Mon, Aug 17 (SCIENCE_X)</title>
+      <pubDate>Tue, 18 Aug 2026 06:18:31 +0000</pubDate>
+      <description>[Quality: Good] The script highlights breakthroughs across five technical domains, covering engineered ferritin nanocages for Alzheimer&#x27;s plaques, stress-dispersing active matter in glasses, NASA&#x27;s autonomous CADRE lunar rover swarm, spontaneous consensus in large-scale LLM multi-agent networks, and molecular dynamics simulations of radiation damage in fusion reactor materials.</description>
+      <itunes:summary>[Quality: Good] The script highlights breakthroughs across five technical domains, covering engineered ferritin nanocages for Alzheimer&#x27;s plaques, stress-dispersing active matter in glasses, NASA&#x27;s autonomous CADRE lunar rover swarm, spontaneous consensus in large-scale LLM multi-agent networks, and molecular dynamics simulations of radiation damage in fusion reactor materials.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260818_science_x_2.mp3" length="7967232" type="audio/mpeg"/>
+      <guid isPermaLink="false">c4790f7a023650f49cd12b62f17df60a</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>GLM-5.3 🤖, Stripe OpenRouter deal 💰, AI agent consensus 🤝 (TLDR)</title>
+      <pubDate>Tue, 18 Aug 2026 06:25:07 +0000</pubDate>
+      <description>[Quality: Good] The script covers major AI acquisitions including Stripe buying OpenRouter and SpaceX acquiring Cursor, massive infrastructure moves from Nvidia and OpenAI, new model releases like GLM-5.3 and Qwen 3.8, and key research breakthroughs in agent architectures and transformer design.</description>
+      <itunes:summary>[Quality: Good] The script covers major AI acquisitions including Stripe buying OpenRouter and SpaceX acquiring Cursor, massive infrastructure moves from Nvidia and OpenAI, new model releases like GLM-5.3 and Qwen 3.8, and key research breakthroughs in agent architectures and transformer design.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260818_tldr_3.mp3" length="5912832" type="audio/mpeg"/>
+      <guid isPermaLink="false">306d4eaa4355d841c7e5507552ef7529</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
