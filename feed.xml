@@ -521,5 +521,32 @@
       <guid isPermaLink="false">980f7c741a3ad1e3b095216da2270007</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Canada Tariffs, Robot Games, and Meemers the Cat (1440)</title>
+      <pubDate>Mon, 24 Aug 2026 06:11:56 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers escalating US-Canada trade tariffs, new US sanctions on Iran following a cyberattack, a peace roadmap in the DRC, China&#x27;s humanoid robot games, and a $400 million TikTok COPPA settlement.</description>
+      <itunes:summary>[Quality: Good] The briefing covers escalating US-Canada trade tariffs, new US sanctions on Iran following a cyberattack, a peace roadmap in the DRC, China&#x27;s humanoid robot games, and a $400 million TikTok COPPA settlement.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260824_1440_1.mp3" length="1881984" type="audio/mpeg"/>
+      <guid isPermaLink="false">850d92d2994a7cbd53d707de0ac837fb</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Muse Video leaks 📹, Ramp Router launch 🔀, why Stripe bought OpenRouter 💰 (TLDR)</title>
+      <pubDate>Mon, 24 Aug 2026 06:13:52 +0000</pubDate>
+      <description>[Quality: Good] This update covers Meta&#x27;s closed beta release of Muse Video, Stripe&#x27;s acquisition of OpenRouter, Cursor&#x27;s new VM-isolated cloud agents, and Replit&#x27;s GPT-5.6-powered Free Mode.</description>
+      <itunes:summary>[Quality: Good] This update covers Meta&#x27;s closed beta release of Muse Video, Stripe&#x27;s acquisition of OpenRouter, Cursor&#x27;s new VM-isolated cloud agents, and Replit&#x27;s GPT-5.6-powered Free Mode.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260824_tldr_2.mp3" length="1788288" type="audio/mpeg"/>
+      <guid isPermaLink="false">ef91813eeea72694193cc00a228f1b17</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>GLM-5.3 API 🤖, Cerebras’ new chip ⚡, OpenAI cyber slowdown 🚨 (TLDR)</title>
+      <pubDate>Mon, 24 Aug 2026 06:15:39 +0000</pubDate>
+      <description>[Quality: Good] This digest covers Z.AI&#x27;s GLM-5.3 API launch, Cerebras&#x27;s unveiling of the CS-4 AI supercomputer, OpenAI&#x27;s pause on certain RL training due to cybersecurity risk signals, and Etched&#x27;s $700M funding round.</description>
+      <itunes:summary>[Quality: Good] This digest covers Z.AI&#x27;s GLM-5.3 API launch, Cerebras&#x27;s unveiling of the CS-4 AI supercomputer, OpenAI&#x27;s pause on certain RL training due to cybersecurity risk signals, and Etched&#x27;s $700M funding round.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260824_tldr_3.mp3" length="1830144" type="audio/mpeg"/>
+      <guid isPermaLink="false">c504a020aa952fff0a5ffc9cfaad5efc</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
