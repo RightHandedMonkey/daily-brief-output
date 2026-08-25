@@ -548,5 +548,32 @@
       <guid isPermaLink="false">c504a020aa952fff0a5ffc9cfaad5efc</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Hawk Fire, Plastic Cookies, and a Pro Soccer Toddler (1440)</title>
+      <pubDate>Tue, 25 Aug 2026 06:12:27 +0000</pubDate>
+      <description>[Quality: Good] This briefing covers expanded U.S. sanctions against Iran, mandatory evacuations from Nevada&#x27;s Hawk Fire, Taiwanese indictments regarding illegal AI server exports to China, and scientific updates on record ocean temperatures and plastic-to-protein conversion.</description>
+      <itunes:summary>[Quality: Good] This briefing covers expanded U.S. sanctions against Iran, mandatory evacuations from Nevada&#x27;s Hawk Fire, Taiwanese indictments regarding illegal AI server exports to China, and scientific updates on record ocean temperatures and plastic-to-protein conversion.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260825_1440_1.mp3" length="1964544" type="audio/mpeg"/>
+      <guid isPermaLink="false">374b98de46c784d45255a4a4fc0464bd</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Mon, Aug 24 (SCIENCE_X)</title>
+      <pubDate>Tue, 25 Aug 2026 06:15:20 +0000</pubDate>
+      <description>[Quality: Needs Review] The briefing highlights recent nanotechnology research, including biomolecular nanomachines for DNA material synthesis, a nanoparticle flu vaccine, light-energy trapping in twisted moiré lattices, graphene production from waste, and temperature-tunable micropillars for cell sorting.</description>
+      <itunes:summary>[Quality: Needs Review] The briefing highlights recent nanotechnology research, including biomolecular nanomachines for DNA material synthesis, a nanoparticle flu vaccine, light-energy trapping in twisted moiré lattices, graphene production from waste, and temperature-tunable micropillars for cell sorting.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260825_science_x_2.mp3" length="3748224" type="audio/mpeg"/>
+      <guid isPermaLink="false">897687ea89995e2098bbd533fede893f</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>DeepSeek Flash Vision 👀, Claude Mythos security 🛡️, inside Grok Bot 🤖 (TLDR)</title>
+      <pubDate>Tue, 25 Aug 2026 06:17:02 +0000</pubDate>
+      <description>[Quality: Good] The script highlights Hugging Face&#x27;s reported $13 billion valuation exploration and DeepSeek&#x27;s new multimodal Flash Vision model. It also covers Anthropic&#x27;s defensive Claude Mythos 5 rollout for code security and Grok Bot&#x27;s autonomous agent integration into tools like Cursor.</description>
+      <itunes:summary>[Quality: Good] The script highlights Hugging Face&#x27;s reported $13 billion valuation exploration and DeepSeek&#x27;s new multimodal Flash Vision model. It also covers Anthropic&#x27;s defensive Claude Mythos 5 rollout for code security and Grok Bot&#x27;s autonomous agent integration into tools like Cursor.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260825_tldr_3.mp3" length="1742976" type="audio/mpeg"/>
+      <guid isPermaLink="false">028bb47cb1820fa4fa6fce042358f208</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
