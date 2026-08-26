@@ -575,5 +575,32 @@
       <guid isPermaLink="false">028bb47cb1820fa4fa6fce042358f208</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Dolly Parton, Football CTE Risk, and Subway Riders (1440)</title>
+      <pubDate>Wed, 26 Aug 2026 06:12:19 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers the passing of music icon Dolly Parton, Canadian retaliatory tariffs on US goods, a study on CTE prevalence among former NFL players, measles deaths in Pennsylvania, and the CIA Director&#x27;s unannounced trip to Moscow.</description>
+      <itunes:summary>[Quality: Good] The briefing covers the passing of music icon Dolly Parton, Canadian retaliatory tariffs on US goods, a study on CTE prevalence among former NFL players, measles deaths in Pennsylvania, and the CIA Director&#x27;s unannounced trip to Moscow.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260826_1440_1.mp3" length="1745280" type="audio/mpeg"/>
+      <guid isPermaLink="false">4574236ffa152d6c606fb9c0c71787fa</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Tue, Aug 25 (SCIENCE_X)</title>
+      <pubDate>Wed, 26 Aug 2026 06:14:40 +0000</pubDate>
+      <description>[Quality: Good] The script covers bioinspired lipid nanoparticles for targeted hepatic gene editing, passive directional transport of magnetic skyrmions for spintronic computing, and predictive orbital traffic management for autonomous spacecraft formations.</description>
+      <itunes:summary>[Quality: Good] The script covers bioinspired lipid nanoparticles for targeted hepatic gene editing, passive directional transport of magnetic skyrmions for spintronic computing, and predictive orbital traffic management for autonomous spacecraft formations.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260826_science_x_2.mp3" length="2844672" type="audio/mpeg"/>
+      <guid isPermaLink="false">55770c09c411dc79e2af7ea7c7aff2cd</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Nvidia’s Groq chip ⚡, frontier economics 💰, Ox Alpha mystery 🕵️ (TLDR)</title>
+      <pubDate>Wed, 26 Aug 2026 06:16:23 +0000</pubDate>
+      <description>[Quality: Good] This digest covers major AI and hardware updates, including the release of Groq 3 LPX inference accelerators, Nvidia expanding CUDA support to RISC-V, the mysterious high-throughput Ox Alpha model, Anthropic hiring Amir Salek to design custom silicon, and Alibaba launching Wan 3.0 for video generation.</description>
+      <itunes:summary>[Quality: Good] This digest covers major AI and hardware updates, including the release of Groq 3 LPX inference accelerators, Nvidia expanding CUDA support to RISC-V, the mysterious high-throughput Ox Alpha model, Anthropic hiring Amir Salek to design custom silicon, and Alibaba launching Wan 3.0 for video generation.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260826_tldr_3.mp3" length="1765248" type="audio/mpeg"/>
+      <guid isPermaLink="false">346c11baa1f5d917a1baddbe56fca005</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
