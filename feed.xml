@@ -629,5 +629,32 @@
       <guid isPermaLink="false">ba8a1a30d66ed1c7e411f658dc1087f8</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Lindsay Clancy, Art Heist, and the Best of August (1440)</title>
+      <pubDate>Fri, 28 Aug 2026 06:11:51 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers the Lindsay Clancy murder trial, the death of Ratko Mladic, a major museum heist in Spain, and catastrophic flooding in Nepal. It also highlights SK Hynix&#x27;s new U.S. chip facility, a landmark autism genetics study, and market gains on Wall Street.</description>
+      <itunes:summary>[Quality: Good] The briefing covers the Lindsay Clancy murder trial, the death of Ratko Mladic, a major museum heist in Spain, and catastrophic flooding in Nepal. It also highlights SK Hynix&#x27;s new U.S. chip facility, a landmark autism genetics study, and market gains on Wall Street.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260828_1440_1.mp3" length="1858944" type="audio/mpeg"/>
+      <guid isPermaLink="false">d0f7a81d8b18ad18512260165fe6fa9e</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Thu, Aug 27 (SCIENCE_X)</title>
+      <pubDate>Fri, 28 Aug 2026 06:13:49 +0000</pubDate>
+      <description>[Quality: Good] The script covers massively parallel nanopore array fabrication using mechanical strain, closed-loop beam steering leveraging the optical Magnus effect for trapped-ion qubits, and whole-blood modeling of synthetic mRNA lipid nanoparticle uptake.</description>
+      <itunes:summary>[Quality: Good] The script covers massively parallel nanopore array fabrication using mechanical strain, closed-loop beam steering leveraging the optical Magnus effect for trapped-ion qubits, and whole-blood modeling of synthetic mRNA lipid nanoparticle uptake.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260828_science_x_2.mp3" length="1785984" type="audio/mpeg"/>
+      <guid isPermaLink="false">a87c7839b23a829ef867e329e385acee</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>GLM-5.3 Flash ⚡, Claudeforce 🤝, NVIDIA revenue surge 📈 (TLDR)</title>
+      <pubDate>Fri, 28 Aug 2026 06:15:24 +0000</pubDate>
+      <description>[Quality: Good] The script covers the unmasking of the efficient GLM-5.3-Flash model, surging AI hardware revenue and Anthropic&#x27;s multi-billion dollar chip deal, and new enterprise agent capabilities from Salesforce&#x27;s Claudeforce and OpenAI&#x27;s WebMCP support.</description>
+      <itunes:summary>[Quality: Good] The script covers the unmasking of the efficient GLM-5.3-Flash model, surging AI hardware revenue and Anthropic&#x27;s multi-billion dollar chip deal, and new enterprise agent capabilities from Salesforce&#x27;s Claudeforce and OpenAI&#x27;s WebMCP support.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260828_tldr_3.mp3" length="1906176" type="audio/mpeg"/>
+      <guid isPermaLink="false">c83a2c1886c3b85d755c901c3deab704</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
