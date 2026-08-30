@@ -692,5 +692,14 @@
       <guid isPermaLink="false">da237ccc49ae08d2a5dba2afd7a54ca0</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Science X Newsletter Wed, Aug 26 (SCIENCE_X)</title>
+      <pubDate>Sun, 30 Aug 2026 11:23:56 +0000</pubDate>
+      <description>[Quality: Good] The script covers bioengineered Nano-ERASER particles that transdifferentiate astrocytes into functional neurons to combat Alzheimer&#x27;s disease, single-transducer Bessel ultrasonic beams for long-range 3D acoustic levitation, and laser-cut dry-press stencils for patterning carbon nanotubes in soft robotics sensors.</description>
+      <itunes:summary>[Quality: Good] The script covers bioengineered Nano-ERASER particles that transdifferentiate astrocytes into functional neurons to combat Alzheimer&#x27;s disease, single-transducer Bessel ultrasonic beams for long-range 3D acoustic levitation, and laser-cut dry-press stencils for patterning carbon nanotubes in soft robotics sensors.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260830_science_x_1.mp3" length="1908864" type="audio/mpeg"/>
+      <guid isPermaLink="false">9e4a7e9fed3d6e6acbb82d887d330a94</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
