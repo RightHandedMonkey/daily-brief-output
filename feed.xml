@@ -710,5 +710,32 @@
       <guid isPermaLink="false">a66f57c91c7af5664eda87f72fb3c391</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>New Apple CEO, Grand Canyon Flooding, and a Bat Nightmare (1440)</title>
+      <pubDate>Tue, 01 Sep 2026 06:11:40 +0000</pubDate>
+      <description>[Quality: Good] The briefing reports on John Ternus succeeding Tim Cook as Apple CEO, search and rescue operations following Grand Canyon flash floods, an FTC antitrust lawsuit against Amazon, strict EU regulations placed on platforms like ChatGPT and Reddit, and Lionel Messi&#x27;s retirement from international soccer.</description>
+      <itunes:summary>[Quality: Good] The briefing reports on John Ternus succeeding Tim Cook as Apple CEO, search and rescue operations following Grand Canyon flash floods, an FTC antitrust lawsuit against Amazon, strict EU regulations placed on platforms like ChatGPT and Reddit, and Lionel Messi&#x27;s retirement from international soccer.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260901_1440_1.mp3" length="1824384" type="audio/mpeg"/>
+      <guid isPermaLink="false">972b17b3df9459c92df638a8836279a5</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Mon, Aug 31 (SCIENCE_X)</title>
+      <pubDate>Tue, 01 Sep 2026 06:13:20 +0000</pubDate>
+      <description>[Quality: Good] The script covers a high-speed 3D piezoelectric MEMS mirror for rapid laser focus adjustments, self-assembling peptide nanopores for single-molecule detection of neurodegenerative disease biomarkers, and the unexpected structural stability of peptides in concentrated sulfuric acid.</description>
+      <itunes:summary>[Quality: Good] The script covers a high-speed 3D piezoelectric MEMS mirror for rapid laser focus adjustments, self-assembling peptide nanopores for single-molecule detection of neurodegenerative disease biomarkers, and the unexpected structural stability of peptides in concentrated sulfuric acid.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260901_science_x_2.mp3" length="1963008" type="audio/mpeg"/>
+      <guid isPermaLink="false">1ecbceaf44248ac514ac2da6a42e3bff</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>OpenAI Cursor split 💔, self-improving AI 🧠, GPT-6 Astra 🚀 (TLDR)</title>
+      <pubDate>Tue, 01 Sep 2026 06:14:53 +0000</pubDate>
+      <description>[Quality: Good] The episode highlights OpenAI ending its partnership with Cursor after a SpaceX acquisition, Anthropic&#x27;s research on self-improving AI safety, and Nvidia&#x27;s Vera Rubin architecture focusing on data-orchestration CPUs.</description>
+      <itunes:summary>[Quality: Good] The episode highlights OpenAI ending its partnership with Cursor after a SpaceX acquisition, Anthropic&#x27;s research on self-improving AI safety, and Nvidia&#x27;s Vera Rubin architecture focusing on data-orchestration CPUs.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260901_tldr_3.mp3" length="1557120" type="audio/mpeg"/>
+      <guid isPermaLink="false">2ac4e152905c2c91cbea93c1911f5ab8</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
