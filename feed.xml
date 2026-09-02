@@ -737,5 +737,32 @@
       <guid isPermaLink="false">2ac4e152905c2c91cbea93c1911f5ab8</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Midterms Mail, Dark Matter, and the Loudest States (1440)</title>
+      <pubDate>Wed, 02 Sep 2026 06:11:30 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers concerns surrounding a federal mail-in ballot tracking system, Germany severing ties with Russia after airport drone threats, US military strikes in the Middle East, potential direct observation of dark matter, and a House-passed stopgap funding bill.</description>
+      <itunes:summary>[Quality: Good] The briefing covers concerns surrounding a federal mail-in ballot tracking system, Germany severing ties with Russia after airport drone threats, US military strikes in the Middle East, potential direct observation of dark matter, and a House-passed stopgap funding bill.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260902_1440_1.mp3" length="1744896" type="audio/mpeg"/>
+      <guid isPermaLink="false">89a5a7a0fff04565dcf31891b95ea32d</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Tue, Sep 1 (SCIENCE_X)</title>
+      <pubDate>Wed, 02 Sep 2026 06:13:20 +0000</pubDate>
+      <description>[Quality: Good] The script discusses research demonstrating that microwave heating accelerates tin oxide nanoparticle synthesis by increasing molecular collision frequency rather than lowering the activation barrier, alongside a breakthrough 10-channel monolithic photonic waveguide interface for neutral-atom quantum processors.</description>
+      <itunes:summary>[Quality: Good] The script discusses research demonstrating that microwave heating accelerates tin oxide nanoparticle synthesis by increasing molecular collision frequency rather than lowering the activation barrier, alongside a breakthrough 10-channel monolithic photonic waveguide interface for neutral-atom quantum processors.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260902_science_x_2.mp3" length="2139648" type="audio/mpeg"/>
+      <guid isPermaLink="false">3561c1e8e178890ce3c5344c35dfa054</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Muse Code 👨‍💻, Runway Solaris ☀️, OpenClaw 2.0 🤖 (TLDR)</title>
+      <pubDate>Wed, 02 Sep 2026 06:14:46 +0000</pubDate>
+      <description>[Quality: Good] The script covers major tech updates including Meta&#x27;s Muse Code CLI agent, Runway&#x27;s Solaris UI world model, OpenAI&#x27;s outcome-based pricing trials, Anthropic&#x27;s copyright lawsuit allegations, and the release of OpenClaw 2.0.</description>
+      <itunes:summary>[Quality: Good] The script covers major tech updates including Meta&#x27;s Muse Code CLI agent, Runway&#x27;s Solaris UI world model, OpenAI&#x27;s outcome-based pricing trials, Anthropic&#x27;s copyright lawsuit allegations, and the release of OpenClaw 2.0.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260902_tldr_3.mp3" length="1523328" type="audio/mpeg"/>
+      <guid isPermaLink="false">ada8ac4526b8a3e6c561a267199ddb50</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
