@@ -764,5 +764,32 @@
       <guid isPermaLink="false">ada8ac4526b8a3e6c561a267199ddb50</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Iran Strikes, Quantum Gravity, and the Keys to Romance (1440)</title>
+      <pubDate>Thu, 03 Sep 2026 06:11:57 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers escalated US-Iran military strikes, Meta&#x27;s smart glass privacy updates, and a federal antitrust ruling sparing Google from an ad tech breakup. It also details experimental confirmation of Einstein&#x27;s equivalence principle at the quantum scale and historic NBA penalties against the Los Angeles Clippers.</description>
+      <itunes:summary>[Quality: Good] The briefing covers escalated US-Iran military strikes, Meta&#x27;s smart glass privacy updates, and a federal antitrust ruling sparing Google from an ad tech breakup. It also details experimental confirmation of Einstein&#x27;s equivalence principle at the quantum scale and historic NBA penalties against the Los Angeles Clippers.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260903_1440_1.mp3" length="2092416" type="audio/mpeg"/>
+      <guid isPermaLink="false">c0c1bb70dd01636ecfba8f41c128c32b</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Wed, Sep 2 (SCIENCE_X)</title>
+      <pubDate>Thu, 03 Sep 2026 06:14:08 +0000</pubDate>
+      <description>[Quality: Good] The script covers three major scientific and engineering breakthroughs: using reinforcement learning with scanning probe microscopy to assemble molecular honeycomb lattices, deploying generative protein design to create the STV-C8 RNA transporter, and implementing the PACMAN AI framework for real-time plasma stability control in fusion tokamaks.</description>
+      <itunes:summary>[Quality: Good] The script covers three major scientific and engineering breakthroughs: using reinforcement learning with scanning probe microscopy to assemble molecular honeycomb lattices, deploying generative protein design to create the STV-C8 RNA transporter, and implementing the PACMAN AI framework for real-time plasma stability control in fusion tokamaks.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260903_science_x_2.mp3" length="2193408" type="audio/mpeg"/>
+      <guid isPermaLink="false">b83cf8594ffe40ab5791a52ed1c776c5</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Fable 5.1 🧠, World Labs Atlas 🌍, Cognition $47B 💰 (TLDR)</title>
+      <pubDate>Thu, 03 Sep 2026 06:16:05 +0000</pubDate>
+      <description>[Quality: Good] The briefing details Anthropic&#x27;s Claude 5.1 model releases, Cognition&#x27;s $1B funding round, and World Labs&#x27; Atlas spatial model. It also covers OpenAI&#x27;s autonomous cybersecurity model Astra and a cost-effective 44% ARC-AGI benchmark result achieved on consumer hardware.</description>
+      <itunes:summary>[Quality: Good] The briefing details Anthropic&#x27;s Claude 5.1 model releases, Cognition&#x27;s $1B funding round, and World Labs&#x27; Atlas spatial model. It also covers OpenAI&#x27;s autonomous cybersecurity model Astra and a cost-effective 44% ARC-AGI benchmark result achieved on consumer hardware.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260903_tldr_3.mp3" length="1694976" type="audio/mpeg"/>
+      <guid isPermaLink="false">2fd54db32facb437b5a21ea0a15dac37</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
