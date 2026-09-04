@@ -791,5 +791,32 @@
       <guid isPermaLink="false">2fd54db32facb437b5a21ea0a15dac37</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Gloria Steinem, College Football Kickoff, and Scromiting (1440)</title>
+      <pubDate>Fri, 04 Sep 2026 06:11:50 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers the passing of feminist icon Gloria Steinem, Nvidia&#x27;s acquisition of Hugging Face, and a global demographic milestone where seniors now outnumber young children. It also highlights the BepiColombo spacecraft&#x27;s arrival at Mercury and a Wall Street rally fueled by Federal Reserve interest rate remarks.</description>
+      <itunes:summary>[Quality: Good] The briefing covers the passing of feminist icon Gloria Steinem, Nvidia&#x27;s acquisition of Hugging Face, and a global demographic milestone where seniors now outnumber young children. It also highlights the BepiColombo spacecraft&#x27;s arrival at Mercury and a Wall Street rally fueled by Federal Reserve interest rate remarks.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260904_1440_1.mp3" length="1759488" type="audio/mpeg"/>
+      <guid isPermaLink="false">44a7a1f9702f20e577972ed6699cf0b0</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Thu, Sep 3 (SCIENCE_X)</title>
+      <pubDate>Fri, 04 Sep 2026 06:13:31 +0000</pubDate>
+      <description>[Quality: Good] The script reviews three recent scientific breakthroughs: a quantum control theory framework explaining avian navigation, switchable chiral graphene nanoribbon actuators, and an albumin-coated bacterial platform that reprograms myeloid cells to suppress tumor recurrence.</description>
+      <itunes:summary>[Quality: Good] The script reviews three recent scientific breakthroughs: a quantum control theory framework explaining avian navigation, switchable chiral graphene nanoribbon actuators, and an albumin-coated bacterial platform that reprograms myeloid cells to suppress tumor recurrence.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260904_science_x_2.mp3" length="2098176" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfe5ba7b7197d674e6e1e16e1243bb5f</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Muse Spark 1.3 ✨, Gemini 3.8 Flash ⚡, intelligence vs cost 📊 (TLDR)</title>
+      <pubDate>Fri, 04 Sep 2026 06:14:46 +0000</pubDate>
+      <description>[Quality: Good] Meta announced Muse Spark 1.3 featuring computer control capabilities, while Google released Gemini 3.8 Flash and a dedicated Flash Cyber vulnerability patching model. Additionally, Cursor introduced support for hosting and running cloud coding agents on private local machines.</description>
+      <itunes:summary>[Quality: Good] Meta announced Muse Spark 1.3 featuring computer control capabilities, while Google released Gemini 3.8 Flash and a dedicated Flash Cyber vulnerability patching model. Additionally, Cursor introduced support for hosting and running cloud coding agents on private local machines.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260904_tldr_3.mp3" length="1266816" type="audio/mpeg"/>
+      <guid isPermaLink="false">765fe8ab5457d6ef8c1b1c97aed66cc4</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
