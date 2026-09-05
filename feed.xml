@@ -818,5 +818,23 @@
       <guid isPermaLink="false">765fe8ab5457d6ef8c1b1c97aed66cc4</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Science X Newsletter Fri, Sep 4 (SCIENCE_X)</title>
+      <pubDate>Sat, 05 Sep 2026 06:11:45 +0000</pubDate>
+      <description>[Quality: Good] The script covers computational simplifications in aperiodic metasurface design via hidden Moiré symmetries, structural revisions to graphitic carbon nitride photocatalyst models, and experimental evidence for electron-correlation-driven superconductivity in magic-angle twisted bilayer graphene.</description>
+      <itunes:summary>[Quality: Good] The script covers computational simplifications in aperiodic metasurface design via hidden Moiré symmetries, structural revisions to graphitic carbon nitride photocatalyst models, and experimental evidence for electron-correlation-driven superconductivity in magic-angle twisted bilayer graphene.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260905_science_x_1.mp3" length="1926528" type="audio/mpeg"/>
+      <guid isPermaLink="false">9da0235e716e1a2580411d790f9ee88f</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>GPT-6 Astra 🚀, Grok Bot Enterprise 🤖, Runway world model 🌎 (TLDR)</title>
+      <pubDate>Sat, 05 Sep 2026 06:13:13 +0000</pubDate>
+      <description>[Quality: Good] The script covers OpenAI&#x27;s release of GPT-6 Astra and its cybersecurity evaluation, Nvidia&#x27;s $13 billion acquisition of Hugging Face, Microsoft&#x27;s launch of the MAI-Transcribe-2 speech model, and Runway&#x27;s Worlds 2 real-time generative environment model.</description>
+      <itunes:summary>[Quality: Good] The script covers OpenAI&#x27;s release of GPT-6 Astra and its cybersecurity evaluation, Nvidia&#x27;s $13 billion acquisition of Hugging Face, Microsoft&#x27;s launch of the MAI-Transcribe-2 speech model, and Runway&#x27;s Worlds 2 real-time generative environment model.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260905_tldr_2.mp3" length="1623936" type="audio/mpeg"/>
+      <guid isPermaLink="false">ee6179092cc8be6a967be7d02027824f</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
