@@ -872,5 +872,32 @@
       <guid isPermaLink="false">aa9f3ff2d48e5676df3f511f83b646e6</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Canada Tariffs, Ground Zero Air, and the Most Common Birthday (1440)</title>
+      <pubDate>Wed, 09 Sep 2026 06:12:06 +0000</pubDate>
+      <description>[Quality: Good] The briefing reports on Canada imposing retaliatory tariffs on American imports and New York City releasing previously undisclosed post-9/11 air quality records. It also covers an OpenAI milestone in fluid mechanics mathematics, an Iranian maritime drone seizure, and the theft of Renoir masterpieces in France.</description>
+      <itunes:summary>[Quality: Good] The briefing reports on Canada imposing retaliatory tariffs on American imports and New York City releasing previously undisclosed post-9/11 air quality records. It also covers an OpenAI milestone in fluid mechanics mathematics, an Iranian maritime drone seizure, and the theft of Renoir masterpieces in France.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260909_1440_1.mp3" length="2039424" type="audio/mpeg"/>
+      <guid isPermaLink="false">654e5da5623b43bd980dd6d3dd56f85d</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Tue, Sep 8 (SCIENCE_X)</title>
+      <pubDate>Wed, 09 Sep 2026 06:14:08 +0000</pubDate>
+      <description>[Quality: Good] The briefing highlights three advances in nanoscale hardware and quantum systems: dysprosium single-molecule magnets for ultra-dense memory, negatively curved nanographenes as flexible chassis for molecular robotics, and superfluid helium-three qubits designed to eliminate electrical noise.</description>
+      <itunes:summary>[Quality: Good] The briefing highlights three advances in nanoscale hardware and quantum systems: dysprosium single-molecule magnets for ultra-dense memory, negatively curved nanographenes as flexible chassis for molecular robotics, and superfluid helium-three qubits designed to eliminate electrical noise.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260909_science_x_2.mp3" length="2373888" type="audio/mpeg"/>
+      <guid isPermaLink="false">4519a1c7684e08df6e6e83bf59331870</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>OpenAI managed agents 🤖, TPU inference ⚡, Anthropic $517B compute 💰 (TLDR)</title>
+      <pubDate>Wed, 09 Sep 2026 06:15:51 +0000</pubDate>
+      <description>[Quality: Good] The script covers Anthropic&#x27;s major compute agreements and IPO filing, OpenAI&#x27;s upcoming Managed Agents, Google&#x27;s TPU v7 Ironwood chips for external workloads, and research on prompt injection risks in agent tool outputs.</description>
+      <itunes:summary>[Quality: Good] The script covers Anthropic&#x27;s major compute agreements and IPO filing, OpenAI&#x27;s upcoming Managed Agents, Google&#x27;s TPU v7 Ironwood chips for external workloads, and research on prompt injection risks in agent tool outputs.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260909_tldr_3.mp3" length="1667328" type="audio/mpeg"/>
+      <guid isPermaLink="false">48de11a1c39b0a5ae1e9de2d4b904f95</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
