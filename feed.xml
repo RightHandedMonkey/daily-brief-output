@@ -971,5 +971,14 @@
       <guid isPermaLink="false">178422d826b21ee60ce28b856319bc68</guid>
       <itunes:duration>152</itunes:duration>
     </item>
+      <item>
+      <title>Agents API 🤖, Cognition SWE-2 👨‍💻, Muse Shared Agents 🧑‍🤝‍🧑 (TLDR)</title>
+      <pubDate>Fri, 11 Sep 2026 11:19:48 +0000</pubDate>
+      <description>[Quality: Good] The episode covers OpenAI&#x27;s launch of the Agents API and GPT-Live-1 full-duplex speech model, Cognition&#x27;s SWE-2 release amid OpenAI capacity constraints, and research on training manipulation robots using web video.</description>
+      <itunes:summary>[Quality: Good] The episode covers OpenAI&#x27;s launch of the Agents API and GPT-Live-1 full-duplex speech model, Cognition&#x27;s SWE-2 release amid OpenAI capacity constraints, and research on training manipulation robots using web video.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260911_tldr_1.mp3" length="2375926" type="audio/mpeg"/>
+      <guid isPermaLink="false">0e5e4ac71939403a143be7ade22ccfbd</guid>
+      <itunes:duration>148</itunes:duration>
+    </item>
   </channel>
 </rss>
