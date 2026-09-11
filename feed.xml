@@ -962,5 +962,14 @@
       <guid isPermaLink="false">87fea6ec21013796c754a490c1bd9086</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Agents API 🤖, Cognition SWE-2 👨‍💻, Muse Shared Agents 🧑‍🤝‍🧑 (TLDR)</title>
+      <pubDate>Fri, 11 Sep 2026 10:20:10 +0000</pubDate>
+      <description>[Quality: Good] The script covers recent AI developments, including OpenAI&#x27;s launch of their Agents API and GPT-Live-1, high demand causing subscription freezes for the Astra model, Cognition&#x27;s SWE-2 release, and Meta&#x27;s upcoming Shared Agents for Muse.</description>
+      <itunes:summary>[Quality: Good] The script covers recent AI developments, including OpenAI&#x27;s launch of their Agents API and GPT-Live-1, high demand causing subscription freezes for the Astra model, Cognition&#x27;s SWE-2 release, and Meta&#x27;s upcoming Shared Agents for Muse.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260911_tldr_1.mp3" length="2424694" type="audio/mpeg"/>
+      <guid isPermaLink="false">178422d826b21ee60ce28b856319bc68</guid>
+      <itunes:duration>152</itunes:duration>
+    </item>
   </channel>
 </rss>
