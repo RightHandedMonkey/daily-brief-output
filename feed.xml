@@ -926,5 +926,32 @@
       <guid isPermaLink="false">f9a08e928e5b72626fc18327406d678e</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>9/11 Anniversary, Record Heat, and Venus&#x27; Moon (1440)</title>
+      <pubDate>Fri, 11 Sep 2026 06:12:17 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers commemorations marking the 25th anniversary of the September 11 attacks, record-tying global temperatures in August, and Houthi forces seizing the Red Sea port city of Mokha. It also highlights climbing oil and wholesale prices ahead of the Federal Reserve&#x27;s rate decision, as well as Anthropic intercepting foreign efforts to weaponize frontier AI models.</description>
+      <itunes:summary>[Quality: Good] The briefing covers commemorations marking the 25th anniversary of the September 11 attacks, record-tying global temperatures in August, and Houthi forces seizing the Red Sea port city of Mokha. It also highlights climbing oil and wholesale prices ahead of the Federal Reserve&#x27;s rate decision, as well as Anthropic intercepting foreign efforts to weaponize frontier AI models.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260911_1440_1.mp3" length="1982592" type="audio/mpeg"/>
+      <guid isPermaLink="false">2251bd1747be13a4442e2cc3ebce582f</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Thu, Sep 10 (SCIENCE_X)</title>
+      <pubDate>Fri, 11 Sep 2026 06:17:47 +0000</pubDate>
+      <description>[Quality: Good] Category: Nanotechnology news Title: Electrical fingerprint on tiny cell particles could offer new way to spot pancreatic cancer signals Summary: Mutant KRAS increased secretion of extracellular vesicles with stronger negative charge in pancreatic cancer cells, partly due to surface DNA and other materials. Microfluidic electrophoresis enriched these vesicles in pancreatic cancer serum samples, distinguishing signals masked in bulk measurements and supporting charge-based EV sorting as a potential diagnostic approach.</description>
+      <itunes:summary>[Quality: Good] Category: Nanotechnology news Title: Electrical fingerprint on tiny cell particles could offer new way to spot pancreatic cancer signals Summary: Mutant KRAS increased secretion of extracellular vesicles with stronger negative charge in pancreatic cancer cells, partly due to surface DNA and other materials. Microfluidic electrophoresis enriched these vesicles in pancreatic cancer serum samples, distinguishing signals masked in bulk measurements and supporting charge-based EV sorting as a potential diagnostic approach.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260911_science_x_2.mp3" length="3196032" type="audio/mpeg"/>
+      <guid isPermaLink="false">fafc8a7fe97d5f91273d7e87c39d718b</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
+      <item>
+      <title>DeepSeek Flash v4.1 🤖, Siri AI 📱, Anthropic AI economics 📈 (TLDR)</title>
+      <pubDate>Fri, 11 Sep 2026 06:19:49 +0000</pubDate>
+      <description>[Quality: Good] This script covers Apple&#x27;s restricted beta rollout of Siri AI, architectural efficiency advancements from DeepSeek and OpenAI, and Anthropic&#x27;s economic analysis projecting wage stagnation for knowledge workers.</description>
+      <itunes:summary>[Quality: Good] This script covers Apple&#x27;s restricted beta rollout of Siri AI, architectural efficiency advancements from DeepSeek and OpenAI, and Anthropic&#x27;s economic analysis projecting wage stagnation for knowledge workers.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260911_tldr_3.mp3" length="1542144" type="audio/mpeg"/>
+      <guid isPermaLink="false">7d586991dd75740d0a9e45de9b081a21</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
