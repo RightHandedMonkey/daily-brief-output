@@ -953,5 +953,14 @@
       <guid isPermaLink="false">7d586991dd75740d0a9e45de9b081a21</guid>
       <itunes:duration>180</itunes:duration>
     </item>
+      <item>
+      <title>Science X Newsletter Thu, Sep 10 (SCIENCE_X)</title>
+      <pubDate>Fri, 11 Sep 2026 10:04:19 +0000</pubDate>
+      <description>[Quality: Good] The briefing details four major breakthroughs: magnetically driven nanoantennas for treating drug-resistant glioblastoma, single-cycle Floquet control for quantum error mitigation, chip-scale quantum atom interferometers for GPS-denied navigation, and microfluidic vesicle sorting for early pancreatic cancer diagnostics.</description>
+      <itunes:summary>[Quality: Good] The briefing details four major breakthroughs: magnetically driven nanoantennas for treating drug-resistant glioblastoma, single-cycle Floquet control for quantum error mitigation, chip-scale quantum atom interferometers for GPS-denied navigation, and microfluidic vesicle sorting for early pancreatic cancer diagnostics.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260911_science_x_1.mp3" length="2978304" type="audio/mpeg"/>
+      <guid isPermaLink="false">87fea6ec21013796c754a490c1bd9086</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
