@@ -648,5 +648,23 @@
       <guid isPermaLink="false">bc5d47df1b5aeb7e1637bd0a8ca378b2</guid>
       <itunes:duration>148</itunes:duration>
     </item>
+      <item>
+      <title>Night Light Risks, 9/11 Intel, and America&#x27;s Favorite Sport (1440)</title>
+      <pubDate>Sat, 12 Sep 2026 06:13:24 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers Middle East energy disruptions and rising US fuel prices, declassified CIA intelligence briefs detailing pre-9/11 warnings, a medical study linking nighttime light exposure to cardiovascular disease, and the first deportation under the 1996 Alien Terrorist Removal Court.</description>
+      <itunes:summary>[Quality: Good] The briefing covers Middle East energy disruptions and rising US fuel prices, declassified CIA intelligence briefs detailing pre-9/11 warnings, a medical study linking nighttime light exposure to cardiovascular disease, and the first deportation under the 1996 Alien Terrorist Removal Court.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260912_1440_1.mp3" length="2792950" type="audio/mpeg"/>
+      <guid isPermaLink="false">3ed38a8e8269217c4126299875bf165f</guid>
+      <itunes:duration>175</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Fri, Sep 11 (SCIENCE_X)</title>
+      <pubDate>Sat, 12 Sep 2026 06:17:40 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers three major scientific breakthroughs: dual-channel nanoscale optical multiplexing using molybdenum oxychloride nanodisks, the GraphED framework for discovering interpretable physical laws from solid-mechanics data, and an open lunar foundation model for autonomous rover perception.</description>
+      <itunes:summary>[Quality: Good] The briefing covers three major scientific breakthroughs: dual-channel nanoscale optical multiplexing using molybdenum oxychloride nanodisks, the GraphED framework for discovering interpretable physical laws from solid-mechanics data, and an open lunar foundation model for autonomous rover perception.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260912_science_x_2.mp3" length="3271035" type="audio/mpeg"/>
+      <guid isPermaLink="false">86a367d3fe35e26d929e6bb863de90ca</guid>
+      <itunes:duration>204</itunes:duration>
+    </item>
   </channel>
 </rss>
