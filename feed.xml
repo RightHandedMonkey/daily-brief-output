@@ -10,15 +10,6 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
       <item>
-      <title>USS Lincoln, Cambridge Death, and Detectives in Space (1440)</title>
-      <pubDate>Mon, 17 Aug 2026 06:13:46 +0000</pubDate>
-      <description>[Quality: Good] This briefing covers living condition inquiries aboard the USS Abraham Lincoln, severe weather in Indiana and Hawaii, major geopolitical and domestic news, and notable updates across business, AI research, public health, and sports.</description>
-      <itunes:summary>[Quality: Good] This briefing covers living condition inquiries aboard the USS Abraham Lincoln, severe weather in Indiana and Hawaii, major geopolitical and domestic news, and notable updates across business, AI research, public health, and sports.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260817_1440_1.mp3" length="5289216" type="audio/mpeg"/>
-      <guid isPermaLink="false">187431bfca891212b8f2534903831f64</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Trillion-Dollar Trial, Airborne Radiation, and a Strava Hamster (1440)</title>
       <pubDate>Tue, 18 Aug 2026 06:13:36 +0000</pubDate>
       <description>[Quality: Good] This briefing covers major developments including a landmark youth safety trial against Meta, a deadly Ebola outbreak in the DRC, and surging AI infrastructure investments alongside market movements. It also touches on Middle East geopolitical tensions, aircrew radiation health findings, and notable updates in sports and culture.</description>
@@ -683,6 +674,33 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260915_tldr_3.mp3" length="2417398" type="audio/mpeg"/>
       <guid isPermaLink="false">724f9a310062482f67dabe9a4abc8dd9</guid>
       <itunes:duration>151</itunes:duration>
+    </item>
+      <item>
+      <title>Space Weapons, Treasury Yields, and a Trapped Raccoon (1440)</title>
+      <pubDate>Wed, 16 Sep 2026 06:12:59 +0000</pubDate>
+      <description>[Quality: Good] This briefing reports on the US government&#x27;s acknowledgment of deployed orbital space weapons, spiking Treasury yields and crude oil prices ahead of an anticipated Federal Reserve rate hike, and the closure of the Kennedy Center amid a renovation dispute. It also details escalating European security tensions involving NATO airspace incidents and the disruption of a domestic terror plot in Pennsylvania.</description>
+      <itunes:summary>[Quality: Good] This briefing reports on the US government&#x27;s acknowledgment of deployed orbital space weapons, spiking Treasury yields and crude oil prices ahead of an anticipated Federal Reserve rate hike, and the closure of the Kennedy Center amid a renovation dispute. It also details escalating European security tensions involving NATO airspace incidents and the disruption of a domestic terror plot in Pennsylvania.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260916_1440_1.mp3" length="2806774" type="audio/mpeg"/>
+      <guid isPermaLink="false">72475f47d106159a465e785ee666c7dc</guid>
+      <itunes:duration>175</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Tue, Sep 15 (SCIENCE_X)</title>
+      <pubDate>Wed, 16 Sep 2026 06:16:25 +0000</pubDate>
+      <description>[Quality: Good] The briefing details advances in programmable physical matter, including room-temperature skyrmion neuromorphic matrix multiplication, biocompatible polymer nanobots targeting Helicobacter pylori, hybrid magnonic interconnects for quantum computing, and directional light steering using disordered atoms in optical fibers.</description>
+      <itunes:summary>[Quality: Good] The briefing details advances in programmable physical matter, including room-temperature skyrmion neuromorphic matrix multiplication, biocompatible polymer nanobots targeting Helicobacter pylori, hybrid magnonic interconnects for quantum computing, and directional light steering using disordered atoms in optical fibers.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260916_science_x_2.mp3" length="2955003" type="audio/mpeg"/>
+      <guid isPermaLink="false">75c29a7bb0d06b94d0a47271a19ea08e</guid>
+      <itunes:duration>185</itunes:duration>
+    </item>
+      <item>
+      <title>chmod 777 wallet: Claude Gets Direct Bank Access (Goodbye Rent) (TLDR)</title>
+      <pubDate>Wed, 16 Sep 2026 06:18:54 +0000</pubDate>
+      <description>[Quality: Good] The episode reviews Apple&#x27;s unannounced Siri model delegation framework in iOS 27, Anthropic&#x27;s planned Claude Money bank integration, OpenAI&#x27;s acquisition of camera startup Glass Imaging, and tech leaders lobbying for AI safety regulations.</description>
+      <itunes:summary>[Quality: Good] The episode reviews Apple&#x27;s unannounced Siri model delegation framework in iOS 27, Anthropic&#x27;s planned Claude Money bank integration, OpenAI&#x27;s acquisition of camera startup Glass Imaging, and tech leaders lobbying for AI safety regulations.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260916_tldr_3.mp3" length="2335990" type="audio/mpeg"/>
+      <guid isPermaLink="false">374be9e7eb0db8f74709492090737915</guid>
+      <itunes:duration>146</itunes:duration>
     </item>
   </channel>
 </rss>
