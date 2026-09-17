@@ -10,33 +10,6 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
       <item>
-      <title>Trillion-Dollar Trial, Airborne Radiation, and a Strava Hamster (1440)</title>
-      <pubDate>Tue, 18 Aug 2026 06:13:36 +0000</pubDate>
-      <description>[Quality: Good] This briefing covers major developments including a landmark youth safety trial against Meta, a deadly Ebola outbreak in the DRC, and surging AI infrastructure investments alongside market movements. It also touches on Middle East geopolitical tensions, aircrew radiation health findings, and notable updates in sports and culture.</description>
-      <itunes:summary>[Quality: Good] This briefing covers major developments including a landmark youth safety trial against Meta, a deadly Ebola outbreak in the DRC, and surging AI infrastructure investments alongside market movements. It also touches on Middle East geopolitical tensions, aircrew radiation health findings, and notable updates in sports and culture.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260818_1440_1.mp3" length="4920192" type="audio/mpeg"/>
-      <guid isPermaLink="false">bc3ab8097266236426c29349fd612dd0</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Mon, Aug 17 (SCIENCE_X)</title>
-      <pubDate>Tue, 18 Aug 2026 06:18:31 +0000</pubDate>
-      <description>[Quality: Good] The script highlights breakthroughs across five technical domains, covering engineered ferritin nanocages for Alzheimer&#x27;s plaques, stress-dispersing active matter in glasses, NASA&#x27;s autonomous CADRE lunar rover swarm, spontaneous consensus in large-scale LLM multi-agent networks, and molecular dynamics simulations of radiation damage in fusion reactor materials.</description>
-      <itunes:summary>[Quality: Good] The script highlights breakthroughs across five technical domains, covering engineered ferritin nanocages for Alzheimer&#x27;s plaques, stress-dispersing active matter in glasses, NASA&#x27;s autonomous CADRE lunar rover swarm, spontaneous consensus in large-scale LLM multi-agent networks, and molecular dynamics simulations of radiation damage in fusion reactor materials.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260818_science_x_2.mp3" length="7967232" type="audio/mpeg"/>
-      <guid isPermaLink="false">c4790f7a023650f49cd12b62f17df60a</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>GLM-5.3 🤖, Stripe OpenRouter deal 💰, AI agent consensus 🤝 (TLDR)</title>
-      <pubDate>Tue, 18 Aug 2026 06:25:07 +0000</pubDate>
-      <description>[Quality: Good] The script covers major AI acquisitions including Stripe buying OpenRouter and SpaceX acquiring Cursor, massive infrastructure moves from Nvidia and OpenAI, new model releases like GLM-5.3 and Qwen 3.8, and key research breakthroughs in agent architectures and transformer design.</description>
-      <itunes:summary>[Quality: Good] The script covers major AI acquisitions including Stripe buying OpenRouter and SpaceX acquiring Cursor, massive infrastructure moves from Nvidia and OpenAI, new model releases like GLM-5.3 and Qwen 3.8, and key research breakthroughs in agent architectures and transformer design.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260818_tldr_3.mp3" length="5912832" type="audio/mpeg"/>
-      <guid isPermaLink="false">306d4eaa4355d841c7e5507552ef7529</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Ukraine, Penn State Drug Ring, and a Mouth-Birthing Frog (1440)</title>
       <pubDate>Wed, 19 Aug 2026 06:11:39 +0000</pubDate>
       <description>[Quality: Good] The briefing covers major military escalations between Ukraine and Russia, a First Amendment lawsuit filed by Disney and ABC against the FCC, and a narcotics ring bust at Penn State. It also reports on market declines in AI and semiconductor stocks, Google&#x27;s acquisition of Spirit Airlines data for AI training, and OpenAI&#x27;s new teen-focused chatbot.</description>
@@ -701,6 +674,33 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260916_tldr_3.mp3" length="2335990" type="audio/mpeg"/>
       <guid isPermaLink="false">374be9e7eb0db8f74709492090737915</guid>
       <itunes:duration>146</itunes:duration>
+    </item>
+      <item>
+      <title>Fed Rate, Human-Mouse Brains, and Toy Hall of Fame (1440)</title>
+      <pubDate>Thu, 17 Sep 2026 06:12:19 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers the Federal Reserve&#x27;s benchmark interest rate hike, the European Union&#x27;s associate membership offer to Canada, the House of Representatives&#x27; adjournment preempting an impeachment vote, and Stanford research on human brain tissue transplants in mice.</description>
+      <itunes:summary>[Quality: Good] The briefing covers the Federal Reserve&#x27;s benchmark interest rate hike, the European Union&#x27;s associate membership offer to Canada, the House of Representatives&#x27; adjournment preempting an impeachment vote, and Stanford research on human brain tissue transplants in mice.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260917_1440_1.mp3" length="2752246" type="audio/mpeg"/>
+      <guid isPermaLink="false">882717ce5b5aa0b3f80ecadb4df10f2f</guid>
+      <itunes:duration>172</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Wed, Sep 16 (SCIENCE_X)</title>
+      <pubDate>Thu, 17 Sep 2026 06:15:35 +0000</pubDate>
+      <description>[Quality: Good] The briefing explores advances in programmable matter and nanorobotics, focusing on light-driven microswimmers with switchable propulsion, real-time tracking of self-assembling viral capsids, and silicon nitride membranes enabling nanoscale infrared imaging in liquids.</description>
+      <itunes:summary>[Quality: Good] The briefing explores advances in programmable matter and nanorobotics, focusing on light-driven microswimmers with switchable propulsion, real-time tracking of self-assembling viral capsids, and silicon nitride membranes enabling nanoscale infrared imaging in liquids.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260917_science_x_2.mp3" length="3163515" type="audio/mpeg"/>
+      <guid isPermaLink="false">7e9e385720245e97391aaacd1b8d4332</guid>
+      <itunes:duration>198</itunes:duration>
+    </item>
+      <item>
+      <title>git push --force: Autonomous Agents Get Live Credit Cards (RIP Company Budget) (TLDR)</title>
+      <pubDate>Thu, 17 Sep 2026 06:18:07 +0000</pubDate>
+      <description>[Quality: Good] The episode covers Jev&#x27;s fast System 1 reflex models, Odyssey-3&#x27;s physical foundation world model for robotics, and autonomous agents paying web paywalls via the x402 protocol. It also reviews Periodic Neon outperforming frontier AI in laboratory materials science.</description>
+      <itunes:summary>[Quality: Good] The episode covers Jev&#x27;s fast System 1 reflex models, Odyssey-3&#x27;s physical foundation world model for robotics, and autonomous agents paying web paywalls via the x402 protocol. It also reviews Periodic Neon outperforming frontier AI in laboratory materials science.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260917_tldr_3.mp3" length="2435446" type="audio/mpeg"/>
+      <guid isPermaLink="false">99fae361255d75ece40f4033a1c3965a</guid>
+      <itunes:duration>152</itunes:duration>
     </item>
   </channel>
 </rss>
