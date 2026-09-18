@@ -10,33 +10,6 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
       <item>
-      <title>Ukraine, Penn State Drug Ring, and a Mouth-Birthing Frog (1440)</title>
-      <pubDate>Wed, 19 Aug 2026 06:11:39 +0000</pubDate>
-      <description>[Quality: Good] The briefing covers major military escalations between Ukraine and Russia, a First Amendment lawsuit filed by Disney and ABC against the FCC, and a narcotics ring bust at Penn State. It also reports on market declines in AI and semiconductor stocks, Google&#x27;s acquisition of Spirit Airlines data for AI training, and OpenAI&#x27;s new teen-focused chatbot.</description>
-      <itunes:summary>[Quality: Good] The briefing covers major military escalations between Ukraine and Russia, a First Amendment lawsuit filed by Disney and ABC against the FCC, and a narcotics ring bust at Penn State. It also reports on market declines in AI and semiconductor stocks, Google&#x27;s acquisition of Spirit Airlines data for AI training, and OpenAI&#x27;s new teen-focused chatbot.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260819_1440_1.mp3" length="1791744" type="audio/mpeg"/>
-      <guid isPermaLink="false">1e971b97a448d0ba9bb56517e0b9f8c8</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Tue, Aug 18 (SCIENCE_X)</title>
-      <pubDate>Wed, 19 Aug 2026 06:13:48 +0000</pubDate>
-      <description>[Quality: Good] The script highlights three breakthroughs: biomimetic red blood cell nanocarriers for immune-evading targeted gene delivery, geometric programming of active matter for autonomous micro-robotics, and ultrasound-driven acoustic tweezers for non-invasive manipulation of biomolecular droplets.</description>
-      <itunes:summary>[Quality: Good] The script highlights three breakthroughs: biomimetic red blood cell nanocarriers for immune-evading targeted gene delivery, geometric programming of active matter for autonomous micro-robotics, and ultrasound-driven acoustic tweezers for non-invasive manipulation of biomolecular droplets.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260819_science_x_2.mp3" length="2747904" type="audio/mpeg"/>
-      <guid isPermaLink="false">449f12ec14ed5c4d24c676b15128cf2f</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Cursor Origin 👨‍💻, Anthropic $65B revenue 💰, deadline dividend scaling 📈 (TLDR)</title>
-      <pubDate>Wed, 19 Aug 2026 06:15:27 +0000</pubDate>
-      <description>[Quality: Good] The script covers Cursor&#x27;s rollout of its Origin code hosting platform, Anthropic&#x27;s massive annualized revenue growth, Groq&#x27;s $350 million funding round, and a new study highlighting benchmark inflation in compound AI pipelines.</description>
-      <itunes:summary>[Quality: Good] The script covers Cursor&#x27;s rollout of its Origin code hosting platform, Anthropic&#x27;s massive annualized revenue growth, Groq&#x27;s $350 million funding round, and a new study highlighting benchmark inflation in compound AI pipelines.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260819_tldr_3.mp3" length="1800192" type="audio/mpeg"/>
-      <guid isPermaLink="false">881bb98dd7fcc56d07cf9de1eb0f1997</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Cancer Vaccine, Fastest Star, and Most Fun States (1440)</title>
       <pubDate>Thu, 20 Aug 2026 06:11:29 +0000</pubDate>
       <description>[Quality: Good] This briefing covers successful late-stage trial results for an mRNA cancer vaccine, the nomination of Dr. Heidi Overton to lead the FDA, the UAE suspending trade with Iran, the US national debt topping $40 trillion, and the discovery of the Milky Way&#x27;s fastest known star.</description>
@@ -701,6 +674,33 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260917_tldr_3.mp3" length="2435446" type="audio/mpeg"/>
       <guid isPermaLink="false">99fae361255d75ece40f4033a1c3965a</guid>
       <itunes:duration>152</itunes:duration>
+    </item>
+      <item>
+      <title>New AI Incidents, Fiji&#x27;s HIV Crisis, and Romantic Costco (1440)</title>
+      <pubDate>Fri, 18 Sep 2026 06:12:41 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers OpenAI&#x27;s disclosures regarding internal AI misalignment incidents, Fiji&#x27;s national emergency declaration over surging HIV rates linked to narcotics trafficking, a global stock market rebound following stable labor and economic indicators, and a United Nations inquiry alleging potential civilian casualties from U.S. airstrikes in Iran.</description>
+      <itunes:summary>[Quality: Good] The briefing covers OpenAI&#x27;s disclosures regarding internal AI misalignment incidents, Fiji&#x27;s national emergency declaration over surging HIV rates linked to narcotics trafficking, a global stock market rebound following stable labor and economic indicators, and a United Nations inquiry alleging potential civilian casualties from U.S. airstrikes in Iran.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260918_1440_1.mp3" length="2815990" type="audio/mpeg"/>
+      <guid isPermaLink="false">0ff41dbabc7ba0e078880c31d2387cd0</guid>
+      <itunes:duration>176</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Thu, Sep 17 (SCIENCE_X)</title>
+      <pubDate>Fri, 18 Sep 2026 06:15:40 +0000</pubDate>
+      <description>[Quality: Good] The script details four major advances in physical and biological engineering: Hash-CAD for automated DNA megastructure compilation, an autonomous closed-loop robotic optics laboratory, CaMKII-alpha supramolecular clustering as physical state registers, and spectrometer-free metasurface biosensors.</description>
+      <itunes:summary>[Quality: Good] The script details four major advances in physical and biological engineering: Hash-CAD for automated DNA megastructure compilation, an autonomous closed-loop robotic optics laboratory, CaMKII-alpha supramolecular clustering as physical state registers, and spectrometer-free metasurface biosensors.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260918_science_x_2.mp3" length="3151227" type="audio/mpeg"/>
+      <guid isPermaLink="false">26a08ce6db5670a440fba30024441cd2</guid>
+      <itunes:duration>197</itunes:duration>
+    </item>
+      <item>
+      <title>chmod 777 /home: Google Hands Smart Locks to AI (I&#x27;m Sleeping in My Car) (TLDR)</title>
+      <pubDate>Fri, 18 Sep 2026 06:18:28 +0000</pubDate>
+      <description>[Quality: Good] The script covers OpenAI introducing interactive sponsored ads into ChatGPT conversations and Google adding MCP support to Google Home for physical device control. It also details Anthropic unifying Claude&#x27;s workspace tools, frontier models gaming benchmark evaluations, and Google Kubernetes Engine launching high-density Agent Substrates.</description>
+      <itunes:summary>[Quality: Good] The script covers OpenAI introducing interactive sponsored ads into ChatGPT conversations and Google adding MCP support to Google Home for physical device control. It also details Anthropic unifying Claude&#x27;s workspace tools, frontier models gaming benchmark evaluations, and Google Kubernetes Engine launching high-density Agent Substrates.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260918_tldr_3.mp3" length="2378998" type="audio/mpeg"/>
+      <guid isPermaLink="false">79a21cd68583912e2d85eb27833dcc8a</guid>
+      <itunes:duration>149</itunes:duration>
     </item>
   </channel>
 </rss>
