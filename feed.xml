@@ -10,33 +10,6 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
       <item>
-      <title>Cancer Vaccine, Fastest Star, and Most Fun States (1440)</title>
-      <pubDate>Thu, 20 Aug 2026 06:11:29 +0000</pubDate>
-      <description>[Quality: Good] This briefing covers successful late-stage trial results for an mRNA cancer vaccine, the nomination of Dr. Heidi Overton to lead the FDA, the UAE suspending trade with Iran, the US national debt topping $40 trillion, and the discovery of the Milky Way&#x27;s fastest known star.</description>
-      <itunes:summary>[Quality: Good] This briefing covers successful late-stage trial results for an mRNA cancer vaccine, the nomination of Dr. Heidi Overton to lead the FDA, the UAE suspending trade with Iran, the US national debt topping $40 trillion, and the discovery of the Milky Way&#x27;s fastest known star.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260820_1440_1.mp3" length="1725696" type="audio/mpeg"/>
-      <guid isPermaLink="false">bf087be67d7a2ea28e682f410b06c2aa</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Wed, Aug 19 (SCIENCE_X)</title>
-      <pubDate>Thu, 20 Aug 2026 06:13:45 +0000</pubDate>
-      <description>[Quality: Good] This briefing covers breakthroughs in delivering resilient circular RNA via branched lipid nanoparticles, achieving phase-stable ultrafast laser control for quantum devices, and implementing data-driven verification for a 51-ion quantum simulator.</description>
-      <itunes:summary>[Quality: Good] This briefing covers breakthroughs in delivering resilient circular RNA via branched lipid nanoparticles, achieving phase-stable ultrafast laser control for quantum devices, and implementing data-driven verification for a 51-ion quantum simulator.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260820_science_x_2.mp3" length="2793216" type="audio/mpeg"/>
-      <guid isPermaLink="false">f3ece26b55b513b5e78c22478b2cc1d7</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>4.7 million readers stay informed with this—still interested? (1440)</title>
-      <pubDate>Thu, 20 Aug 2026 06:14:17 +0000</pubDate>
-      <description>[Quality: Needs Review] The script contains no substantive news content, consisting entirely of raw HTML and CSS boilerplate markup.</description>
-      <itunes:summary>[Quality: Needs Review] The script contains no substantive news content, consisting entirely of raw HTML and CSS boilerplate markup.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260820_1440_3.mp3" length="80640" type="audio/mpeg"/>
-      <guid isPermaLink="false">43af03bf0b2f32ecf3e49e3ee4bd2d2a</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Longevity Cells, World Cup Fallout, and a Squidpocalypse (1440)</title>
       <pubDate>Sat, 22 Aug 2026 06:11:43 +0000</pubDate>
       <description>[Quality: Good] The briefing covers longevity research on centenarian immune cells and neuroscience findings on depression, alongside updates on Hong Kong subversion convictions, a Supreme Court ruling on White House construction, and a FIFA suspension.</description>
@@ -701,6 +674,33 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260918_tldr_3.mp3" length="2378998" type="audio/mpeg"/>
       <guid isPermaLink="false">79a21cd68583912e2d85eb27833dcc8a</guid>
       <itunes:duration>149</itunes:duration>
+    </item>
+      <item>
+      <title>Warren Buffett, UFO Files, and Haunted Hotels (1440)</title>
+      <pubDate>Sat, 19 Sep 2026 06:12:23 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers Warren Buffett stepping down as chairman of Berkshire Hathaway, Russia&#x27;s wartime parliamentary elections, a White House press blackout on selected outlets, declassified Pentagon UAP program documents, and the discovery of the youngest known exoplanet.</description>
+      <itunes:summary>[Quality: Good] The briefing covers Warren Buffett stepping down as chairman of Berkshire Hathaway, Russia&#x27;s wartime parliamentary elections, a White House press blackout on selected outlets, declassified Pentagon UAP program documents, and the discovery of the youngest known exoplanet.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260919_1440_1.mp3" length="2976118" type="audio/mpeg"/>
+      <guid isPermaLink="false">489de1793fbe055eff7d14fc7d24374c</guid>
+      <itunes:duration>186</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Fri, Sep 18 (SCIENCE_X)</title>
+      <pubDate>Sat, 19 Sep 2026 06:14:39 +0000</pubDate>
+      <description>[Quality: Good] The briefing details recent breakthroughs in room-temperature 2D multiferroic registers and quantum-modeled corrosion resistance for transient magnesium bio-implants. It also explores microwave-stabilized ultracold molecular gases for quantum computing and ultra-stiff layered perovskite thermal insulators for 3D micro-architectures.</description>
+      <itunes:summary>[Quality: Good] The briefing details recent breakthroughs in room-temperature 2D multiferroic registers and quantum-modeled corrosion resistance for transient magnesium bio-implants. It also explores microwave-stabilized ultracold molecular gases for quantum computing and ultra-stiff layered perovskite thermal insulators for 3D micro-architectures.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260919_science_x_2.mp3" length="2969595" type="audio/mpeg"/>
+      <guid isPermaLink="false">5ab2d1b284253a877929dc0271ab09f7</guid>
+      <itunes:duration>186</itunes:duration>
+    </item>
+      <item>
+      <title>git push --force: Claude Takes Over Anthropic Research (Send Help) (TLDR)</title>
+      <pubDate>Sat, 19 Sep 2026 06:17:18 +0000</pubDate>
+      <description>[Quality: Good] Google introduced a VM-based autonomous family agent, while Anthropic launched multi-threaded Claude Code Projects and revealed Claude now performs over a quarter of their internal research. Additionally, Figure unveiled Helix 2.5 for zero-shot household robotics alongside major biomolecular modeling and compressed local weight releases.</description>
+      <itunes:summary>[Quality: Good] Google introduced a VM-based autonomous family agent, while Anthropic launched multi-threaded Claude Code Projects and revealed Claude now performs over a quarter of their internal research. Additionally, Figure unveiled Helix 2.5 for zero-shot household robotics alongside major biomolecular modeling and compressed local weight releases.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260919_tldr_3.mp3" length="2605942" type="audio/mpeg"/>
+      <guid isPermaLink="false">84596b7c7897721fa44fa6a89b21132e</guid>
+      <itunes:duration>163</itunes:duration>
     </item>
   </channel>
 </rss>
