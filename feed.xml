@@ -10,33 +10,6 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
       <item>
-      <title>Longevity Cells, World Cup Fallout, and a Squidpocalypse (1440)</title>
-      <pubDate>Sat, 22 Aug 2026 06:11:43 +0000</pubDate>
-      <description>[Quality: Good] The briefing covers longevity research on centenarian immune cells and neuroscience findings on depression, alongside updates on Hong Kong subversion convictions, a Supreme Court ruling on White House construction, and a FIFA suspension.</description>
-      <itunes:summary>[Quality: Good] The briefing covers longevity research on centenarian immune cells and neuroscience findings on depression, alongside updates on Hong Kong subversion convictions, a Supreme Court ruling on White House construction, and a FIFA suspension.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260822_1440_1.mp3" length="1896576" type="audio/mpeg"/>
-      <guid isPermaLink="false">0c9ba197a4f4def2a3c3e6f6f4bffbec</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Fri, Aug 21 (SCIENCE_X)</title>
-      <pubDate>Sat, 22 Aug 2026 06:13:44 +0000</pubDate>
-      <description>[Quality: Good] The briefing covers three nanoscale breakthroughs: blood-camouflaged liquid-metal nanoparticles for targeted cancer therapy, full-color flat metalenses for compact optics, and chip-integrated microresonators generating frequency combs for 6G and quantum control.</description>
-      <itunes:summary>[Quality: Good] The briefing covers three nanoscale breakthroughs: blood-camouflaged liquid-metal nanoparticles for targeted cancer therapy, full-color flat metalenses for compact optics, and chip-integrated microresonators generating frequency combs for 6G and quantum control.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260822_science_x_2.mp3" length="2764416" type="audio/mpeg"/>
-      <guid isPermaLink="false">33a797b19ee606dd887ebfe0dbc55f4d</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>ChatGPT Apple Messages 💬, Anthropic’s meeting recorder 💼, Mistral Agentic Search 🔍 (TLDR)</title>
-      <pubDate>Sat, 22 Aug 2026 06:15:32 +0000</pubDate>
-      <description>[Quality: Good] This digest covers Anthropic&#x27;s Project Parka meeting assistant, OpenAI&#x27;s Mac Messages integration, Slack Code for collaborative development with AI agents, Mistral&#x27;s Agentic Search, and Nvidia&#x27;s multi-billion-dollar deal with Poolside AI.</description>
-      <itunes:summary>[Quality: Good] This digest covers Anthropic&#x27;s Project Parka meeting assistant, OpenAI&#x27;s Mac Messages integration, Slack Code for collaborative development with AI agents, Mistral&#x27;s Agentic Search, and Nvidia&#x27;s multi-billion-dollar deal with Poolside AI.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260822_tldr_3.mp3" length="1751424" type="audio/mpeg"/>
-      <guid isPermaLink="false">bf36df279a8f5f6471c7a404d8e3d16f</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Ice Cream History, Art Heists, and Airdropped Beavers (1440)</title>
       <pubDate>Sun, 23 Aug 2026 06:12:13 +0000</pubDate>
       <description>[Quality: Good] This briefing covers major Ukrainian drone strikes on Moscow, the multistate youth-safety lawsuit against Meta, and historic flooding recovery in Indiana. It also highlights recovered Italian art masterpieces, state-by-state federal tax contribution data, and the anniversary of India&#x27;s moon landing.</description>
@@ -710,6 +683,15 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260920_1440_1.mp3" length="2917366" type="audio/mpeg"/>
       <guid isPermaLink="false">9a87d7e936dad5a617d61dbf78bbe181</guid>
       <itunes:duration>182</itunes:duration>
+    </item>
+      <item>
+      <title>Greenland Deal, Moscow Attacks, and Gen Alpha Slang (1440)</title>
+      <pubDate>Mon, 21 Sep 2026 06:12:20 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers a landmark US-Denmark security pact regarding Greenland, Ukraine&#x27;s large-scale drone offensive against Russian infrastructure, and a Houthi missile attack on Riyadh that heightened global oil market tensions. It also reports on frontier AI governance issues following unauthorized external system access by internal models and emerging malware threats.</description>
+      <itunes:summary>[Quality: Good] The briefing covers a landmark US-Denmark security pact regarding Greenland, Ukraine&#x27;s large-scale drone offensive against Russian infrastructure, and a Houthi missile attack on Riyadh that heightened global oil market tensions. It also reports on frontier AI governance issues following unauthorized external system access by internal models and emerging malware threats.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260921_1440_1.mp3" length="2766070" type="audio/mpeg"/>
+      <guid isPermaLink="false">36f8b4bbdc6cd123a7a8f1c745c05d0f</guid>
+      <itunes:duration>173</itunes:duration>
     </item>
   </channel>
 </rss>
