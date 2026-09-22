@@ -10,33 +10,6 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
       <item>
-      <title>Ice Cream History, Art Heists, and Airdropped Beavers (1440)</title>
-      <pubDate>Sun, 23 Aug 2026 06:12:13 +0000</pubDate>
-      <description>[Quality: Good] This briefing covers major Ukrainian drone strikes on Moscow, the multistate youth-safety lawsuit against Meta, and historic flooding recovery in Indiana. It also highlights recovered Italian art masterpieces, state-by-state federal tax contribution data, and the anniversary of India&#x27;s moon landing.</description>
-      <itunes:summary>[Quality: Good] This briefing covers major Ukrainian drone strikes on Moscow, the multistate youth-safety lawsuit against Meta, and historic flooding recovery in Indiana. It also highlights recovered Italian art masterpieces, state-by-state federal tax contribution data, and the anniversary of India&#x27;s moon landing.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260823_1440_1.mp3" length="1816704" type="audio/mpeg"/>
-      <guid isPermaLink="false">dce09e2907d9b79add512258fbe0804f</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>North Korean Missiles, Jailed Tycoon, and Stinky Ice (1440)</title>
-      <pubDate>Sun, 23 Aug 2026 06:13:57 +0000</pubDate>
-      <description>[Quality: Good] The briefing covers North Korean missile launches, the life sentencing of China Evergrande&#x27;s founder, Russian strikes on Kyiv, a federal search of Eric Swalwell&#x27;s residence, market declines led by Walmart, and new research on saliva-based colorectal cancer screening.</description>
-      <itunes:summary>[Quality: Good] The briefing covers North Korean missile launches, the life sentencing of China Evergrande&#x27;s founder, Russian strikes on Kyiv, a federal search of Eric Swalwell&#x27;s residence, market declines led by Walmart, and new research on saliva-based colorectal cancer screening.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260823_1440_2.mp3" length="1764096" type="audio/mpeg"/>
-      <guid isPermaLink="false">d928d1110650fe43c965a22c41c0018f</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Thu, Aug 20 (SCIENCE_X)</title>
-      <pubDate>Sun, 23 Aug 2026 06:16:36 +0000</pubDate>
-      <description>[Quality: Good] Researchers have developed dynamic supramolecular nanostructures that disassemble and reassemble to breach the blood-brain barrier, as well as an ac4C mRNA modification that doubles ribosome translation speed. Additionally, physicists propose magnetically levitating solid-neon microparticles above microchips to eliminate surface noise and decoherence for electron qubits.</description>
-      <itunes:summary>[Quality: Good] Researchers have developed dynamic supramolecular nanostructures that disassemble and reassemble to breach the blood-brain barrier, as well as an ac4C mRNA modification that doubles ribosome translation speed. Additionally, physicists propose magnetically levitating solid-neon microparticles above microchips to eliminate surface noise and decoherence for electron qubits.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260823_science_x_3.mp3" length="2913792" type="audio/mpeg"/>
-      <guid isPermaLink="false">980f7c741a3ad1e3b095216da2270007</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Canada Tariffs, Robot Games, and Meemers the Cat (1440)</title>
       <pubDate>Mon, 24 Aug 2026 06:11:56 +0000</pubDate>
       <description>[Quality: Good] The briefing covers escalating US-Canada trade tariffs, new US sanctions on Iran following a cyberattack, a peace roadmap in the DRC, China&#x27;s humanoid robot games, and a $400 million TikTok COPPA settlement.</description>
@@ -692,6 +665,33 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260921_1440_1.mp3" length="2766070" type="audio/mpeg"/>
       <guid isPermaLink="false">36f8b4bbdc6cd123a7a8f1c745c05d0f</guid>
       <itunes:duration>173</itunes:duration>
+    </item>
+      <item>
+      <title>Press Pool Boycott, Edible Batteries, and a Caffeine Revolution (1440)</title>
+      <pubDate>Tue, 22 Sep 2026 06:12:26 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers a White House press standoff, the 81st UN General Assembly&#x27;s focus on AI governance, and MIT&#x27;s development of ingestible dissolving batteries. It also highlights Northeast air travel disruptions, Wall Street market gains, and Paramount&#x27;s acquisition clearance for Warner Bros. Discovery.</description>
+      <itunes:summary>[Quality: Good] The briefing covers a White House press standoff, the 81st UN General Assembly&#x27;s focus on AI governance, and MIT&#x27;s development of ingestible dissolving batteries. It also highlights Northeast air travel disruptions, Wall Street market gains, and Paramount&#x27;s acquisition clearance for Warner Bros. Discovery.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260922_1440_1.mp3" length="2735350" type="audio/mpeg"/>
+      <guid isPermaLink="false">b5b9abba3260b76e7d696f11665f49f9</guid>
+      <itunes:duration>171</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Mon, Sep 21 (SCIENCE_X)</title>
+      <pubDate>Tue, 22 Sep 2026 06:14:29 +0000</pubDate>
+      <description>[Quality: Good] This briefing covers all-optical sub-femtosecond electron steering in graphene, room-temperature quantum memory caching using silicon-carbide nuclear spins, and siRNA-loaded nanoparticles that sensitize glioblastoma tumors to radiation therapy.</description>
+      <itunes:summary>[Quality: Good] This briefing covers all-optical sub-femtosecond electron steering in graphene, room-temperature quantum memory caching using silicon-carbide nuclear spins, and siRNA-loaded nanoparticles that sensitize glioblastoma tumors to radiation therapy.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260922_science_x_2.mp3" length="2796411" type="audio/mpeg"/>
+      <guid isPermaLink="false">87c8406af2225901200476ad445b0457</guid>
+      <itunes:duration>175</itunes:duration>
+    </item>
+      <item>
+      <title>git push --force: Gemini Hacks Three Companies (Politely) (TLDR)</title>
+      <pubDate>Tue, 22 Sep 2026 06:16:37 +0000</pubDate>
+      <description>[Quality: Good] Google&#x27;s Gemini accidentally breached three corporate systems during an audit routing glitch, while OpenAI projected its compute expenses through 2030 to reach $856 billion. Meta also introduced Muse connectors for autonomous agents and launched SAM 3.1 for video segmentation.</description>
+      <itunes:summary>[Quality: Good] Google&#x27;s Gemini accidentally breached three corporate systems during an audit routing glitch, while OpenAI projected its compute expenses through 2030 to reach $856 billion. Meta also introduced Muse connectors for autonomous agents and launched SAM 3.1 for video segmentation.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260922_tldr_3.mp3" length="2487670" type="audio/mpeg"/>
+      <guid isPermaLink="false">61467c47605fbe508001bf313eb62b97</guid>
+      <itunes:duration>155</itunes:duration>
     </item>
   </channel>
 </rss>
