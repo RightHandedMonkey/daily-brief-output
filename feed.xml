@@ -10,33 +10,6 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
       <item>
-      <title>Hawk Fire, Plastic Cookies, and a Pro Soccer Toddler (1440)</title>
-      <pubDate>Tue, 25 Aug 2026 06:12:27 +0000</pubDate>
-      <description>[Quality: Good] This briefing covers expanded U.S. sanctions against Iran, mandatory evacuations from Nevada&#x27;s Hawk Fire, Taiwanese indictments regarding illegal AI server exports to China, and scientific updates on record ocean temperatures and plastic-to-protein conversion.</description>
-      <itunes:summary>[Quality: Good] This briefing covers expanded U.S. sanctions against Iran, mandatory evacuations from Nevada&#x27;s Hawk Fire, Taiwanese indictments regarding illegal AI server exports to China, and scientific updates on record ocean temperatures and plastic-to-protein conversion.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260825_1440_1.mp3" length="1964544" type="audio/mpeg"/>
-      <guid isPermaLink="false">374b98de46c784d45255a4a4fc0464bd</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Mon, Aug 24 (SCIENCE_X)</title>
-      <pubDate>Tue, 25 Aug 2026 06:15:20 +0000</pubDate>
-      <description>[Quality: Needs Review] The briefing highlights recent nanotechnology research, including biomolecular nanomachines for DNA material synthesis, a nanoparticle flu vaccine, light-energy trapping in twisted moiré lattices, graphene production from waste, and temperature-tunable micropillars for cell sorting.</description>
-      <itunes:summary>[Quality: Needs Review] The briefing highlights recent nanotechnology research, including biomolecular nanomachines for DNA material synthesis, a nanoparticle flu vaccine, light-energy trapping in twisted moiré lattices, graphene production from waste, and temperature-tunable micropillars for cell sorting.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260825_science_x_2.mp3" length="3748224" type="audio/mpeg"/>
-      <guid isPermaLink="false">897687ea89995e2098bbd533fede893f</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>DeepSeek Flash Vision 👀, Claude Mythos security 🛡️, inside Grok Bot 🤖 (TLDR)</title>
-      <pubDate>Tue, 25 Aug 2026 06:17:02 +0000</pubDate>
-      <description>[Quality: Good] The script highlights Hugging Face&#x27;s reported $13 billion valuation exploration and DeepSeek&#x27;s new multimodal Flash Vision model. It also covers Anthropic&#x27;s defensive Claude Mythos 5 rollout for code security and Grok Bot&#x27;s autonomous agent integration into tools like Cursor.</description>
-      <itunes:summary>[Quality: Good] The script highlights Hugging Face&#x27;s reported $13 billion valuation exploration and DeepSeek&#x27;s new multimodal Flash Vision model. It also covers Anthropic&#x27;s defensive Claude Mythos 5 rollout for code security and Grok Bot&#x27;s autonomous agent integration into tools like Cursor.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260825_tldr_3.mp3" length="1742976" type="audio/mpeg"/>
-      <guid isPermaLink="false">028bb47cb1820fa4fa6fce042358f208</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Dolly Parton, Football CTE Risk, and Subway Riders (1440)</title>
       <pubDate>Wed, 26 Aug 2026 06:12:19 +0000</pubDate>
       <description>[Quality: Good] The briefing covers the passing of music icon Dolly Parton, Canadian retaliatory tariffs on US goods, a study on CTE prevalence among former NFL players, measles deaths in Pennsylvania, and the CIA Director&#x27;s unannounced trip to Moscow.</description>
@@ -692,6 +665,33 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260923_tldr_3.mp3" length="2570230" type="audio/mpeg"/>
       <guid isPermaLink="false">0062425f7c0d102c719784bcc85809f0</guid>
       <itunes:duration>161</itunes:duration>
+    </item>
+      <item>
+      <title>Iran UN Speech, Cancer Test, and Vomiting Fish (1440)</title>
+      <pubDate>Thu, 24 Sep 2026 06:12:42 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers US-Iran tensions at the UN and in the Strait of Hormuz, US-China bilateral talks alongside a White House press credential dispute, FDA advisory panel endorsement of Grail&#x27;s multi-cancer blood test, and market declines driven by surging Treasury yields.</description>
+      <itunes:summary>[Quality: Good] The briefing covers US-Iran tensions at the UN and in the Strait of Hormuz, US-China bilateral talks alongside a White House press credential dispute, FDA advisory panel endorsement of Grail&#x27;s multi-cancer blood test, and market declines driven by surging Treasury yields.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260924_1440_1.mp3" length="2792950" type="audio/mpeg"/>
+      <guid isPermaLink="false">df3f72af44673f045c552bee520ba645</guid>
+      <itunes:duration>175</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Wed, Sep 23 (SCIENCE_X)</title>
+      <pubDate>Thu, 24 Sep 2026 06:14:54 +0000</pubDate>
+      <description>[Quality: Good] The briefing details injectable carbon nitride nanoparticles that restore light-evoked signaling in degenerated retinas, fluorescence lifetime multiplexing that resolves eight proteins in single cells, and an over-rotating magnetic field control technique to achieve defect-free colloidal self-assembly.</description>
+      <itunes:summary>[Quality: Good] The briefing details injectable carbon nitride nanoparticles that restore light-evoked signaling in degenerated retinas, fluorescence lifetime multiplexing that resolves eight proteins in single cells, and an over-rotating magnetic field control technique to achieve defect-free colloidal self-assembly.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260924_science_x_2.mp3" length="2933883" type="audio/mpeg"/>
+      <guid isPermaLink="false">fbf526623bd03e987811bcfede8e4a75</guid>
+      <itunes:duration>183</itunes:duration>
+    </item>
+      <item>
+      <title>pip install wetware: Amazon Clouds Living Neurons for Video (I Miss Pure Silicon) (TLDR)</title>
+      <pubDate>Thu, 24 Sep 2026 06:17:05 +0000</pubDate>
+      <description>[Quality: Good] OpenAI and Anthropic introduce discounted frontier models while SWE-Bench Pro V2 sharply deflates flagship coding benchmark scores. Meanwhile, Amazon partners to offer video generation powered by living neurons as lab executives prepare to address AI safety at the UN.</description>
+      <itunes:summary>[Quality: Good] OpenAI and Anthropic introduce discounted frontier models while SWE-Bench Pro V2 sharply deflates flagship coding benchmark scores. Meanwhile, Amazon partners to offer video generation powered by living neurons as lab executives prepare to address AI safety at the UN.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260924_tldr_3.mp3" length="2466166" type="audio/mpeg"/>
+      <guid isPermaLink="false">2544469a32a1a29cd2edb1505e2efc36</guid>
+      <itunes:duration>154</itunes:duration>
     </item>
   </channel>
 </rss>
