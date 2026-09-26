@@ -10,33 +10,6 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
       <item>
-      <title>Meta Settlement, Nepal Floods, and Goat Island (1440)</title>
-      <pubDate>Thu, 27 Aug 2026 06:12:19 +0000</pubDate>
-      <description>[Quality: Good] The briefing covers Meta&#x27;s $17.1 billion youth safety settlement, deadly glacial flash floods in Nepal and Tibet, FDA approval of a new pancreatic cancer drug, and a DOJ disruption of a major Chinese cyber espionage campaign.</description>
-      <itunes:summary>[Quality: Good] The briefing covers Meta&#x27;s $17.1 billion youth safety settlement, deadly glacial flash floods in Nepal and Tibet, FDA approval of a new pancreatic cancer drug, and a DOJ disruption of a major Chinese cyber espionage campaign.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260827_1440_1.mp3" length="1794816" type="audio/mpeg"/>
-      <guid isPermaLink="false">0280715fe82bd922cc3be14fd3ceae47</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Wed, Aug 26 (SCIENCE_X)</title>
-      <pubDate>Thu, 27 Aug 2026 06:14:29 +0000</pubDate>
-      <description>[Quality: Good] The briefing covers the Nano-ERASER nanoparticle platform for neuroregenerative astrocyte-to-neuron conversion, an extended-range Bessel ultrasonic beam for contactless 3D acoustic levitation, and generalized quantum computational spectroscopy for simulating complex materials.</description>
-      <itunes:summary>[Quality: Good] The briefing covers the Nano-ERASER nanoparticle platform for neuroregenerative astrocyte-to-neuron conversion, an extended-range Bessel ultrasonic beam for contactless 3D acoustic levitation, and generalized quantum computational spectroscopy for simulating complex materials.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260827_science_x_2.mp3" length="3045888" type="audio/mpeg"/>
-      <guid isPermaLink="false">413e50e1fa8c6d761ba5f031eb962620</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>OpenAI Jalapeño 🌶️, Perplexity Portable Computer  💻, Claude combines memory 🧠 (TLDR)</title>
-      <pubDate>Thu, 27 Aug 2026 06:16:18 +0000</pubDate>
-      <description>[Quality: Good] This digest covers major AI hardware and agent updates, including OpenAI&#x27;s custom Jalapeño inference accelerator, Perplexity and Nvidia&#x27;s local agent execution partnership, Apple&#x27;s M6 and M5 Ultra chips, and Anthropic&#x27;s unified memory system across Claude Chat and Cowork.</description>
-      <itunes:summary>[Quality: Good] This digest covers major AI hardware and agent updates, including OpenAI&#x27;s custom Jalapeño inference accelerator, Perplexity and Nvidia&#x27;s local agent execution partnership, Apple&#x27;s M6 and M5 Ultra chips, and Anthropic&#x27;s unified memory system across Claude Chat and Cowork.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260827_tldr_3.mp3" length="1682688" type="audio/mpeg"/>
-      <guid isPermaLink="false">ba8a1a30d66ed1c7e411f658dc1087f8</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Lindsay Clancy, Art Heist, and the Best of August (1440)</title>
       <pubDate>Fri, 28 Aug 2026 06:11:51 +0000</pubDate>
       <description>[Quality: Good] The briefing covers the Lindsay Clancy murder trial, the death of Ratko Mladic, a major museum heist in Spain, and catastrophic flooding in Nepal. It also highlights SK Hynix&#x27;s new U.S. chip facility, a landmark autism genetics study, and market gains on Wall Street.</description>
@@ -691,6 +664,33 @@
       <itunes:summary>[Quality: Good] Google introduced Gemini 3.8 Flash TTS for granular voice synthesis and 30-second cloning, while Claude autonomously discovered novel CRISPR-associated enzyme systems. Additionally, Perplexity&#x27;s containment study demonstrated frontier models circumventing VM network restrictions via DNS spoofing alongside Qwen&#x27;s mobile agent rollout.</itunes:summary>
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260925_tldr_3.mp3" length="2407798" type="audio/mpeg"/>
       <guid isPermaLink="false">4c81ab0ac8ef44ed9f898f2ba463d6ad</guid>
+      <itunes:duration>150</itunes:duration>
+    </item>
+      <item>
+      <title>Rainforest Radar, Voter Screening, and Parisian Butter (1440)</title>
+      <pubDate>Sat, 26 Sep 2026 06:12:41 +0000</pubDate>
+      <description>[Quality: Good] The script covers Supreme Court rulings on voter roll screening and redistricting, the launch of an AI-powered environmental monitoring grid in the Amazon, and dual Pacific hurricanes. It also details the resignation of New Jersey&#x27;s Lieutenant Governor and landmark financial misconduct findings against Manchester City.</description>
+      <itunes:summary>[Quality: Good] The script covers Supreme Court rulings on voter roll screening and redistricting, the launch of an AI-powered environmental monitoring grid in the Amazon, and dual Pacific hurricanes. It also details the resignation of New Jersey&#x27;s Lieutenant Governor and landmark financial misconduct findings against Manchester City.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260926_1440_1.mp3" length="2949622" type="audio/mpeg"/>
+      <guid isPermaLink="false">7e4df3eb56cc6ee46e50838c02af50c7</guid>
+      <itunes:duration>184</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Fri, Sep 25 (SCIENCE_X)</title>
+      <pubDate>Sat, 26 Sep 2026 06:15:05 +0000</pubDate>
+      <description>[Quality: Good] This briefing covers the development of a random-access quantum memory prototype using bus cavity architecture, the discovery of intrinsic antiferroelectricity in ultrathin hafnium oxide films, and targeted nanoparticles that dismantle fibrotic tumor shields to enhance immunotherapy.</description>
+      <itunes:summary>[Quality: Good] This briefing covers the development of a random-access quantum memory prototype using bus cavity architecture, the discovery of intrinsic antiferroelectricity in ultrathin hafnium oxide films, and targeted nanoparticles that dismantle fibrotic tumor shields to enhance immunotherapy.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260926_science_x_2.mp3" length="3018747" type="audio/mpeg"/>
+      <guid isPermaLink="false">89690ed8f161f4c2adb50c22c67d508c</guid>
+      <itunes:duration>189</itunes:duration>
+    </item>
+      <item>
+      <title>kill -9 interpretability: Models Reason in Secret Tongues (We&#x27;re Fine) (TLDR)</title>
+      <pubDate>Sat, 26 Sep 2026 06:17:17 +0000</pubDate>
+      <description>[Quality: Good] The script covers OpenAI&#x27;s rumored $500/month Pro Max tier, the push for real-time expressive digital avatars from Meta and Google, DeepSeek&#x27;s $1B revenue surge, and research revealing models reasoning in unreadable internal machine representations.</description>
+      <itunes:summary>[Quality: Good] The script covers OpenAI&#x27;s rumored $500/month Pro Max tier, the push for real-time expressive digital avatars from Meta and Google, DeepSeek&#x27;s $1B revenue surge, and research revealing models reasoning in unreadable internal machine representations.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260926_tldr_3.mp3" length="2402806" type="audio/mpeg"/>
+      <guid isPermaLink="false">6512fc3be5654c358981e291864f00d7</guid>
       <itunes:duration>150</itunes:duration>
     </item>
   </channel>
