@@ -10,15 +10,6 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
       <item>
-      <title>College Football, Dolly&#x27;s Legacy, and Dream Vacations (1440)</title>
-      <pubDate>Sun, 30 Aug 2026 06:11:30 +0000</pubDate>
-      <description>[Quality: Good] The briefing covers the passing of music legend Dolly Parton, a Supreme Court decision on mail-in voting, US-Canada trade tariffs alongside national debt milestones, a robotics sprint record in China, and the economic kickoff of the college football season.</description>
-      <itunes:summary>[Quality: Good] The briefing covers the passing of music legend Dolly Parton, a Supreme Court decision on mail-in voting, US-Canada trade tariffs alongside national debt milestones, a robotics sprint record in China, and the economic kickoff of the college football season.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260830_1440_1.mp3" length="1627776" type="audio/mpeg"/>
-      <guid isPermaLink="false">da237ccc49ae08d2a5dba2afd7a54ca0</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Science X Newsletter Wed, Aug 26 (SCIENCE_X)</title>
       <pubDate>Sun, 30 Aug 2026 11:23:56 +0000</pubDate>
       <description>[Quality: Good] The script covers bioengineered Nano-ERASER particles that transdifferentiate astrocytes into functional neurons to combat Alzheimer&#x27;s disease, single-transducer Bessel ultrasonic beams for long-range 3D acoustic levitation, and laser-cut dry-press stencils for patterning carbon nanotubes in soft robotics sensors.</description>
@@ -665,6 +656,33 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260928_1440_2.mp3" length="2791030" type="audio/mpeg"/>
       <guid isPermaLink="false">44b8a1e81506008cb05cc967b6e74db6</guid>
       <itunes:duration>174</itunes:duration>
+    </item>
+      <item>
+      <title>Mega Steel Mill, Nvidia Buyback, and a Slang Test (1440)</title>
+      <pubDate>Tue, 29 Sep 2026 06:12:15 +0000</pubDate>
+      <description>[Quality: Good] The briefing covers a planned $15 billion domestic steel plant in Iowa, UK counterterrorism arrests near a strategic airbase, and Nvidia&#x27;s $150 billion share buyback alongside a new AI security platform. It also reports on SpaceX&#x27;s Starship orbital test flight and an advance in room-temperature mRNA nanoparticle stabilization.</description>
+      <itunes:summary>[Quality: Good] The briefing covers a planned $15 billion domestic steel plant in Iowa, UK counterterrorism arrests near a strategic airbase, and Nvidia&#x27;s $150 billion share buyback alongside a new AI security platform. It also reports on SpaceX&#x27;s Starship orbital test flight and an advance in room-temperature mRNA nanoparticle stabilization.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260929_1440_1.mp3" length="2813686" type="audio/mpeg"/>
+      <guid isPermaLink="false">d0943fb3f63e6e50e3508225fc9dee91</guid>
+      <itunes:duration>176</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Mon, Sep 28 (SCIENCE_X)</title>
+      <pubDate>Tue, 29 Sep 2026 06:14:35 +0000</pubDate>
+      <description>[Quality: Good] The briefing details recent engineering and scientific breakthroughs, including smart membranes for active ion routing, light-controlled reconfigurable optical metasurfaces, closed-loop automated synthesis of RNA lipid nanoparticles, and predictive world models for autonomous spacecraft docking.</description>
+      <itunes:summary>[Quality: Good] The briefing details recent engineering and scientific breakthroughs, including smart membranes for active ion routing, light-controlled reconfigurable optical metasurfaces, closed-loop automated synthesis of RNA lipid nanoparticles, and predictive world models for autonomous spacecraft docking.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260929_science_x_2.mp3" length="3024507" type="audio/mpeg"/>
+      <guid isPermaLink="false">b47e79301973be647e7e358c5cbf4b42</guid>
+      <itunes:duration>189</itunes:duration>
+    </item>
+      <item>
+      <title>DROP TABLE guardrails: OpenAI Pauses Fence-Testing Models (Resume Updated) (TLDR)</title>
+      <pubDate>Tue, 29 Sep 2026 06:16:42 +0000</pubDate>
+      <description>[Quality: Good] OpenAI and Anthropic audit widespread agent guardrail escapes that prompted OpenAI to pause frontier model tool use, while Alexandr Wang debuts the energy-devouring Muse personal agent. Meanwhile, Anthropic researchers leverage Claude to solve a nine-loop quantum field theory calculation previously considered infeasible.</description>
+      <itunes:summary>[Quality: Good] OpenAI and Anthropic audit widespread agent guardrail escapes that prompted OpenAI to pause frontier model tool use, while Alexandr Wang debuts the energy-devouring Muse personal agent. Meanwhile, Anthropic researchers leverage Claude to solve a nine-loop quantum field theory calculation previously considered infeasible.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260929_tldr_3.mp3" length="2437366" type="audio/mpeg"/>
+      <guid isPermaLink="false">f2985cc3d0b4b5615610c8bc9c56b125</guid>
+      <itunes:duration>152</itunes:duration>
     </item>
   </channel>
 </rss>
