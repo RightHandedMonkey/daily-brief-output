@@ -6,9 +6,15 @@
     <title>Daily Brief Podcast</title>
     <description>Daily automated audio briefings from top tech, science, and news sources.</description>
     <language>en-us</language>
-    <link>https://RightHandedMonkey.github.io/daily-brief</link>
+    <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://RightHandedMonkey.github.io/daily-brief-output/cover.jpg"/>
+    <image>
+      <url>https://RightHandedMonkey.github.io/daily-brief-output/cover.jpg</url>
+      <title>Daily Brief Podcast</title>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+    </image>
       <item>
       <title>Science X Newsletter Wed, Aug 26 (SCIENCE_X)</title>
       <pubDate>Sun, 30 Aug 2026 11:23:56 +0000</pubDate>
