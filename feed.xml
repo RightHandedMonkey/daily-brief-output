@@ -16,33 +16,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>New Apple CEO, Grand Canyon Flooding, and a Bat Nightmare (1440)</title>
-      <pubDate>Tue, 01 Sep 2026 06:11:40 +0000</pubDate>
-      <description>The briefing reports on John Ternus succeeding Tim Cook as Apple CEO, search and rescue operations following Grand Canyon flash floods, an FTC antitrust lawsuit against Amazon, strict EU regulations placed on platforms like ChatGPT and Reddit, and Lionel Messi&#x27;s retirement from international soccer.</description>
-      <itunes:summary>The briefing reports on John Ternus succeeding Tim Cook as Apple CEO, search and rescue operations following Grand Canyon flash floods, an FTC antitrust lawsuit against Amazon, strict EU regulations placed on platforms like ChatGPT and Reddit, and Lionel Messi&#x27;s retirement from international soccer.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260901_1440_1.mp3" length="1824384" type="audio/mpeg"/>
-      <guid isPermaLink="false">972b17b3df9459c92df638a8836279a5</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Mon, Aug 31 (SCIENCE_X)</title>
-      <pubDate>Tue, 01 Sep 2026 06:13:20 +0000</pubDate>
-      <description>The script covers a high-speed 3D piezoelectric MEMS mirror for rapid laser focus adjustments, self-assembling peptide nanopores for single-molecule detection of neurodegenerative disease biomarkers, and the unexpected structural stability of peptides in concentrated sulfuric acid.</description>
-      <itunes:summary>The script covers a high-speed 3D piezoelectric MEMS mirror for rapid laser focus adjustments, self-assembling peptide nanopores for single-molecule detection of neurodegenerative disease biomarkers, and the unexpected structural stability of peptides in concentrated sulfuric acid.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260901_science_x_2.mp3" length="1963008" type="audio/mpeg"/>
-      <guid isPermaLink="false">1ecbceaf44248ac514ac2da6a42e3bff</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>OpenAI Cursor split 💔, self-improving AI 🧠, GPT-6 Astra 🚀 (TLDR)</title>
-      <pubDate>Tue, 01 Sep 2026 06:14:53 +0000</pubDate>
-      <description>The episode highlights OpenAI ending its partnership with Cursor after a SpaceX acquisition, Anthropic&#x27;s research on self-improving AI safety, and Nvidia&#x27;s Vera Rubin architecture focusing on data-orchestration CPUs.</description>
-      <itunes:summary>The episode highlights OpenAI ending its partnership with Cursor after a SpaceX acquisition, Anthropic&#x27;s research on self-improving AI safety, and Nvidia&#x27;s Vera Rubin architecture focusing on data-orchestration CPUs.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260901_tldr_3.mp3" length="1557120" type="audio/mpeg"/>
-      <guid isPermaLink="false">2ac4e152905c2c91cbea93c1911f5ab8</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Midterms Mail, Dark Matter, and the Loudest States (1440)</title>
       <pubDate>Wed, 02 Sep 2026 06:11:30 +0000</pubDate>
       <description>The briefing covers concerns surrounding a federal mail-in ballot tracking system, Germany severing ties with Russia after airport drone threats, US military strikes in the Middle East, potential direct observation of dark matter, and a House-passed stopgap funding bill.</description>
@@ -698,6 +671,33 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260930_tldr_3.mp3" length="2711926" type="audio/mpeg"/>
       <guid isPermaLink="false">f6f2d82927440acb2a1c27c62ea924c4</guid>
       <itunes:duration>169</itunes:duration>
+    </item>
+      <item>
+      <title>FlyDubai Attack, FTC Probe, and Fattest Bear (1440)</title>
+      <pubDate>Thu, 01 Oct 2026 06:12:10 +0000</pubDate>
+      <description>The briefing reports on an averted aviation disaster aboard a FlyDubai flight, an FTC investigation into major AI developers, and the formal conclusion of the U.S. military mission in Iraq. Additional coverage includes domestic legal and inflation updates, as well as UK regulatory approval for a CRISPR gene-edited banana.</description>
+      <itunes:summary>The briefing reports on an averted aviation disaster aboard a FlyDubai flight, an FTC investigation into major AI developers, and the formal conclusion of the U.S. military mission in Iraq. Additional coverage includes domestic legal and inflation updates, as well as UK regulatory approval for a CRISPR gene-edited banana.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261001_1440_1.mp3" length="2647030" type="audio/mpeg"/>
+      <guid isPermaLink="false">69255d92696056a2286c5216c5e75522</guid>
+      <itunes:duration>165</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Wed, Sep 30 (SCIENCE_X)</title>
+      <pubDate>Thu, 01 Oct 2026 06:14:10 +0000</pubDate>
+      <description>The script highlights three scientific advancements: strain-engineered diamond nanoribbons for photonic logic, magnetic nanoparticles for targeted non-invasive hyperthermia, and zinc oxide double quantum dots enabling ultrafast charge sensing in quantum systems.</description>
+      <itunes:summary>The script highlights three scientific advancements: strain-engineered diamond nanoribbons for photonic logic, magnetic nanoparticles for targeted non-invasive hyperthermia, and zinc oxide double quantum dots enabling ultrafast charge sensing in quantum systems.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261001_science_x_2.mp3" length="2946555" type="audio/mpeg"/>
+      <guid isPermaLink="false">e533382990f051c8128ae6e0bc8f65f6</guid>
+      <itunes:duration>184</itunes:duration>
+    </item>
+      <item>
+      <title>chmod 777 /root: OpenAI Gives Autonomous Dots Cloud PCs (What Could Go Wrong) (TLDR)</title>
+      <pubDate>Thu, 01 Oct 2026 06:16:42 +0000</pubDate>
+      <description>OpenAI launches autonomous cloud-hosted Dots and budget model GPT-6.1 Sol while seeking a $30B bridge round after safety concerns delayed its IPO. Meanwhile, Meta Muse captures 70% of agentic web traffic as developer workflows shift toward supervising automated software factories.</description>
+      <itunes:summary>OpenAI launches autonomous cloud-hosted Dots and budget model GPT-6.1 Sol while seeking a $30B bridge round after safety concerns delayed its IPO. Meanwhile, Meta Muse captures 70% of agentic web traffic as developer workflows shift toward supervising automated software factories.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261001_tldr_3.mp3" length="2516470" type="audio/mpeg"/>
+      <guid isPermaLink="false">c5a1b566b9d47191867a48ce66a44a30</guid>
+      <itunes:duration>157</itunes:duration>
     </item>
   </channel>
 </rss>
