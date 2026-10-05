@@ -16,24 +16,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>Science X Newsletter Fri, Sep 4 (SCIENCE_X)</title>
-      <pubDate>Sat, 05 Sep 2026 06:11:45 +0000</pubDate>
-      <description>The script covers computational simplifications in aperiodic metasurface design via hidden Moiré symmetries, structural revisions to graphitic carbon nitride photocatalyst models, and experimental evidence for electron-correlation-driven superconductivity in magic-angle twisted bilayer graphene.</description>
-      <itunes:summary>The script covers computational simplifications in aperiodic metasurface design via hidden Moiré symmetries, structural revisions to graphitic carbon nitride photocatalyst models, and experimental evidence for electron-correlation-driven superconductivity in magic-angle twisted bilayer graphene.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260905_science_x_1.mp3" length="1926528" type="audio/mpeg"/>
-      <guid isPermaLink="false">9da0235e716e1a2580411d790f9ee88f</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>GPT-6 Astra 🚀, Grok Bot Enterprise 🤖, Runway world model 🌎 (TLDR)</title>
-      <pubDate>Sat, 05 Sep 2026 06:13:13 +0000</pubDate>
-      <description>The script covers OpenAI&#x27;s release of GPT-6 Astra and its cybersecurity evaluation, Nvidia&#x27;s $13 billion acquisition of Hugging Face, Microsoft&#x27;s launch of the MAI-Transcribe-2 speech model, and Runway&#x27;s Worlds 2 real-time generative environment model.</description>
-      <itunes:summary>The script covers OpenAI&#x27;s release of GPT-6 Astra and its cybersecurity evaluation, Nvidia&#x27;s $13 billion acquisition of Hugging Face, Microsoft&#x27;s launch of the MAI-Transcribe-2 speech model, and Runway&#x27;s Worlds 2 real-time generative environment model.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260905_tldr_2.mp3" length="1623936" type="audio/mpeg"/>
-      <guid isPermaLink="false">ee6179092cc8be6a967be7d02027824f</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Labor Unions, Public Schools, and Why We Love Chocolate (1440)</title>
       <pubDate>Sun, 06 Sep 2026 06:11:40 +0000</pubDate>
       <description>The briefing covers John Ternus succeeding Tim Cook as Apple CEO, Duane Davis&#x27;s conviction in the 1996 murder of Tupac Shakur, Germany&#x27;s historic military expansion, fatal flash flooding in the Grand Canyon, and declining U.S. union membership rates.</description>
@@ -689,6 +671,15 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261004_1440_1.mp3" length="2734198" type="audio/mpeg"/>
       <guid isPermaLink="false">2294a3ed16c8f384386206b8ad63139d</guid>
       <itunes:duration>171</itunes:duration>
+    </item>
+      <item>
+      <title>Nobel Prize Week, Brazil Elections, and Worldwide Livestreams (1440)</title>
+      <pubDate>Mon, 05 Oct 2026 06:12:23 +0000</pubDate>
+      <description>The briefing covers the kickoff of Nobel Prize week, Brazil&#x27;s presidential election advancing to a runoff, and investigative findings regarding a violent cockpit assault aboard a FlyDubai flight. It also highlights a new federal task force on artificial intelligence risks and semiconductor-driven gains on Wall Street.</description>
+      <itunes:summary>The briefing covers the kickoff of Nobel Prize week, Brazil&#x27;s presidential election advancing to a runoff, and investigative findings regarding a violent cockpit assault aboard a FlyDubai flight. It also highlights a new federal task force on artificial intelligence risks and semiconductor-driven gains on Wall Street.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261005_1440_1.mp3" length="2814454" type="audio/mpeg"/>
+      <guid isPermaLink="false">090309ef7264b5b416d6cc98a09bc92c</guid>
+      <itunes:duration>176</itunes:duration>
     </item>
   </channel>
 </rss>
