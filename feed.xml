@@ -16,15 +16,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>Labor Unions, Public Schools, and Why We Love Chocolate (1440)</title>
-      <pubDate>Sun, 06 Sep 2026 06:11:40 +0000</pubDate>
-      <description>The briefing covers John Ternus succeeding Tim Cook as Apple CEO, Duane Davis&#x27;s conviction in the 1996 murder of Tupac Shakur, Germany&#x27;s historic military expansion, fatal flash flooding in the Grand Canyon, and declining U.S. union membership rates.</description>
-      <itunes:summary>The briefing covers John Ternus succeeding Tim Cook as Apple CEO, Duane Davis&#x27;s conviction in the 1996 murder of Tupac Shakur, Germany&#x27;s historic military expansion, fatal flash flooding in the Grand Canyon, and declining U.S. union membership rates.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260906_1440_1.mp3" length="1754496" type="audio/mpeg"/>
-      <guid isPermaLink="false">d79b7d271cb7b33a6487c9e610675820</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Amazon Crash, $240M Crypto Heist, and Dog Age Calculator (1440)</title>
       <pubDate>Tue, 08 Sep 2026 06:12:14 +0000</pubDate>
       <description>The briefing reports on a fatal Amazon cargo aircraft crash in Miami and a federal plea hearing involving a $240 million cryptocurrency theft. It also covers the opening of a cross-border bridge between Russia and North Korea, as well as an AI-designed drug showing potential to slow biological aging.</description>
@@ -680,6 +671,33 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261005_1440_1.mp3" length="2814454" type="audio/mpeg"/>
       <guid isPermaLink="false">090309ef7264b5b416d6cc98a09bc92c</guid>
       <itunes:duration>176</itunes:duration>
+    </item>
+      <item>
+      <title>SCOTUS Returns, Book Bans, and Bukangi the Shark (1440)</title>
+      <pubDate>Tue, 06 Oct 2026 06:13:14 +0000</pubDate>
+      <description>The briefing covers Supreme Court oral arguments on municipal climate change liability, security operations in the Bab el-Mandeb Strait, and new investigative findings regarding an attempted airliner crash. It also reports on surging school book bans across the U.S., the discovery of a second-generation exoplanet, and record highs in tech-driven financial markets.</description>
+      <itunes:summary>The briefing covers Supreme Court oral arguments on municipal climate change liability, security operations in the Bab el-Mandeb Strait, and new investigative findings regarding an attempted airliner crash. It also reports on surging school book bans across the U.S., the discovery of a second-generation exoplanet, and record highs in tech-driven financial markets.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261006_1440_1.mp3" length="2958454" type="audio/mpeg"/>
+      <guid isPermaLink="false">fb467447c77f3c6497fd06345d37c6f8</guid>
+      <itunes:duration>185</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Mon, Oct 5 (SCIENCE_X)</title>
+      <pubDate>Tue, 06 Oct 2026 06:16:32 +0000</pubDate>
+      <description>The script explores four scientific advancements: mechanical nanoneedle arrays for spatial multi-omics without sequencing, closed-loop feedback stabilizing chaotic dynamics in a 24-qubit quantum processor, reconfigurable laser-plasma radio frequency antennas, and high-temperature lead-free ceramic actuators.</description>
+      <itunes:summary>The script explores four scientific advancements: mechanical nanoneedle arrays for spatial multi-omics without sequencing, closed-loop feedback stabilizing chaotic dynamics in a 24-qubit quantum processor, reconfigurable laser-plasma radio frequency antennas, and high-temperature lead-free ceramic actuators.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261006_science_x_2.mp3" length="3425019" type="audio/mpeg"/>
+      <guid isPermaLink="false">5a83783e2ba5b769cf676ff0f9821f52</guid>
+      <itunes:duration>214</itunes:duration>
+    </item>
+      <item>
+      <title>chown -R agent:human: World ID Hands Biometric Auth to Agents (Breaker in Hand) (TLDR)</title>
+      <pubDate>Tue, 06 Oct 2026 06:20:05 +0000</pubDate>
+      <description>The episode analyzes Epoch AI&#x27;s compute projections for hundreds of millions of concurrent agents alongside Prime Intellect&#x27;s inference scaling. It also details the hardware-topology-aware programming language Vx, Aleph Alpha&#x27;s open-weight Kolibri model, and World ID&#x27;s delegated Proof of Human credentials for autonomous agents.</description>
+      <itunes:summary>The episode analyzes Epoch AI&#x27;s compute projections for hundreds of millions of concurrent agents alongside Prime Intellect&#x27;s inference scaling. It also details the hardware-topology-aware programming language Vx, Aleph Alpha&#x27;s open-weight Kolibri model, and World ID&#x27;s delegated Proof of Human credentials for autonomous agents.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261006_tldr_3.mp3" length="2867062" type="audio/mpeg"/>
+      <guid isPermaLink="false">ffcfad665e9d876dde95973ef5b16b3c</guid>
+      <itunes:duration>179</itunes:duration>
     </item>
   </channel>
 </rss>
