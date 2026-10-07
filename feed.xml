@@ -699,5 +699,32 @@
       <guid isPermaLink="false">ffcfad665e9d876dde95973ef5b16b3c</guid>
       <itunes:duration>179</itunes:duration>
     </item>
+      <item>
+      <title>Plague Probe, French Protests, and Bathroom Scares (1440)</title>
+      <pubDate>Wed, 07 Oct 2026 06:12:46 +0000</pubDate>
+      <description>The briefing covers global developments including a Russian biosecurity investigation, mass education protests in France, and a German espionage arrest. It also reports on record US market highs, the Paramount-WBD merger, the Nobel Prize in Physics, and a regional measles emergency.</description>
+      <itunes:summary>The briefing covers global developments including a Russian biosecurity investigation, mass education protests in France, and a German espionage arrest. It also reports on record US market highs, the Paramount-WBD merger, the Nobel Prize in Physics, and a regional measles emergency.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261007_1440_1.mp3" length="3021430" type="audio/mpeg"/>
+      <guid isPermaLink="false">6f8c0b62ac98ac33d6e9d08013076967</guid>
+      <itunes:duration>189</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Tue, Oct 6 (SCIENCE_X)</title>
+      <pubDate>Wed, 07 Oct 2026 06:16:32 +0000</pubDate>
+      <description>The briefing highlights a stretchable nanocomposite thermal switch, a chip-scale octave-spanning optical frequency comb for precision timing, and an autonomous satellite navigation architecture utilizing lunar orbiters to mitigate orbit drift.</description>
+      <itunes:summary>The briefing highlights a stretchable nanocomposite thermal switch, a chip-scale octave-spanning optical frequency comb for precision timing, and an autonomous satellite navigation architecture utilizing lunar orbiters to mitigate orbit drift.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261007_science_x_2.mp3" length="3395067" type="audio/mpeg"/>
+      <guid isPermaLink="false">bfaca7510c689824ff58cc90750f4b19</guid>
+      <itunes:duration>212</itunes:duration>
+    </item>
+      <item>
+      <title>eval(untrusted): Instinct Drops Shared Agents into Group Chats (Calling in Sick) (TLDR)</title>
+      <pubDate>Wed, 07 Oct 2026 06:20:15 +0000</pubDate>
+      <description>OpenAI negotiates a $30B sovereign-backed funding round and launches an enterprise marketplace to service compute debt, while Instinct rolls out shared agents in multi-user group chats despite severe auth risks. Additionally, Reflection debuted its 501B sparse MoE model Beam, and Devin introduced offline dreaming for cross-session memory reconciliation.</description>
+      <itunes:summary>OpenAI negotiates a $30B sovereign-backed funding round and launches an enterprise marketplace to service compute debt, while Instinct rolls out shared agents in multi-user group chats despite severe auth risks. Additionally, Reflection debuted its 501B sparse MoE model Beam, and Devin introduced offline dreaming for cross-session memory reconciliation.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261007_tldr_3.mp3" length="2616310" type="audio/mpeg"/>
+      <guid isPermaLink="false">c55b977ff4cc6a0df1f8b1d326acd83f</guid>
+      <itunes:duration>163</itunes:duration>
+    </item>
   </channel>
 </rss>
