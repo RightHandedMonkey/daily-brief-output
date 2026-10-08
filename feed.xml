@@ -16,33 +16,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>Amazon Crash, $240M Crypto Heist, and Dog Age Calculator (1440)</title>
-      <pubDate>Tue, 08 Sep 2026 06:12:14 +0000</pubDate>
-      <description>The briefing reports on a fatal Amazon cargo aircraft crash in Miami and a federal plea hearing involving a $240 million cryptocurrency theft. It also covers the opening of a cross-border bridge between Russia and North Korea, as well as an AI-designed drug showing potential to slow biological aging.</description>
-      <itunes:summary>The briefing reports on a fatal Amazon cargo aircraft crash in Miami and a federal plea hearing involving a $240 million cryptocurrency theft. It also covers the opening of a cross-border bridge between Russia and North Korea, as well as an AI-designed drug showing potential to slow biological aging.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260908_1440_1.mp3" length="1991424" type="audio/mpeg"/>
-      <guid isPermaLink="false">693fbc1408a69f9a6bd2b5bd354ecad6</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Mon, Sep 7 (SCIENCE_X)</title>
-      <pubDate>Tue, 08 Sep 2026 06:15:32 +0000</pubDate>
-      <description>The script covers recent developments in nanotechnology and physics, including single-atom copper chains, two-color X-ray nanoparticle imaging, battery surface artifacts, novel nitride semiconductors, and quantum phases in superconductors.</description>
-      <itunes:summary>The script covers recent developments in nanotechnology and physics, including single-atom copper chains, two-color X-ray nanoparticle imaging, battery surface artifacts, novel nitride semiconductors, and quantum phases in superconductors.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260908_science_x_2.mp3" length="3408768" type="audio/mpeg"/>
-      <guid isPermaLink="false">ca53aed51fa1656cbaf6df60557743d7</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Claude proves Fermat 🧮, automated AI researcher 🔬, Z1 efficiency chip ⚡ (TLDR)</title>
-      <pubDate>Tue, 08 Sep 2026 06:17:25 +0000</pubDate>
-      <description>The episode covers Anthropic&#x27;s Claude formally verifying Fermat&#x27;s Last Theorem using Lean, independent scrutiny of OpenAI&#x27;s ARC-AGI benchmark claims, mixed robotics performance with GPT-6 Astra, and the financial scale required for US data center expansion.</description>
-      <itunes:summary>The episode covers Anthropic&#x27;s Claude formally verifying Fermat&#x27;s Last Theorem using Lean, independent scrutiny of OpenAI&#x27;s ARC-AGI benchmark claims, mixed robotics performance with GPT-6 Astra, and the financial scale required for US data center expansion.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260908_tldr_3.mp3" length="1788672" type="audio/mpeg"/>
-      <guid isPermaLink="false">aa9f3ff2d48e5676df3f511f83b646e6</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Canada Tariffs, Ground Zero Air, and the Most Common Birthday (1440)</title>
       <pubDate>Wed, 09 Sep 2026 06:12:06 +0000</pubDate>
       <description>The briefing reports on Canada imposing retaliatory tariffs on American imports and New York City releasing previously undisclosed post-9/11 air quality records. It also covers an OpenAI milestone in fluid mechanics mathematics, an Iranian maritime drone seizure, and the theft of Renoir masterpieces in France.</description>
@@ -725,6 +698,33 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261007_tldr_3.mp3" length="2616310" type="audio/mpeg"/>
       <guid isPermaLink="false">c55b977ff4cc6a0df1f8b1d326acd83f</guid>
       <itunes:duration>163</itunes:duration>
+    </item>
+      <item>
+      <title>Assisted Dying Law, Math Advances, and the Heaviest Insect (1440)</title>
+      <pubDate>Thu, 08 Oct 2026 06:12:53 +0000</pubDate>
+      <description>The briefing covers Canada halting the expansion of medically assisted dying for mental illness, academic debate over OpenAI&#x27;s published mathematical claims, rising US Treasury yields alongside hawkish Fed interest rate expectations, and France suspending police stun grenades amid civil unrest.</description>
+      <itunes:summary>The briefing covers Canada halting the expansion of medically assisted dying for mental illness, academic debate over OpenAI&#x27;s published mathematical claims, rising US Treasury yields alongside hawkish Fed interest rate expectations, and France suspending police stun grenades amid civil unrest.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261008_1440_1.mp3" length="3008374" type="audio/mpeg"/>
+      <guid isPermaLink="false">845d4f57b8a95de74d3533b847d1c85d</guid>
+      <itunes:duration>188</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Wed, Oct 7 (SCIENCE_X)</title>
+      <pubDate>Thu, 08 Oct 2026 06:15:41 +0000</pubDate>
+      <description>The script covers three major breakthroughs: ultra-high-resolution stretchable quantum-dot displays, constant-depth quantum state preparation for simulating particle physics, and the operational debut of a solid-state thorium nuclear clock.</description>
+      <itunes:summary>The script covers three major breakthroughs: ultra-high-resolution stretchable quantum-dot displays, constant-depth quantum state preparation for simulating particle physics, and the operational debut of a solid-state thorium nuclear clock.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261008_science_x_2.mp3" length="2948859" type="audio/mpeg"/>
+      <guid isPermaLink="false">e324240b15954aa798f3174fbd74ace8</guid>
+      <itunes:duration>184</itunes:duration>
+    </item>
+      <item>
+      <title>iptables -F: Meta and Sierra Launch Personal Agent Protocol (Perimeter Down) (TLDR)</title>
+      <pubDate>Thu, 08 Oct 2026 06:18:22 +0000</pubDate>
+      <description>OpenAI launched its low-latency Decisions API to curb inference costs by ditching verbose chain-of-thought, while Meta and Sierra introduced the Personal Agent Protocol to standardize delegated agent authorization. Meanwhile, frontier compute diverged between Europe&#x27;s trillion-parameter Mistral Large 4 and Google&#x27;s lightweight Nano Banana 2.1.</description>
+      <itunes:summary>OpenAI launched its low-latency Decisions API to curb inference costs by ditching verbose chain-of-thought, while Meta and Sierra introduced the Personal Agent Protocol to standardize delegated agent authorization. Meanwhile, frontier compute diverged between Europe&#x27;s trillion-parameter Mistral Large 4 and Google&#x27;s lightweight Nano Banana 2.1.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261008_tldr_3.mp3" length="2716150" type="audio/mpeg"/>
+      <guid isPermaLink="false">02067c27b0ef5c83f616bd61b1e9e3a2</guid>
+      <itunes:duration>170</itunes:duration>
     </item>
   </channel>
 </rss>
