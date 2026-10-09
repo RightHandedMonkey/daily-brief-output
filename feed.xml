@@ -16,33 +16,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>Canada Tariffs, Ground Zero Air, and the Most Common Birthday (1440)</title>
-      <pubDate>Wed, 09 Sep 2026 06:12:06 +0000</pubDate>
-      <description>The briefing reports on Canada imposing retaliatory tariffs on American imports and New York City releasing previously undisclosed post-9/11 air quality records. It also covers an OpenAI milestone in fluid mechanics mathematics, an Iranian maritime drone seizure, and the theft of Renoir masterpieces in France.</description>
-      <itunes:summary>The briefing reports on Canada imposing retaliatory tariffs on American imports and New York City releasing previously undisclosed post-9/11 air quality records. It also covers an OpenAI milestone in fluid mechanics mathematics, an Iranian maritime drone seizure, and the theft of Renoir masterpieces in France.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260909_1440_1.mp3" length="2039424" type="audio/mpeg"/>
-      <guid isPermaLink="false">654e5da5623b43bd980dd6d3dd56f85d</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Tue, Sep 8 (SCIENCE_X)</title>
-      <pubDate>Wed, 09 Sep 2026 06:14:08 +0000</pubDate>
-      <description>The briefing highlights three advances in nanoscale hardware and quantum systems: dysprosium single-molecule magnets for ultra-dense memory, negatively curved nanographenes as flexible chassis for molecular robotics, and superfluid helium-three qubits designed to eliminate electrical noise.</description>
-      <itunes:summary>The briefing highlights three advances in nanoscale hardware and quantum systems: dysprosium single-molecule magnets for ultra-dense memory, negatively curved nanographenes as flexible chassis for molecular robotics, and superfluid helium-three qubits designed to eliminate electrical noise.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260909_science_x_2.mp3" length="2373888" type="audio/mpeg"/>
-      <guid isPermaLink="false">4519a1c7684e08df6e6e83bf59331870</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>OpenAI managed agents 🤖, TPU inference ⚡, Anthropic $517B compute 💰 (TLDR)</title>
-      <pubDate>Wed, 09 Sep 2026 06:15:51 +0000</pubDate>
-      <description>The script covers Anthropic&#x27;s major compute agreements and IPO filing, OpenAI&#x27;s upcoming Managed Agents, Google&#x27;s TPU v7 Ironwood chips for external workloads, and research on prompt injection risks in agent tool outputs.</description>
-      <itunes:summary>The script covers Anthropic&#x27;s major compute agreements and IPO filing, OpenAI&#x27;s upcoming Managed Agents, Google&#x27;s TPU v7 Ironwood chips for external workloads, and research on prompt injection risks in agent tool outputs.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260909_tldr_3.mp3" length="1667328" type="audio/mpeg"/>
-      <guid isPermaLink="false">48de11a1c39b0a5ae1e9de2d4b904f95</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>Charlie Kirk Anniversary, America’s Nobel, and Fat Bear Week (1440)</title>
       <pubDate>Thu, 10 Sep 2026 06:12:19 +0000</pubDate>
       <description>The briefing covers surging crude oil prices driven by escalating Persian Gulf conflict, a Utah judge ordering the suspect in Charlie Kirk&#x27;s shooting to stand trial, and the Lasker Awards recognizing breakthrough medical research and Michael J. Fox&#x27;s Parkinson&#x27;s advocacy.</description>
@@ -725,6 +698,33 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261008_tldr_3.mp3" length="2716150" type="audio/mpeg"/>
       <guid isPermaLink="false">02067c27b0ef5c83f616bd61b1e9e3a2</guid>
       <itunes:duration>170</itunes:duration>
+    </item>
+      <item>
+      <title>Hurricane Isaias, Oldest Tortoise, and the End of Dining Out (1440)</title>
+      <pubDate>Fri, 09 Oct 2026 06:12:38 +0000</pubDate>
+      <description>The briefing covers Hurricane Isaias threatening the US Gulf Coast, widespread housing protests and a snap election call in Spain, market movements and tech industry visa restrictions, and the passing of computing pioneer Margaret Hamilton alongside SpaceX&#x27;s Crew-12 return.</description>
+      <itunes:summary>The briefing covers Hurricane Isaias threatening the US Gulf Coast, widespread housing protests and a snap election call in Spain, market movements and tech industry visa restrictions, and the passing of computing pioneer Margaret Hamilton alongside SpaceX&#x27;s Crew-12 return.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261009_1440_1.mp3" length="2823670" type="audio/mpeg"/>
+      <guid isPermaLink="false">31e74c4b091b63eb64fac13d6a2dd566</guid>
+      <itunes:duration>176</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Thu, Oct 8 (SCIENCE_X)</title>
+      <pubDate>Fri, 09 Oct 2026 06:15:31 +0000</pubDate>
+      <description>The briefing details nanoscale imaging of polarization switching in ferroelectric RAM, fluid-fluctuation mechanisms in heart valves adapted for soft robotics, and magnetic steering of exciton-polariton condensates for optical computing.</description>
+      <itunes:summary>The briefing details nanoscale imaging of polarization switching in ferroelectric RAM, fluid-fluctuation mechanisms in heart valves adapted for soft robotics, and magnetic steering of exciton-polariton condensates for optical computing.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261009_science_x_2.mp3" length="3094395" type="audio/mpeg"/>
+      <guid isPermaLink="false">11727f983cd97a967886be2a9f0371b7</guid>
+      <itunes:duration>193</itunes:duration>
+    </item>
+      <item>
+      <title>dangerouslySetInnerHTML: GPT-6 Renders Client UI (CoT Goes Dark) (TLDR)</title>
+      <pubDate>Fri, 09 Oct 2026 06:18:57 +0000</pubDate>
+      <description>OpenAI introduces GPT-6 with dynamic client-side UI generation amidst diminishing reasoning inspectability, while Anthropic slashes Haiku pricing and Grok pivots into a multi-model aggregator. Additionally, massive chip debt financing collides with Texas data center grid freezes, and Microsoft and Nvidia unveil local agent execution containers with RTX Spark.</description>
+      <itunes:summary>OpenAI introduces GPT-6 with dynamic client-side UI generation amidst diminishing reasoning inspectability, while Anthropic slashes Haiku pricing and Grok pivots into a multi-model aggregator. Additionally, massive chip debt financing collides with Texas data center grid freezes, and Microsoft and Nvidia unveil local agent execution containers with RTX Spark.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261009_tldr_3.mp3" length="2890102" type="audio/mpeg"/>
+      <guid isPermaLink="false">737fdf0ddbc9c098b3c8cab8260d5f7c</guid>
+      <itunes:duration>181</itunes:duration>
     </item>
   </channel>
 </rss>
