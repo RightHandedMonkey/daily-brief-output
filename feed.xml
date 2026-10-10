@@ -16,33 +16,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>Charlie Kirk Anniversary, America’s Nobel, and Fat Bear Week (1440)</title>
-      <pubDate>Thu, 10 Sep 2026 06:12:19 +0000</pubDate>
-      <description>The briefing covers surging crude oil prices driven by escalating Persian Gulf conflict, a Utah judge ordering the suspect in Charlie Kirk&#x27;s shooting to stand trial, and the Lasker Awards recognizing breakthrough medical research and Michael J. Fox&#x27;s Parkinson&#x27;s advocacy.</description>
-      <itunes:summary>The briefing covers surging crude oil prices driven by escalating Persian Gulf conflict, a Utah judge ordering the suspect in Charlie Kirk&#x27;s shooting to stand trial, and the Lasker Awards recognizing breakthrough medical research and Michael J. Fox&#x27;s Parkinson&#x27;s advocacy.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260910_1440_1.mp3" length="1949568" type="audio/mpeg"/>
-      <guid isPermaLink="false">f38e0c3f61f84b816124368641b300cc</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Wed, Sep 9 (SCIENCE_X)</title>
-      <pubDate>Thu, 10 Sep 2026 06:16:06 +0000</pubDate>
-      <description>The script covers angstrom-scale ion transport in vermiculite clay acting as fluidic transistors, a benchmark exposing vibrational blind spots in machine learning interatomic potentials, and reconfigurable magnetic spin textures in iron-nickel phosphides.</description>
-      <itunes:summary>The script covers angstrom-scale ion transport in vermiculite clay acting as fluidic transistors, a benchmark exposing vibrational blind spots in machine learning interatomic potentials, and reconfigurable magnetic spin textures in iron-nickel phosphides.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260910_science_x_2.mp3" length="2499840" type="audio/mpeg"/>
-      <guid isPermaLink="false">886aa3b0968006d81e49d8a57af9610d</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>Images 2.5 🎨, OpenAI solves Navier-Stokes 🧮, AlphaGenome Atlas 🧬 (TLDR)</title>
-      <pubDate>Thu, 10 Sep 2026 06:19:32 +0000</pubDate>
-      <description>The script highlights ChatGPT Images 2.5 feature improvements and promotes an ebook guide detailing AI governance frameworks.</description>
-      <itunes:summary>The script highlights ChatGPT Images 2.5 feature improvements and promotes an ebook guide detailing AI governance frameworks.</itunes:summary>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20260910_tldr_3.mp3" length="1263360" type="audio/mpeg"/>
-      <guid isPermaLink="false">f9a08e928e5b72626fc18327406d678e</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
       <title>9/11 Anniversary, Record Heat, and Venus&#x27; Moon (1440)</title>
       <pubDate>Fri, 11 Sep 2026 06:12:17 +0000</pubDate>
       <description>The briefing covers commemorations marking the 25th anniversary of the September 11 attacks, record-tying global temperatures in August, and Houthi forces seizing the Red Sea port city of Mokha. It also highlights climbing oil and wholesale prices ahead of the Federal Reserve&#x27;s rate decision, as well as Anthropic intercepting foreign efforts to weaponize frontier AI models.</description>
@@ -725,6 +698,33 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261009_tldr_3.mp3" length="2890102" type="audio/mpeg"/>
       <guid isPermaLink="false">737fdf0ddbc9c098b3c8cab8260d5f7c</guid>
       <itunes:duration>181</itunes:duration>
+    </item>
+      <item>
+      <title>Nobel Peace Prize, Wine Heist, and a Rumpelstiltskin Meme (1440)</title>
+      <pubDate>Sat, 10 Oct 2026 06:12:31 +0000</pubDate>
+      <description>The briefing reports on the awarding of the Nobel Peace Prize to Navi Pillay and subsequent U.S. sanctions on the ICC, a new arrangement to import Russian diesel, an investigation into Federal Reserve Governor Lisa Cook, a major earthquake in Panama, and the passing of NFL icon Mike Ditka.</description>
+      <itunes:summary>The briefing reports on the awarding of the Nobel Peace Prize to Navi Pillay and subsequent U.S. sanctions on the ICC, a new arrangement to import Russian diesel, an investigation into Federal Reserve Governor Lisa Cook, a major earthquake in Panama, and the passing of NFL icon Mike Ditka.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261010_1440_1.mp3" length="2791798" type="audio/mpeg"/>
+      <guid isPermaLink="false">cf5960823270dc1ee6841a44f4a3347b</guid>
+      <itunes:duration>174</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Fri, Oct 9 (SCIENCE_X)</title>
+      <pubDate>Sat, 10 Oct 2026 06:14:55 +0000</pubDate>
+      <description>The script covers modular photonic quantum computing using graph states, on-chip optical memory in thin-film lithium niobate, thermodynamic trade-offs between memory retention and efficiency in autonomous agents, and label-free optical biosensing in whole blood.</description>
+      <itunes:summary>The script covers modular photonic quantum computing using graph states, on-chip optical memory in thin-film lithium niobate, thermodynamic trade-offs between memory retention and efficiency in autonomous agents, and label-free optical biosensing in whole blood.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261010_science_x_2.mp3" length="2944635" type="audio/mpeg"/>
+      <guid isPermaLink="false">ce4e113825fcc52b434d91c51c3ad5bf</guid>
+      <itunes:duration>184</itunes:duration>
+    </item>
+      <item>
+      <title>GRANT ALL PRIVILEGES: Google Deploys Universal Workspace Agent (Blast Radius Max) (TLDR)</title>
+      <pubDate>Sat, 10 Oct 2026 06:18:01 +0000</pubDate>
+      <description>OpenAI launched Ultrafast mode for GPT-6.1 Sol leveraging speculative decoding, while Google introduced an autonomous Workspace agent with persistent credentials. The script also examines Hone&#x27;s $60M seed round for multi-week workers, Epoch AI&#x27;s findings on research judgment limits, and Microsoft&#x27;s Quicksand API for QEMU VM rollbacks.</description>
+      <itunes:summary>OpenAI launched Ultrafast mode for GPT-6.1 Sol leveraging speculative decoding, while Google introduced an autonomous Workspace agent with persistent credentials. The script also examines Hone&#x27;s $60M seed round for multi-week workers, Epoch AI&#x27;s findings on research judgment limits, and Microsoft&#x27;s Quicksand API for QEMU VM rollbacks.</itunes:summary>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261010_tldr_3.mp3" length="2736502" type="audio/mpeg"/>
+      <guid isPermaLink="false">5f69ec8ddd2978212e4818583a423160</guid>
+      <itunes:duration>171</itunes:duration>
     </item>
   </channel>
 </rss>
