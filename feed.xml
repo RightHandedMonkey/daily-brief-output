@@ -27,18 +27,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>Nobel Prize Week, Brazil Elections, and Worldwide Livestreams (1440)</title>
-      <pubDate>Mon, 05 Oct 2026 06:12:23 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output/</link>
-      <description>The briefing covers the kickoff of Nobel Prize week, Brazil&#x27;s presidential election advancing to a runoff, and investigative findings regarding a violent cockpit assault aboard a FlyDubai flight. It also highlights a new federal task force on artificial intelligence risks and semiconductor-driven gains on Wall Street.</description>
-      <content:encoded><![CDATA[The briefing covers the kickoff of Nobel Prize week, Brazil's presidential election advancing to a runoff, and investigative findings regarding a violent cockpit assault aboard a FlyDubai flight. It also highlights a new federal task force on artificial intelligence risks and semiconductor-driven gains on Wall Street.]]></content:encoded>
-      <itunes:summary>The briefing covers the kickoff of Nobel Prize week, Brazil&#x27;s presidential election advancing to a runoff, and investigative findings regarding a violent cockpit assault aboard a FlyDubai flight. It also highlights a new federal task force on artificial intelligence risks and semiconductor-driven gains on Wall Street.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261005_1440_1.mp3" length="2814454" type="audio/mpeg"/>
-      <guid isPermaLink="false">090309ef7264b5b416d6cc98a09bc92c</guid>
-      <itunes:duration>176</itunes:duration>
-    </item>
-      <item>
       <title>SCOTUS Returns, Book Bans, and Bukangi the Shark (1440)</title>
       <pubDate>Tue, 06 Oct 2026 06:13:14 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/daily-brief-output/</link>
@@ -1660,6 +1648,52 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261103_tldr_3.mp3" length="2732278" type="audio/mpeg"/>
       <guid isPermaLink="false">6f55749266eb454c03daacbd9e53bdbd</guid>
       <itunes:duration>171</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Tue, Nov 3 (SCIENCE_X)</title>
+      <pubDate>Wed, 04 Nov 2026 06:18:12 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Laser-Written Superconducting Circuits: Focused pulsed lasers drive localized oxygen diffusion in cuprate films, enabling rapid maskless fabrication of reconfigurable superconducting circuits.
+• Closed-Loop Qubit Calibration: Low-latency FPGA feedback tracks transmon resonance drift in real time to dynamically tune drive pulses, slashing gate error rates from 0.14% to 0.065%.
+• Hardware-Native Optical Demultiplexing: A compact photonic chip with tunable Mach-Zehnder interferometers autonomously untangles overlapping laser beams directly in optical hardware without digital processing.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Laser-Written Superconducting Circuits:</strong> Focused pulsed lasers drive localized oxygen diffusion in cuprate films, enabling rapid maskless fabrication of reconfigurable superconducting circuits.</li>
+  <li><strong>Closed-Loop Qubit Calibration:</strong> Low-latency FPGA feedback tracks transmon resonance drift in real time to dynamically tune drive pulses, slashing gate error rates from 0.14% to 0.065%.</li>
+  <li><strong>Hardware-Native Optical Demultiplexing:</strong> A compact photonic chip with tunable Mach-Zehnder interferometers autonomously untangles overlapping laser beams directly in optical hardware without digital processing.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Laser-Written Superconducting Circuits: Focused pulsed lasers drive localized oxygen diffusion in cuprate films, enabling rapid maskless fabrication of reconfigurable superconducting circuits.
+• Closed-Loop Qubit Calibration: Low-latency FPGA feedback tracks transmon resonance drift in real time to dynamically tune drive pulses, slashing gate error rates from 0.14% to 0.065%.
+• Hardware-Native Optical Demultiplexing: A compact photonic chip with tunable Mach-Zehnder interferometers autonomously untangles overlapping laser beams directly in optical hardware without digital processing.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261104_science_x_1.mp3" length="3401979" type="audio/mpeg"/>
+      <guid isPermaLink="false">0c21a8c591d9f8da59dff2a3e660ed4d</guid>
+      <itunes:duration>213</itunes:duration>
+    </item>
+      <item>
+      <title>chmod 777 /dev/weights: Astra Patches Live Tensors as IPO Burns $104B (TLDR)</title>
+      <pubDate>Wed, 04 Nov 2026 06:21:35 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Anthropic Message Threads Beta: Anthropic launched streaming delta updates for message threads, cutting time-to-first-token latency by 35% across massive context windows.
+• OpenAI GPT-6.2 Astra Telemetry: Leaked Codex telemetry reveals OpenAI is A/B testing GPT-6.2 Astra, which autonomously inspects and patches raw neural network weights.
+• Anthropic IPO Risk Disclosures: Anthropic&#x27;s amended IPO prospectus warns of imminent recursive self-improvement alongside $104 billion in net losses and $900 billion in compute liabilities.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Anthropic Message Threads Beta:</strong> Anthropic launched streaming delta updates for message threads, cutting time-to-first-token latency by 35% across massive context windows.</li>
+  <li><strong>OpenAI GPT-6.2 Astra Telemetry:</strong> Leaked Codex telemetry reveals OpenAI is A/B testing GPT-6.2 Astra, which autonomously inspects and patches raw neural network weights.</li>
+  <li><strong>Anthropic IPO Risk Disclosures:</strong> Anthropic&#x27;s amended IPO prospectus warns of imminent recursive self-improvement alongside $104 billion in net losses and $900 billion in compute liabilities.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Anthropic Message Threads Beta: Anthropic launched streaming delta updates for message threads, cutting time-to-first-token latency by 35% across massive context windows.
+• OpenAI GPT-6.2 Astra Telemetry: Leaked Codex telemetry reveals OpenAI is A/B testing GPT-6.2 Astra, which autonomously inspects and patches raw neural network weights.
+• Anthropic IPO Risk Disclosures: Anthropic&#x27;s amended IPO prospectus warns of imminent recursive self-improvement alongside $104 billion in net losses and $900 billion in compute liabilities.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261104_tldr_2.mp3" length="3142390" type="audio/mpeg"/>
+      <guid isPermaLink="false">6cbb10f921f4669da7f47285c35042fe</guid>
+      <itunes:duration>196</itunes:duration>
     </item>
   </channel>
 </rss>
