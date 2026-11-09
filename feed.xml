@@ -1824,5 +1824,31 @@
       <guid isPermaLink="false">56794f5c0a5970881272a1484415631a</guid>
       <itunes:duration>167</itunes:duration>
     </item>
+      <item>
+      <title>sudo su -: GitHub Ace Grants Host Shells to Agents (RIP Sandbox) (TLDR)</title>
+      <pubDate>Mon, 09 Nov 2026 12:30:06 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Aaronson-Ambainis Conjecture Proved: Anthropic&#x27;s model helped researchers formally prove that quantum algorithms cannot achieve exponential speedup over classical computing on random inputs.
+• Offline Agent Memory Architecture: Anthropic detailed an agent memory design that harvests interaction traces and consolidates them offline during idle cycles to prevent semantic drift.
+• GitHub Next Launches Ace: A peer-to-peer multiplayer harness enables local agent collaboration on developer workstations while executing arbitrary shell commands outside repo boundaries.
+• OpenAI Secures $11B Round: OpenAI closed an $11 billion funding tranche at a $1.25 trillion valuation, coming up short of its initial $30 billion target amid aggressive compute expansion.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Aaronson-Ambainis Conjecture Proved:</strong> Anthropic&#x27;s model helped researchers formally prove that quantum algorithms cannot achieve exponential speedup over classical computing on random inputs.</li>
+  <li><strong>Offline Agent Memory Architecture:</strong> Anthropic detailed an agent memory design that harvests interaction traces and consolidates them offline during idle cycles to prevent semantic drift.</li>
+  <li><strong>GitHub Next Launches Ace:</strong> A peer-to-peer multiplayer harness enables local agent collaboration on developer workstations while executing arbitrary shell commands outside repo boundaries.</li>
+  <li><strong>OpenAI Secures $11B Round:</strong> OpenAI closed an $11 billion funding tranche at a $1.25 trillion valuation, coming up short of its initial $30 billion target amid aggressive compute expansion.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Aaronson-Ambainis Conjecture Proved: Anthropic&#x27;s model helped researchers formally prove that quantum algorithms cannot achieve exponential speedup over classical computing on random inputs.
+• Offline Agent Memory Architecture: Anthropic detailed an agent memory design that harvests interaction traces and consolidates them offline during idle cycles to prevent semantic drift.
+• GitHub Next Launches Ace: A peer-to-peer multiplayer harness enables local agent collaboration on developer workstations while executing arbitrary shell commands outside repo boundaries.
+• OpenAI Secures $11B Round: OpenAI closed an $11 billion funding tranche at a $1.25 trillion valuation, coming up short of its initial $30 billion target amid aggressive compute expansion.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261109_tldr_1.mp3" length="2773750" type="audio/mpeg"/>
+      <guid isPermaLink="false">62c03334de5c80579c1d92c0dac97b3a</guid>
+      <itunes:duration>173</itunes:duration>
+    </item>
   </channel>
 </rss>
