@@ -27,84 +27,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>Inflation Ticks Up, Oldest Shipwreck, and a Cat Tour (1440)</title>
-      <pubDate>Thu, 15 Oct 2026 06:13:22 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• U.S. Inflation Surge: Consumer prices rose 3.7% year-over-year in September driven by sharp energy price spikes, reinforcing market expectations of another Federal Reserve rate hike.
-• Nord Stream Sabotage Trial: Criminal proceedings opened in Germany against a former Ukrainian military officer accused of orchestrating the 2022 natural gas pipeline attacks.
-• Saudi Aramco Attack: Iranian-backed Houthi forces struck Saudi Aramco headquarters in Dhahran, igniting a contained fire amid escalating regional conflict.
-• Starlink Throttling Dispute: Ukraine formally accused SpaceX of throttling satellite connectivity during Russian missile strikes against its electrical grid.
-• World&#x27;s Oldest Shipwreck: Marine archaeologists discovered a 4,400-to-4,700-year-old Bronze Age vessel off the southern coast of Turkey with intact jars of olive oil and wine.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>U.S. Inflation Surge:</strong> Consumer prices rose 3.7% year-over-year in September driven by sharp energy price spikes, reinforcing market expectations of another Federal Reserve rate hike.</li>
-  <li><strong>Nord Stream Sabotage Trial:</strong> Criminal proceedings opened in Germany against a former Ukrainian military officer accused of orchestrating the 2022 natural gas pipeline attacks.</li>
-  <li><strong>Saudi Aramco Attack:</strong> Iranian-backed Houthi forces struck Saudi Aramco headquarters in Dhahran, igniting a contained fire amid escalating regional conflict.</li>
-  <li><strong>Starlink Throttling Dispute:</strong> Ukraine formally accused SpaceX of throttling satellite connectivity during Russian missile strikes against its electrical grid.</li>
-  <li><strong>World&#x27;s Oldest Shipwreck:</strong> Marine archaeologists discovered a 4,400-to-4,700-year-old Bronze Age vessel off the southern coast of Turkey with intact jars of olive oil and wine.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• U.S. Inflation Surge: Consumer prices rose 3.7% year-over-year in September driven by sharp energy price spikes, reinforcing market expectations of another Federal Reserve rate hike.
-• Nord Stream Sabotage Trial: Criminal proceedings opened in Germany against a former Ukrainian military officer accused of orchestrating the 2022 natural gas pipeline attacks.
-• Saudi Aramco Attack: Iranian-backed Houthi forces struck Saudi Aramco headquarters in Dhahran, igniting a contained fire amid escalating regional conflict.
-• Starlink Throttling Dispute: Ukraine formally accused SpaceX of throttling satellite connectivity during Russian missile strikes against its electrical grid.
-• World&#x27;s Oldest Shipwreck: Marine archaeologists discovered a 4,400-to-4,700-year-old Bronze Age vessel off the southern coast of Turkey with intact jars of olive oil and wine.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261015_1440_1.mp3" length="2952694" type="audio/mpeg"/>
-      <guid isPermaLink="false">7501f5fb1440c8f6498bcdc768e7bbc2</guid>
-      <itunes:duration>185</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Wed, Oct 14 (SCIENCE_X)</title>
-      <pubDate>Thu, 15 Oct 2026 06:16:35 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Optical Steering of Magnetic Skyrmions: Researchers guided nanoscale magnetic vortices using structured laser beams, eliminating electrical resistive heating for ultra-dense spintronic memory.
-• Autonomous Mechanical Time Crystals: Engineers developed robotic metamaterials with nonreciprocal interactions that spontaneously synchronize into noise-resistant, self-tuning physical clocks.
-• Nonreciprocal Magnonic Quantum Interconnects: A rare-earth-free platform routes quantum information directionally between spin waves and superconducting circuits without bulky external magnetic shields.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Optical Steering of Magnetic Skyrmions:</strong> Researchers guided nanoscale magnetic vortices using structured laser beams, eliminating electrical resistive heating for ultra-dense spintronic memory.</li>
-  <li><strong>Autonomous Mechanical Time Crystals:</strong> Engineers developed robotic metamaterials with nonreciprocal interactions that spontaneously synchronize into noise-resistant, self-tuning physical clocks.</li>
-  <li><strong>Nonreciprocal Magnonic Quantum Interconnects:</strong> A rare-earth-free platform routes quantum information directionally between spin waves and superconducting circuits without bulky external magnetic shields.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Optical Steering of Magnetic Skyrmions: Researchers guided nanoscale magnetic vortices using structured laser beams, eliminating electrical resistive heating for ultra-dense spintronic memory.
-• Autonomous Mechanical Time Crystals: Engineers developed robotic metamaterials with nonreciprocal interactions that spontaneously synchronize into noise-resistant, self-tuning physical clocks.
-• Nonreciprocal Magnonic Quantum Interconnects: A rare-earth-free platform routes quantum information directionally between spin waves and superconducting circuits without bulky external magnetic shields.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261015_science_x_2.mp3" length="3064059" type="audio/mpeg"/>
-      <guid isPermaLink="false">0d389922732dbfe4a981e080a8f1c3c9</guid>
-      <itunes:duration>191</itunes:duration>
-    </item>
-      <item>
-      <title>cat /dev/mic: FBI Busts OpenAI Insider Wiretap (Analog Beats Zero-Trust) (TLDR)</title>
-      <pubDate>Thu, 15 Oct 2026 06:19:41 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• OpenAI Physical Wiretap: An OpenAI employee was arrested by the FBI after planting a physical microphone in an executive conference room, proving physical access still trumps zero-trust security.
-• Anthropic Dynamic Swarms: Anthropic demonstrated recursive multi-agent code workflows for Claude that produce granular analytical results while running up compute bills with zero runtime budget awareness.
-• Nvidia Open-Sources Run:ai: Nvidia released its complete Run:ai orchestration platform and KAI scheduler to allow platform teams to reclaim idle GPU silicon and fraction clusters directly.
-• Character.ai Chapter 11: Character.ai filed for bankruptcy under mounting operational overhead, demonstrating the unsustainable unit economics of persistent conversational state on proprietary compute.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>OpenAI Physical Wiretap:</strong> An OpenAI employee was arrested by the FBI after planting a physical microphone in an executive conference room, proving physical access still trumps zero-trust security.</li>
-  <li><strong>Anthropic Dynamic Swarms:</strong> Anthropic demonstrated recursive multi-agent code workflows for Claude that produce granular analytical results while running up compute bills with zero runtime budget awareness.</li>
-  <li><strong>Nvidia Open-Sources Run:</strong> ai: Nvidia released its complete Run:ai orchestration platform and KAI scheduler to allow platform teams to reclaim idle GPU silicon and fraction clusters directly.</li>
-  <li><strong>Character.ai Chapter 11:</strong> Character.ai filed for bankruptcy under mounting operational overhead, demonstrating the unsustainable unit economics of persistent conversational state on proprietary compute.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• OpenAI Physical Wiretap: An OpenAI employee was arrested by the FBI after planting a physical microphone in an executive conference room, proving physical access still trumps zero-trust security.
-• Anthropic Dynamic Swarms: Anthropic demonstrated recursive multi-agent code workflows for Claude that produce granular analytical results while running up compute bills with zero runtime budget awareness.
-• Nvidia Open-Sources Run:ai: Nvidia released its complete Run:ai orchestration platform and KAI scheduler to allow platform teams to reclaim idle GPU silicon and fraction clusters directly.
-• Character.ai Chapter 11: Character.ai filed for bankruptcy under mounting operational overhead, demonstrating the unsustainable unit economics of persistent conversational state on proprietary compute.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261015_tldr_3.mp3" length="2756086" type="audio/mpeg"/>
-      <guid isPermaLink="false">783dc2a44963eba0de9f81df4662e3ca</guid>
-      <itunes:duration>172</itunes:duration>
-    </item>
-      <item>
       <title>Ukraine Attacks Resume, Elizabeth Holmes, and &#x27;Dog Week&#x27; (1440)</title>
       <pubDate>Fri, 16 Oct 2026 06:13:01 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
@@ -1912,6 +1834,84 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261113_tldr_3.mp3" length="2775670" type="audio/mpeg"/>
       <guid isPermaLink="false">3d8909f595e6a8a7966744dfecf3d3b2</guid>
       <itunes:duration>173</itunes:duration>
+    </item>
+      <item>
+      <title>Brain Atlas, Cruise Ship Collision, and the Safest Cities (1440)</title>
+      <pubDate>Sat, 14 Nov 2026 06:15:30 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Senate Democratic Leadership Challenge: Maryland Senator Chris Van Hollen announced a contested bid against Chuck Schumer for Senate Democratic Leader this December.
+• Global Microsoft Service Outage: An internal technical glitch disrupted operations across hospitals, courts, and emergency networks in 74 countries affecting 450 million users.
+• FAA Nationwide Ground Stop: The Federal Aviation Administration grounded flights across the country for four hours due to outdated air traffic control systems.
+• Basal Ganglia Brain Atlas: An international consortium mapped 25 million brain cells across 26 studies, discovering a novel cell type tied to schizophrenia and bipolar disorder.
+• Rapid Tuberculosis Field Test: Researchers developed a 20-minute tongue-swab test for tuberculosis that delivers fast diagnoses even in extreme heat conditions.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Senate Democratic Leadership Challenge:</strong> Maryland Senator Chris Van Hollen announced a contested bid against Chuck Schumer for Senate Democratic Leader this December.</li>
+  <li><strong>Global Microsoft Service Outage:</strong> An internal technical glitch disrupted operations across hospitals, courts, and emergency networks in 74 countries affecting 450 million users.</li>
+  <li><strong>FAA Nationwide Ground Stop:</strong> The Federal Aviation Administration grounded flights across the country for four hours due to outdated air traffic control systems.</li>
+  <li><strong>Basal Ganglia Brain Atlas:</strong> An international consortium mapped 25 million brain cells across 26 studies, discovering a novel cell type tied to schizophrenia and bipolar disorder.</li>
+  <li><strong>Rapid Tuberculosis Field Test:</strong> Researchers developed a 20-minute tongue-swab test for tuberculosis that delivers fast diagnoses even in extreme heat conditions.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Senate Democratic Leadership Challenge: Maryland Senator Chris Van Hollen announced a contested bid against Chuck Schumer for Senate Democratic Leader this December.
+• Global Microsoft Service Outage: An internal technical glitch disrupted operations across hospitals, courts, and emergency networks in 74 countries affecting 450 million users.
+• FAA Nationwide Ground Stop: The Federal Aviation Administration grounded flights across the country for four hours due to outdated air traffic control systems.
+• Basal Ganglia Brain Atlas: An international consortium mapped 25 million brain cells across 26 studies, discovering a novel cell type tied to schizophrenia and bipolar disorder.
+• Rapid Tuberculosis Field Test: Researchers developed a 20-minute tongue-swab test for tuberculosis that delivers fast diagnoses even in extreme heat conditions.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261114_1440_1.mp3" length="2820598" type="audio/mpeg"/>
+      <guid isPermaLink="false">f976b9353ed169a21610b167a912d829</guid>
+      <itunes:duration>176</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Fri, Nov 13 (SCIENCE_X)</title>
+      <pubDate>Sat, 14 Nov 2026 06:22:29 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Room-Temperature Photonic Switches: Predictive machine learning algorithms suppress spectral diffusion twenty-fold in silicon nitride single-photon emitters to stabilize optical switching.
+• Rydberg Quantum Microwave Sensing: Intentional dipole coupling among cold Rydberg atoms mitigates environmental noise and triples field data capture.
+• Nanoparticle Induction Adhesive Curing: Infusing structural resins with iron oxide nanoparticles energized by radiofrequency fields slashes aerospace bonding times from twenty-four hours to sixty minutes.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Room-Temperature Photonic Switches:</strong> Predictive machine learning algorithms suppress spectral diffusion twenty-fold in silicon nitride single-photon emitters to stabilize optical switching.</li>
+  <li><strong>Rydberg Quantum Microwave Sensing:</strong> Intentional dipole coupling among cold Rydberg atoms mitigates environmental noise and triples field data capture.</li>
+  <li><strong>Nanoparticle Induction Adhesive Curing:</strong> Infusing structural resins with iron oxide nanoparticles energized by radiofrequency fields slashes aerospace bonding times from twenty-four hours to sixty minutes.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Room-Temperature Photonic Switches: Predictive machine learning algorithms suppress spectral diffusion twenty-fold in silicon nitride single-photon emitters to stabilize optical switching.
+• Rydberg Quantum Microwave Sensing: Intentional dipole coupling among cold Rydberg atoms mitigates environmental noise and triples field data capture.
+• Nanoparticle Induction Adhesive Curing: Infusing structural resins with iron oxide nanoparticles energized by radiofrequency fields slashes aerospace bonding times from twenty-four hours to sixty minutes.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261114_science_x_2.mp3" length="3249915" type="audio/mpeg"/>
+      <guid isPermaLink="false">46b19a26b438c283a72bfc7e649b0d25</guid>
+      <itunes:duration>203</itunes:duration>
+    </item>
+      <item>
+      <title>stripe charges create: Replit Hands Agents Live Credit Cards (RIP CFO) (TLDR)</title>
+      <pubDate>Sat, 14 Nov 2026 06:26:45 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Gemini 4 Hydrogen: Google released an inference-optimized model tuned for coding loops, delivering strong benchmark scores at reduced token costs.
+• Divergent Agent Sandboxing: Anthropic introduced VPC-isolated managed agents with zero data retention, contrasting with Replit giving autonomous agents direct corporate credit card access.
+• Deterministic Inference via Integer Math: Researchers eliminated GPU logit drift caused by floating-point non-associativity by shifting intermediate matrix accumulations into exact integer arithmetic.
+• Pragmatic Architecture Convergence: Industry development is pivoting away from brute-force scaling toward lean routing, formal verification, and hardened execution sandboxes.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Gemini 4 Hydrogen:</strong> Google released an inference-optimized model tuned for coding loops, delivering strong benchmark scores at reduced token costs.</li>
+  <li><strong>Divergent Agent Sandboxing:</strong> Anthropic introduced VPC-isolated managed agents with zero data retention, contrasting with Replit giving autonomous agents direct corporate credit card access.</li>
+  <li><strong>Deterministic Inference via Integer Math:</strong> Researchers eliminated GPU logit drift caused by floating-point non-associativity by shifting intermediate matrix accumulations into exact integer arithmetic.</li>
+  <li><strong>Pragmatic Architecture Convergence:</strong> Industry development is pivoting away from brute-force scaling toward lean routing, formal verification, and hardened execution sandboxes.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Gemini 4 Hydrogen: Google released an inference-optimized model tuned for coding loops, delivering strong benchmark scores at reduced token costs.
+• Divergent Agent Sandboxing: Anthropic introduced VPC-isolated managed agents with zero data retention, contrasting with Replit giving autonomous agents direct corporate credit card access.
+• Deterministic Inference via Integer Math: Researchers eliminated GPU logit drift caused by floating-point non-associativity by shifting intermediate matrix accumulations into exact integer arithmetic.
+• Pragmatic Architecture Convergence: Industry development is pivoting away from brute-force scaling toward lean routing, formal verification, and hardened execution sandboxes.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261114_tldr_3.mp3" length="2930806" type="audio/mpeg"/>
+      <guid isPermaLink="false">973f902a7d7986601dc0f7b4126b340a</guid>
+      <itunes:duration>183</itunes:duration>
     </item>
   </channel>
 </rss>
