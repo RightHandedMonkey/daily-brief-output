@@ -27,81 +27,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>Ukraine Attacks Resume, Elizabeth Holmes, and &#x27;Dog Week&#x27; (1440)</title>
-      <pubDate>Fri, 16 Oct 2026 06:13:01 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Ukraine-Russia Escalation: Ukrainian forces struck an oil refinery near Moscow in retaliation for Russian strikes on Kyiv&#x27;s power grid, defying a White House energy ceasefire.
-• Military Execution Broadcast Revoked: The Pentagon canceled plans to televise the execution of Fort Hood shooter Nidal Hasan following significant bipartisan backlash.
-• Oregon School Shooting: An armed teenager killed four people at an elementary school in Bend, Oregon, before being stopped by an armed bystander.
-• Divergent Financial Indicators: Wholesale inflation climbed 6.3% over the past twelve months on the Producer Price Index, while the benchmark 10-year Treasury yield dropped sharply to 5.1%.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Ukraine-Russia Escalation:</strong> Ukrainian forces struck an oil refinery near Moscow in retaliation for Russian strikes on Kyiv&#x27;s power grid, defying a White House energy ceasefire.</li>
-  <li><strong>Military Execution Broadcast Revoked:</strong> The Pentagon canceled plans to televise the execution of Fort Hood shooter Nidal Hasan following significant bipartisan backlash.</li>
-  <li><strong>Oregon School Shooting:</strong> An armed teenager killed four people at an elementary school in Bend, Oregon, before being stopped by an armed bystander.</li>
-  <li><strong>Divergent Financial Indicators:</strong> Wholesale inflation climbed 6.3% over the past twelve months on the Producer Price Index, while the benchmark 10-year Treasury yield dropped sharply to 5.1%.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Ukraine-Russia Escalation: Ukrainian forces struck an oil refinery near Moscow in retaliation for Russian strikes on Kyiv&#x27;s power grid, defying a White House energy ceasefire.
-• Military Execution Broadcast Revoked: The Pentagon canceled plans to televise the execution of Fort Hood shooter Nidal Hasan following significant bipartisan backlash.
-• Oregon School Shooting: An armed teenager killed four people at an elementary school in Bend, Oregon, before being stopped by an armed bystander.
-• Divergent Financial Indicators: Wholesale inflation climbed 6.3% over the past twelve months on the Producer Price Index, while the benchmark 10-year Treasury yield dropped sharply to 5.1%.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261016_1440_1.mp3" length="3011830" type="audio/mpeg"/>
-      <guid isPermaLink="false">1fba71c86cd6b7fde459b2c99cb814b0</guid>
-      <itunes:duration>188</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Thu, Oct 15 (SCIENCE_X)</title>
-      <pubDate>Fri, 16 Oct 2026 06:16:03 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Monolithic 2D Transistors: Researchers chemically transmuted a continuous tungsten diselenide crystal into insulating, conducting, and semiconducting zones to build seamless, defect-free transistors.
-• High-Fidelity Silicon Spin Qubits: Real-time pairwise phase calibration neutralized microwave crosstalk, pushing simultaneous gate fidelities past 99.99% across three qubits.
-• Chip-Scale Optical Gyroscope: A CMOS-compatible silicon nitride micro-resonator utilizing Brillouin scattering enabled tactical-grade inertial navigation on a chip.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Monolithic 2D Transistors:</strong> Researchers chemically transmuted a continuous tungsten diselenide crystal into insulating, conducting, and semiconducting zones to build seamless, defect-free transistors.</li>
-  <li><strong>High-Fidelity Silicon Spin Qubits:</strong> Real-time pairwise phase calibration neutralized microwave crosstalk, pushing simultaneous gate fidelities past 99.99% across three qubits.</li>
-  <li><strong>Chip-Scale Optical Gyroscope:</strong> A CMOS-compatible silicon nitride micro-resonator utilizing Brillouin scattering enabled tactical-grade inertial navigation on a chip.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Monolithic 2D Transistors: Researchers chemically transmuted a continuous tungsten diselenide crystal into insulating, conducting, and semiconducting zones to build seamless, defect-free transistors.
-• High-Fidelity Silicon Spin Qubits: Real-time pairwise phase calibration neutralized microwave crosstalk, pushing simultaneous gate fidelities past 99.99% across three qubits.
-• Chip-Scale Optical Gyroscope: A CMOS-compatible silicon nitride micro-resonator utilizing Brillouin scattering enabled tactical-grade inertial navigation on a chip.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261016_science_x_2.mp3" length="3157755" type="audio/mpeg"/>
-      <guid isPermaLink="false">477d99c181279c3646b6a6d05f84b76f</guid>
-      <itunes:duration>197</itunes:duration>
-    </item>
-      <item>
-      <title>strace -p agent: Anthropic Instruments Claude (Dashboards Scream in OTLP) (TLDR)</title>
-      <pubDate>Fri, 16 Oct 2026 06:19:08 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Anthropic Adds OpenTelemetry to Claude: Claude Managed Agents and SDKs now support standardized OTLP tracing to monitor tool calls and execution loops.
-• Google Research Unveils Harness Squared: A new architecture explores recursive self-improvement by mutating prompts, tools, and memory orchestration rather than model weights.
-• Rise of Dynamic Model Routers: AI infrastructure stacks are shifting to dynamic routers across open-weight specialists to control token spend and frontier model reliance.
-• The Multi-Agent Velocity Bottleneck: High-speed automated code generation is recreating the Mythical Man-Month by shifting development drag entirely to code review and verification.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Anthropic Adds OpenTelemetry to Claude:</strong> Claude Managed Agents and SDKs now support standardized OTLP tracing to monitor tool calls and execution loops.</li>
-  <li><strong>Google Research Unveils Harness Squared:</strong> A new architecture explores recursive self-improvement by mutating prompts, tools, and memory orchestration rather than model weights.</li>
-  <li><strong>Rise of Dynamic Model Routers:</strong> AI infrastructure stacks are shifting to dynamic routers across open-weight specialists to control token spend and frontier model reliance.</li>
-  <li><strong>The Multi-Agent Velocity Bottleneck:</strong> High-speed automated code generation is recreating the Mythical Man-Month by shifting development drag entirely to code review and verification.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Anthropic Adds OpenTelemetry to Claude: Claude Managed Agents and SDKs now support standardized OTLP tracing to monitor tool calls and execution loops.
-• Google Research Unveils Harness Squared: A new architecture explores recursive self-improvement by mutating prompts, tools, and memory orchestration rather than model weights.
-• Rise of Dynamic Model Routers: AI infrastructure stacks are shifting to dynamic routers across open-weight specialists to control token spend and frontier model reliance.
-• The Multi-Agent Velocity Bottleneck: High-speed automated code generation is recreating the Mythical Man-Month by shifting development drag entirely to code review and verification.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261016_tldr_3.mp3" length="2762230" type="audio/mpeg"/>
-      <guid isPermaLink="false">3060ff6c780f82c21a3ab88accf24915</guid>
-      <itunes:duration>173</itunes:duration>
-    </item>
-      <item>
       <title>Flying Car, Oregon School Shooting, and Grown-up Happy Meals (1440)</title>
       <pubDate>Sat, 17 Oct 2026 06:13:13 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
@@ -1912,6 +1837,32 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261114_tldr_3.mp3" length="2930806" type="audio/mpeg"/>
       <guid isPermaLink="false">973f902a7d7986601dc0f7b4126b340a</guid>
       <itunes:duration>183</itunes:duration>
+    </item>
+      <item>
+      <title>Martin Scorsese, Trump in China, and a Daily Geography Game (1440)</title>
+      <pubDate>Sun, 15 Nov 2026 06:14:39 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• US-China Diplomatic Summit: President Trump travels to Beijing for high-stakes trade discussions with Xi Jinping, with officials noting potential for a trilateral meeting with Vladimir Putin.
+• Market Reaction &amp; Tech Leadership: Investors monitor Nvidia following an abrupt interim CEO transition as solid October jobs data prompts a repricing of year-end Federal Reserve rate expectations.
+• Voyager 1 Deep-Space Milestone: NASA&#x27;s Voyager 1 spacecraft reaches sixteen billion miles from Earth, marking a historic distance of exactly one light-day.
+• Historic Congressional Orientation: Newly elected lawmakers on Capitol Hill conclude orientation for the largest incoming freshman class of House members since 1933.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>US-China Diplomatic Summit:</strong> President Trump travels to Beijing for high-stakes trade discussions with Xi Jinping, with officials noting potential for a trilateral meeting with Vladimir Putin.</li>
+  <li><strong>Market Reaction &amp; Tech Leadership:</strong> Investors monitor Nvidia following an abrupt interim CEO transition as solid October jobs data prompts a repricing of year-end Federal Reserve rate expectations.</li>
+  <li><strong>Voyager 1 Deep-Space Milestone:</strong> NASA&#x27;s Voyager 1 spacecraft reaches sixteen billion miles from Earth, marking a historic distance of exactly one light-day.</li>
+  <li><strong>Historic Congressional Orientation:</strong> Newly elected lawmakers on Capitol Hill conclude orientation for the largest incoming freshman class of House members since 1933.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• US-China Diplomatic Summit: President Trump travels to Beijing for high-stakes trade discussions with Xi Jinping, with officials noting potential for a trilateral meeting with Vladimir Putin.
+• Market Reaction &amp; Tech Leadership: Investors monitor Nvidia following an abrupt interim CEO transition as solid October jobs data prompts a repricing of year-end Federal Reserve rate expectations.
+• Voyager 1 Deep-Space Milestone: NASA&#x27;s Voyager 1 spacecraft reaches sixteen billion miles from Earth, marking a historic distance of exactly one light-day.
+• Historic Congressional Orientation: Newly elected lawmakers on Capitol Hill conclude orientation for the largest incoming freshman class of House members since 1933.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261115_1440_1.mp3" length="2950390" type="audio/mpeg"/>
+      <guid isPermaLink="false">69309e8a7d88a469850f3cd785d332d2</guid>
+      <itunes:duration>184</itunes:duration>
     </item>
   </channel>
 </rss>
