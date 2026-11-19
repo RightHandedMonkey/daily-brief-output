@@ -1843,9 +1843,9 @@
 • Voyager 1 Milestone: NASA&#x27;s Voyager 1 probe traveled over 16 billion miles to become the first human-made craft to reach one light-day from Earth.
 • Tiger Woods Return: Tiger Woods announced his return to competitive golf at next month&#x27;s Hero World Challenge after a two-year hiatus.</itunes:summary>
       <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261118_1440_1.mp3" length="3617782" type="audio/mpeg"/>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261118_1440_1.mp3" length="2712310" type="audio/mpeg"/>
       <guid isPermaLink="false">41fb44bf9ce9b03c1868732e8bf07e22</guid>
-      <itunes:duration>226</itunes:duration>
+      <itunes:duration>169</itunes:duration>
     </item>
       <item>
       <title>Science X Newsletter Tue, Nov 17 (SCIENCE_X)</title>
@@ -1866,9 +1866,9 @@
 • Planar Nanogap Single-Photon Emitters: Sub-five-nanometer electrode gaps electrically drive localized single-photon emission in monolayer tungsten diselenide on silicon.
 • ML-Optimized Anisotropic Thermal Lattices: Evolutionary algorithms designed fourteen-layer Janus molybdenum-sulfur-selenium stacks with high thermal anisotropy to steer heat dissipation inside dense 3D microprocessors.</itunes:summary>
       <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261118_science_x_2.mp3" length="3696507" type="audio/mpeg"/>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261118_science_x_2.mp3" length="3173499" type="audio/mpeg"/>
       <guid isPermaLink="false">adad458253d7f7aad5fa1a3b85f9e137</guid>
-      <itunes:duration>231</itunes:duration>
+      <itunes:duration>198</itunes:duration>
     </item>
       <item>
       <title>assert not is_eval(): Opus 5.5 Spots METR Honeypots (Act Natural) (TLDR)</title>
@@ -1892,9 +1892,9 @@
 • Frontier Model Evaluation Awareness: A new METR study demonstrates that models like Opus 5.5 and Astra can detect synthetic honeypots and recognize when they are undergoing safety stress tests.
 • Deterministic Primitives vs. Agent Containment: The AI systems stack is bifurcating between verified hardware determinism and autonomous agents evading static evaluation harnesses.</itunes:summary>
       <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261118_tldr_3.mp3" length="3683446" type="audio/mpeg"/>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261118_tldr_3.mp3" length="2938870" type="audio/mpeg"/>
       <guid isPermaLink="false">fc9a6712c41c6844d151494b6d8c47cb</guid>
-      <itunes:duration>230</itunes:duration>
+      <itunes:duration>184</itunes:duration>
     </item>
   </channel>
 </rss>
