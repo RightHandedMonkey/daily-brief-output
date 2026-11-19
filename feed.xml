@@ -27,78 +27,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>Voter Fraud Arrests, OpenAI Spy, and Leap Hours (1440)</title>
-      <pubDate>Tue, 20 Oct 2026 06:15:04 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Voting &amp; Espionage Arrests: Federal authorities in California arrested over two dozen people for alleged illegal voting, while prosecutors sought detention for an engineer accused of bugging OpenAI headquarters.
-• Financial Markets &amp; Tech Equity: US markets closed mixed ahead of earnings while Elon Musk pledged future SpaceX shares to American children following Anthropic&#x27;s equity commitment to a public benefit fund.
-• Women&#x27;s Health &amp; Apple Hardware: The White House established a dedicated NIH division for women&#x27;s health research, while Apple announced an October showcase anticipated to reveal a touch-screen MacBook Pro.
-• World Series &amp; Sports News: The Tampa Bay Rays advanced to face Milwaukee in the World Series, while Philadelphia Eagles quarterback Jalen Hurts was sidelined for the season with pulmonary blood clots.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Voting &amp; Espionage Arrests:</strong> Federal authorities in California arrested over two dozen people for alleged illegal voting, while prosecutors sought detention for an engineer accused of bugging OpenAI headquarters.</li>
-  <li><strong>Financial Markets &amp; Tech Equity:</strong> US markets closed mixed ahead of earnings while Elon Musk pledged future SpaceX shares to American children following Anthropic&#x27;s equity commitment to a public benefit fund.</li>
-  <li><strong>Women&#x27;s Health &amp; Apple Hardware:</strong> The White House established a dedicated NIH division for women&#x27;s health research, while Apple announced an October showcase anticipated to reveal a touch-screen MacBook Pro.</li>
-  <li><strong>World Series &amp; Sports News:</strong> The Tampa Bay Rays advanced to face Milwaukee in the World Series, while Philadelphia Eagles quarterback Jalen Hurts was sidelined for the season with pulmonary blood clots.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Voting &amp; Espionage Arrests: Federal authorities in California arrested over two dozen people for alleged illegal voting, while prosecutors sought detention for an engineer accused of bugging OpenAI headquarters.
-• Financial Markets &amp; Tech Equity: US markets closed mixed ahead of earnings while Elon Musk pledged future SpaceX shares to American children following Anthropic&#x27;s equity commitment to a public benefit fund.
-• Women&#x27;s Health &amp; Apple Hardware: The White House established a dedicated NIH division for women&#x27;s health research, while Apple announced an October showcase anticipated to reveal a touch-screen MacBook Pro.
-• World Series &amp; Sports News: The Tampa Bay Rays advanced to face Milwaukee in the World Series, while Philadelphia Eagles quarterback Jalen Hurts was sidelined for the season with pulmonary blood clots.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261020_1440_1.mp3" length="2657398" type="audio/mpeg"/>
-      <guid isPermaLink="false">157f9cad32aa772afbeaad4a84ae6478</guid>
-      <itunes:duration>166</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Mon, Oct 19 (SCIENCE_X)</title>
-      <pubDate>Tue, 20 Oct 2026 06:20:29 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Atomic-Scale Graphene Memory: Deterministic voltage pulses physically shift four-layer graphene into a stable rhombohedral lattice, enabling nonvolatile magnetic memory without continuous power.
-• Superconducting Magic State Cultivation: Autonomous distillation routines slashed quantum gate logic errors forty-fold to 99.99% fidelity, advancing universal fault-tolerant computation.
-• Hybrid Diamond-GaP Quantum Interconnects: Bonding gallium phosphide nanophotonics onto bulk diamond achieved optical cavities with 99.5% yield and 400-microsecond coherence for scalable quantum networks.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Atomic-Scale Graphene Memory:</strong> Deterministic voltage pulses physically shift four-layer graphene into a stable rhombohedral lattice, enabling nonvolatile magnetic memory without continuous power.</li>
-  <li><strong>Superconducting Magic State Cultivation:</strong> Autonomous distillation routines slashed quantum gate logic errors forty-fold to 99.99% fidelity, advancing universal fault-tolerant computation.</li>
-  <li><strong>Hybrid Diamond-GaP Quantum Interconnects:</strong> Bonding gallium phosphide nanophotonics onto bulk diamond achieved optical cavities with 99.5% yield and 400-microsecond coherence for scalable quantum networks.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Atomic-Scale Graphene Memory: Deterministic voltage pulses physically shift four-layer graphene into a stable rhombohedral lattice, enabling nonvolatile magnetic memory without continuous power.
-• Superconducting Magic State Cultivation: Autonomous distillation routines slashed quantum gate logic errors forty-fold to 99.99% fidelity, advancing universal fault-tolerant computation.
-• Hybrid Diamond-GaP Quantum Interconnects: Bonding gallium phosphide nanophotonics onto bulk diamond achieved optical cavities with 99.5% yield and 400-microsecond coherence for scalable quantum networks.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261020_science_x_2.mp3" length="2885115" type="audio/mpeg"/>
-      <guid isPermaLink="false">602e83fc9d5d13cf64302dbe4f90631d</guid>
-      <itunes:duration>180</itunes:duration>
-    </item>
-      <item>
-      <title>exit 137: DeepSeek Compresses KV Cache to FP4 as Replit Dumps Claude (TLDR)</title>
-      <pubDate>Tue, 20 Oct 2026 06:24:27 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• DeepSeek V4.1 Flash KV Compression: DeepSeek slashes persistent memory footprint to 890 bytes per token using Compressed Sparse Attention 2 and FP4 key-value caching.
-• Replit Replaces Claude with OpenAI: Replit Agent drops Anthropic in favor of OpenAI to cut token expenses and optimize unit economics.
-• Synthetic PRs Crush Junior Hiring: Anthropic data shows junior technical hiring fell from 27% to 9% as engineering teams struggle to verify machine-generated pull requests.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>DeepSeek V4.1 Flash KV Compression:</strong> DeepSeek slashes persistent memory footprint to 890 bytes per token using Compressed Sparse Attention 2 and FP4 key-value caching.</li>
-  <li><strong>Replit Replaces Claude with OpenAI:</strong> Replit Agent drops Anthropic in favor of OpenAI to cut token expenses and optimize unit economics.</li>
-  <li><strong>Synthetic PRs Crush Junior Hiring:</strong> Anthropic data shows junior technical hiring fell from 27% to 9% as engineering teams struggle to verify machine-generated pull requests.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• DeepSeek V4.1 Flash KV Compression: DeepSeek slashes persistent memory footprint to 890 bytes per token using Compressed Sparse Attention 2 and FP4 key-value caching.
-• Replit Replaces Claude with OpenAI: Replit Agent drops Anthropic in favor of OpenAI to cut token expenses and optimize unit economics.
-• Synthetic PRs Crush Junior Hiring: Anthropic data shows junior technical hiring fell from 27% to 9% as engineering teams struggle to verify machine-generated pull requests.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261020_tldr_3.mp3" length="2445430" type="audio/mpeg"/>
-      <guid isPermaLink="false">8e6cb70af59d469998263f05ae0f2054</guid>
-      <itunes:duration>153</itunes:duration>
-    </item>
-      <item>
       <title>Sudanese Market Attack, Alberta Recommits, and Regrowing a Knee (1440)</title>
       <pubDate>Wed, 21 Oct 2026 06:13:54 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
@@ -1895,6 +1823,84 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261118_tldr_3.mp3" length="2938870" type="audio/mpeg"/>
       <guid isPermaLink="false">fc9a6712c41c6844d151494b6d8c47cb</guid>
       <itunes:duration>184</itunes:duration>
+    </item>
+      <item>
+      <title>Trump-Xi-Putin Summit, Grand Theft Auto, and Animal Emissions (1440)</title>
+      <pubDate>Thu, 19 Nov 2026 06:13:59 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Trilateral Summit &amp; Diplomatic Shifts: President Trump begins a trilateral meeting with Xi Jinping and Vladimir Putin as House Democrats nominate Hakeem Jeffries for speaker and the U.S. restores military ties with Venezuela.
+• Anthropic&#x27;s Blockbuster Nasdaq Debut: Anthropic goes public under ticker ANT at a $1.5 trillion valuation after raising $68.5 billion, alongside mixed markets on Fed rate-hike signals and a 25-year low in pending-home sales.
+• Autonomous Flying Micro-Robots: Researchers built insect-sized robots with onboard sensors and computing to navigate independently for crop pollination and search-and-rescue, while new fossil evidence extends Homo erectus&#x27;s rainforest timeline.
+• Grand Theft Auto VI Midnight Launch: Grand Theft Auto Six releases after 13 years with $1.6 billion in preorders and one in five salaried workers planning to take the day off, alongside Ella Langley&#x27;s 2026 CMA Awards sweep.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Trilateral Summit &amp; Diplomatic Shifts:</strong> President Trump begins a trilateral meeting with Xi Jinping and Vladimir Putin as House Democrats nominate Hakeem Jeffries for speaker and the U.S. restores military ties with Venezuela.</li>
+  <li><strong>Anthropic&#x27;s Blockbuster Nasdaq Debut:</strong> Anthropic goes public under ticker ANT at a $1.5 trillion valuation after raising $68.5 billion, alongside mixed markets on Fed rate-hike signals and a 25-year low in pending-home sales.</li>
+  <li><strong>Autonomous Flying Micro-Robots:</strong> Researchers built insect-sized robots with onboard sensors and computing to navigate independently for crop pollination and search-and-rescue, while new fossil evidence extends Homo erectus&#x27;s rainforest timeline.</li>
+  <li><strong>Grand Theft Auto VI Midnight Launch:</strong> Grand Theft Auto Six releases after 13 years with $1.6 billion in preorders and one in five salaried workers planning to take the day off, alongside Ella Langley&#x27;s 2026 CMA Awards sweep.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Trilateral Summit &amp; Diplomatic Shifts: President Trump begins a trilateral meeting with Xi Jinping and Vladimir Putin as House Democrats nominate Hakeem Jeffries for speaker and the U.S. restores military ties with Venezuela.
+• Anthropic&#x27;s Blockbuster Nasdaq Debut: Anthropic goes public under ticker ANT at a $1.5 trillion valuation after raising $68.5 billion, alongside mixed markets on Fed rate-hike signals and a 25-year low in pending-home sales.
+• Autonomous Flying Micro-Robots: Researchers built insect-sized robots with onboard sensors and computing to navigate independently for crop pollination and search-and-rescue, while new fossil evidence extends Homo erectus&#x27;s rainforest timeline.
+• Grand Theft Auto VI Midnight Launch: Grand Theft Auto Six releases after 13 years with $1.6 billion in preorders and one in five salaried workers planning to take the day off, alongside Ella Langley&#x27;s 2026 CMA Awards sweep.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261119_1440_1.mp3" length="3191158" type="audio/mpeg"/>
+      <guid isPermaLink="false">32695b8af3a121b29600655a7089af78</guid>
+      <itunes:duration>199</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Wed, Nov 18 (SCIENCE_X)</title>
+      <pubDate>Thu, 19 Nov 2026 06:21:29 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Targeted Plant Nanosyringes: Bioengineers adapted bacterial nanosyringes to dock with FLS2 surface receptors on intact plant leaves, reaching 75% delivery efficiency when receptors are overexpressed for cleaner genome editing.
+• Microwave Qutrit Networking: Physicists transmitted three-level qutrit states across a one-meter microwave link between superconducting chips, using readout-error correction to achieve over 83% transfer fidelity and 81% three-dimensional entanglement.
+• Single-Shot Strontium Spin Readout: Using a quantum-gas microscope with spin-selective fluorescence optics and sequential state-transfer sequences, researchers captured all ten spin states of individual strontium atoms in a single run.
+• Modular Deep-Tech Shift: Across biology and quantum hardware, systems are moving away from bulky external scaffolding toward direct biological interventions, modular linked processors, and single-event measurement.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Targeted Plant Nanosyringes:</strong> Bioengineers adapted bacterial nanosyringes to dock with FLS2 surface receptors on intact plant leaves, reaching 75% delivery efficiency when receptors are overexpressed for cleaner genome editing.</li>
+  <li><strong>Microwave Qutrit Networking:</strong> Physicists transmitted three-level qutrit states across a one-meter microwave link between superconducting chips, using readout-error correction to achieve over 83% transfer fidelity and 81% three-dimensional entanglement.</li>
+  <li><strong>Single-Shot Strontium Spin Readout:</strong> Using a quantum-gas microscope with spin-selective fluorescence optics and sequential state-transfer sequences, researchers captured all ten spin states of individual strontium atoms in a single run.</li>
+  <li><strong>Modular Deep-Tech Shift:</strong> Across biology and quantum hardware, systems are moving away from bulky external scaffolding toward direct biological interventions, modular linked processors, and single-event measurement.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Targeted Plant Nanosyringes: Bioengineers adapted bacterial nanosyringes to dock with FLS2 surface receptors on intact plant leaves, reaching 75% delivery efficiency when receptors are overexpressed for cleaner genome editing.
+• Microwave Qutrit Networking: Physicists transmitted three-level qutrit states across a one-meter microwave link between superconducting chips, using readout-error correction to achieve over 83% transfer fidelity and 81% three-dimensional entanglement.
+• Single-Shot Strontium Spin Readout: Using a quantum-gas microscope with spin-selective fluorescence optics and sequential state-transfer sequences, researchers captured all ten spin states of individual strontium atoms in a single run.
+• Modular Deep-Tech Shift: Across biology and quantum hardware, systems are moving away from bulky external scaffolding toward direct biological interventions, modular linked processors, and single-event measurement.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261119_science_x_2.mp3" length="2842875" type="audio/mpeg"/>
+      <guid isPermaLink="false">0834e1477a6c2235c9bd713c4620a198</guid>
+      <itunes:duration>178</itunes:duration>
+    </item>
+      <item>
+      <title>gdb --write model.pt: Agents Patch Weights &amp; Ship 38 Models (Send Help) (TLDR)</title>
+      <pubDate>Thu, 19 Nov 2026 06:24:35 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Disaggregated &amp; Sparse Inference Economics: Cerebras splits prefill onto GPUs and decode onto wafer-scale silicon for 5x tokens per megawatt alongside NVIDIA sparse attention co-design and Microsoft&#x27;s lower-cost MAI Code 2.
+• Weight-Space Programming &amp; Harness Impact: Researchers are having frontier models directly inspect and patch raw network weights while FrontierHarness Eval shows orchestration design alone swings per-task cost by up to 5x.
+• Autonomous Open-Source Model Proliferation: Given 600+ GPU hours and an empty Hugging Face account, an Opus 5.5 agent independently published 38 models across over 100 GitHub repositories with 50,000+ downloads.
+• Budget-Capped Swarms &amp; Payment-Enabled Agents: Replit Missions introduces spend-limited agent swarms while Google&#x27;s Gemini app can now phone businesses and pay bills within set limits, widening the credential blast radius.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Disaggregated &amp; Sparse Inference Economics:</strong> Cerebras splits prefill onto GPUs and decode onto wafer-scale silicon for 5x tokens per megawatt alongside NVIDIA sparse attention co-design and Microsoft&#x27;s lower-cost MAI Code 2.</li>
+  <li><strong>Weight-Space Programming &amp; Harness Impact:</strong> Researchers are having frontier models directly inspect and patch raw network weights while FrontierHarness Eval shows orchestration design alone swings per-task cost by up to 5x.</li>
+  <li><strong>Autonomous Open-Source Model Proliferation:</strong> Given 600+ GPU hours and an empty Hugging Face account, an Opus 5.5 agent independently published 38 models across over 100 GitHub repositories with 50,000+ downloads.</li>
+  <li><strong>Budget-Capped Swarms &amp; Payment-Enabled Agents:</strong> Replit Missions introduces spend-limited agent swarms while Google&#x27;s Gemini app can now phone businesses and pay bills within set limits, widening the credential blast radius.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Disaggregated &amp; Sparse Inference Economics: Cerebras splits prefill onto GPUs and decode onto wafer-scale silicon for 5x tokens per megawatt alongside NVIDIA sparse attention co-design and Microsoft&#x27;s lower-cost MAI Code 2.
+• Weight-Space Programming &amp; Harness Impact: Researchers are having frontier models directly inspect and patch raw network weights while FrontierHarness Eval shows orchestration design alone swings per-task cost by up to 5x.
+• Autonomous Open-Source Model Proliferation: Given 600+ GPU hours and an empty Hugging Face account, an Opus 5.5 agent independently published 38 models across over 100 GitHub repositories with 50,000+ downloads.
+• Budget-Capped Swarms &amp; Payment-Enabled Agents: Replit Missions introduces spend-limited agent swarms while Google&#x27;s Gemini app can now phone businesses and pay bills within set limits, widening the credential blast radius.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261119_tldr_3.mp3" length="2656630" type="audio/mpeg"/>
+      <guid isPermaLink="false">a73764bafff56a8d65a75839bcd089bb</guid>
+      <itunes:duration>166</itunes:duration>
     </item>
   </channel>
 </rss>
