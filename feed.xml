@@ -27,84 +27,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>Sudanese Market Attack, Alberta Recommits, and Regrowing a Knee (1440)</title>
-      <pubDate>Wed, 21 Oct 2026 06:13:54 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Abyei Drone Strike: A market strike in the disputed border region killed at least 153 people, heightening fears of spillover from Sudan&#x27;s civil war.
-• Alberta Independence Vote: Alberta voters overwhelmingly rejected separation from Canada, with 75 percent voting to remain.
-• Salesforce Acquires Braze: Salesforce announced an all-cash $5.7 billion acquisition of customer engagement platform Braze.
-• AI-Designed Phage Therapy: Biotechnology firm Radical Numerics treated the first human patient using an AI-engineered bacteriophage to target antibiotic-resistant bacteria.
-• Cryopreserved Organ Revival: Researchers successfully restored function in animal trials to pig kidneys revived after a year in ultracold storage.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Abyei Drone Strike:</strong> A market strike in the disputed border region killed at least 153 people, heightening fears of spillover from Sudan&#x27;s civil war.</li>
-  <li><strong>Alberta Independence Vote:</strong> Alberta voters overwhelmingly rejected separation from Canada, with 75 percent voting to remain.</li>
-  <li><strong>Salesforce Acquires Braze:</strong> Salesforce announced an all-cash $5.7 billion acquisition of customer engagement platform Braze.</li>
-  <li><strong>AI-Designed Phage Therapy:</strong> Biotechnology firm Radical Numerics treated the first human patient using an AI-engineered bacteriophage to target antibiotic-resistant bacteria.</li>
-  <li><strong>Cryopreserved Organ Revival:</strong> Researchers successfully restored function in animal trials to pig kidneys revived after a year in ultracold storage.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Abyei Drone Strike: A market strike in the disputed border region killed at least 153 people, heightening fears of spillover from Sudan&#x27;s civil war.
-• Alberta Independence Vote: Alberta voters overwhelmingly rejected separation from Canada, with 75 percent voting to remain.
-• Salesforce Acquires Braze: Salesforce announced an all-cash $5.7 billion acquisition of customer engagement platform Braze.
-• AI-Designed Phage Therapy: Biotechnology firm Radical Numerics treated the first human patient using an AI-engineered bacteriophage to target antibiotic-resistant bacteria.
-• Cryopreserved Organ Revival: Researchers successfully restored function in animal trials to pig kidneys revived after a year in ultracold storage.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261021_1440_1.mp3" length="2587126" type="audio/mpeg"/>
-      <guid isPermaLink="false">866663a09d2cc952366ddc9f521312e3</guid>
-      <itunes:duration>162</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Tue, Oct 20 (SCIENCE_X)</title>
-      <pubDate>Wed, 21 Oct 2026 06:20:29 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Single-Atom Collision Sensing: Researchers measured momentum recoils from individual colliding gas atoms using an optically trapped silica nanoparticle acting as an ultra-sensitive pendulum.
-• Extreme-Ultraviolet Quantum Steering: Physicists achieved coherent control of bound electron excitations in helium by tuning phase interference between dual stimulated Raman pathways in the EUV spectrum.
-• Battery-Free Arterial Monitoring: Engineers created an octopus-inspired mechanochromic silicone patch that translates cardiovascular pulse vibrations directly into visible color changes without onboard electronics.
-• Live-Neuron Molecular Tracking: The NASTIC platform enables real-time observation of single-protein movement and clustering in living neurons to assess neurodegenerative drug interactions without destructive assays.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Single-Atom Collision Sensing:</strong> Researchers measured momentum recoils from individual colliding gas atoms using an optically trapped silica nanoparticle acting as an ultra-sensitive pendulum.</li>
-  <li><strong>Extreme-Ultraviolet Quantum Steering:</strong> Physicists achieved coherent control of bound electron excitations in helium by tuning phase interference between dual stimulated Raman pathways in the EUV spectrum.</li>
-  <li><strong>Battery-Free Arterial Monitoring:</strong> Engineers created an octopus-inspired mechanochromic silicone patch that translates cardiovascular pulse vibrations directly into visible color changes without onboard electronics.</li>
-  <li><strong>Live-Neuron Molecular Tracking:</strong> The NASTIC platform enables real-time observation of single-protein movement and clustering in living neurons to assess neurodegenerative drug interactions without destructive assays.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Single-Atom Collision Sensing: Researchers measured momentum recoils from individual colliding gas atoms using an optically trapped silica nanoparticle acting as an ultra-sensitive pendulum.
-• Extreme-Ultraviolet Quantum Steering: Physicists achieved coherent control of bound electron excitations in helium by tuning phase interference between dual stimulated Raman pathways in the EUV spectrum.
-• Battery-Free Arterial Monitoring: Engineers created an octopus-inspired mechanochromic silicone patch that translates cardiovascular pulse vibrations directly into visible color changes without onboard electronics.
-• Live-Neuron Molecular Tracking: The NASTIC platform enables real-time observation of single-protein movement and clustering in living neurons to assess neurodegenerative drug interactions without destructive assays.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261021_science_x_2.mp3" length="3284859" type="audio/mpeg"/>
-      <guid isPermaLink="false">dee814f548399535455921bf420fb9ab</guid>
-      <itunes:duration>205</itunes:duration>
-    </item>
-      <item>
-      <title>chmod 000 /dev/tokens: Mercury 3 Dumps Autoregression for 1,000 TPS (TLDR)</title>
-      <pubDate>Wed, 21 Oct 2026 06:23:24 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Inception Labs Mercury 3: Inception Labs debuted a diffusion-based language model achieving over 1,000 tokens per second by iteratively refining full text blocks in parallel rather than predicting tokens sequentially.
-• Clairic Tokenless Extraction: Researchers introduced a bounded extraction architecture that computes structured telemetry and calibrated confidence scores directly from raw data without token sampling or prompt injection vulnerabilities.
-• MiniMax M3.1 Flash &amp; Meta Prometheus: MiniMax cut agentic inference costs by 70% just as Meta published specs for Prometheus, a gigawatt-scale supercluster scaling toward one million liquid-cooled GPUs.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Inception Labs Mercury 3:</strong> Inception Labs debuted a diffusion-based language model achieving over 1,000 tokens per second by iteratively refining full text blocks in parallel rather than predicting tokens sequentially.</li>
-  <li><strong>Clairic Tokenless Extraction:</strong> Researchers introduced a bounded extraction architecture that computes structured telemetry and calibrated confidence scores directly from raw data without token sampling or prompt injection vulnerabilities.</li>
-  <li><strong>MiniMax M3.1 Flash &amp; Meta Prometheus:</strong> MiniMax cut agentic inference costs by 70% just as Meta published specs for Prometheus, a gigawatt-scale supercluster scaling toward one million liquid-cooled GPUs.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Inception Labs Mercury 3: Inception Labs debuted a diffusion-based language model achieving over 1,000 tokens per second by iteratively refining full text blocks in parallel rather than predicting tokens sequentially.
-• Clairic Tokenless Extraction: Researchers introduced a bounded extraction architecture that computes structured telemetry and calibrated confidence scores directly from raw data without token sampling or prompt injection vulnerabilities.
-• MiniMax M3.1 Flash &amp; Meta Prometheus: MiniMax cut agentic inference costs by 70% just as Meta published specs for Prometheus, a gigawatt-scale supercluster scaling toward one million liquid-cooled GPUs.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261021_tldr_3.mp3" length="2721910" type="audio/mpeg"/>
-      <guid isPermaLink="false">2b0918ccf9fdcdfcf2a2cc02f95df620</guid>
-      <itunes:duration>170</itunes:duration>
-    </item>
-      <item>
       <title>Russia Talks, Transgender Ruling, and Thanksgiving Chips (1440)</title>
       <pubDate>Thu, 22 Oct 2026 06:14:12 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
@@ -1901,6 +1823,87 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261119_tldr_3.mp3" length="2656630" type="audio/mpeg"/>
       <guid isPermaLink="false">a73764bafff56a8d65a75839bcd089bb</guid>
       <itunes:duration>166</itunes:duration>
+    </item>
+      <item>
+      <title>Iowa Dust Cloud, Myanmar Ruling, and Best Cheese (1440)</title>
+      <pubDate>Fri, 20 Nov 2026 06:14:22 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• ICJ Myanmar Genocide Ruling: The International Court of Justice ruled 9–6 that Myanmar committed genocide against its Rohingya minority in 2017, marking the court&#x27;s first such ruling against a nation.
+• Greenland Security Agreement: Denmark unanimously ratified a pact allowing an expanded U.S. military presence in Greenland.
+• Wall Street Slide and Anthropic Debut: Major U.S. stock indexes fell roughly two percent alongside news of third-party financial data leaks and 3.6% British inflation, while Anthropic surged 17.1% in its public trading debut.
+• Lunar Potatoes and Gravity Messaging: Researchers grew potatoes in simulated lunar soil matching Earth yields and nutrition, while physicists transmitted a message through a brick wall by modulating gravitational pull.
+• GTA Six Record and WNBA Sale: Grand Theft Auto Six pulled in over $1.8 billion on day one as Mark Walter neared a $750 million deal to sell the Los Angeles Sparks.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>ICJ Myanmar Genocide Ruling:</strong> The International Court of Justice ruled 9–6 that Myanmar committed genocide against its Rohingya minority in 2017, marking the court&#x27;s first such ruling against a nation.</li>
+  <li><strong>Greenland Security Agreement:</strong> Denmark unanimously ratified a pact allowing an expanded U.S. military presence in Greenland.</li>
+  <li><strong>Wall Street Slide and Anthropic Debut:</strong> Major U.S. stock indexes fell roughly two percent alongside news of third-party financial data leaks and 3.6% British inflation, while Anthropic surged 17.1% in its public trading debut.</li>
+  <li><strong>Lunar Potatoes and Gravity Messaging:</strong> Researchers grew potatoes in simulated lunar soil matching Earth yields and nutrition, while physicists transmitted a message through a brick wall by modulating gravitational pull.</li>
+  <li><strong>GTA Six Record and WNBA Sale:</strong> Grand Theft Auto Six pulled in over $1.8 billion on day one as Mark Walter neared a $750 million deal to sell the Los Angeles Sparks.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• ICJ Myanmar Genocide Ruling: The International Court of Justice ruled 9–6 that Myanmar committed genocide against its Rohingya minority in 2017, marking the court&#x27;s first such ruling against a nation.
+• Greenland Security Agreement: Denmark unanimously ratified a pact allowing an expanded U.S. military presence in Greenland.
+• Wall Street Slide and Anthropic Debut: Major U.S. stock indexes fell roughly two percent alongside news of third-party financial data leaks and 3.6% British inflation, while Anthropic surged 17.1% in its public trading debut.
+• Lunar Potatoes and Gravity Messaging: Researchers grew potatoes in simulated lunar soil matching Earth yields and nutrition, while physicists transmitted a message through a brick wall by modulating gravitational pull.
+• GTA Six Record and WNBA Sale: Grand Theft Auto Six pulled in over $1.8 billion on day one as Mark Walter neared a $750 million deal to sell the Los Angeles Sparks.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261120_1440_1.mp3" length="2983798" type="audio/mpeg"/>
+      <guid isPermaLink="false">13c09d82b44e55f325faa30f62fdec36</guid>
+      <itunes:duration>186</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Thu, Nov 19 (SCIENCE_X)</title>
+      <pubDate>Fri, 20 Nov 2026 06:24:23 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Room-Temperature Antiferromagnetic Memory: Engineers created nanoscale all-antiferromagnetic tunnel junctions that electrically switch and read data states at room temperature via octupole spin-transfer torque, enabling interference-proof spintronic memory without external magnets or cryogenic cooling.
+• Self-Organizing Active Biological Fluids: Researchers synchronized chaotic microtubule-kinesin flows into steady millimeter-scale rhythms by adding long entangled DNA strands, establishing a physical feedback blueprint for autonomous soft robotics and microfluidic actuators.
+• Lattice Algorithm for Pulsar Discovery: A cryptography-inspired lattice method scanned 15 years of NASA Fermi gamma-ray data in roughly 10 CPU-hours to uncover an isolated millisecond pulsar spinning 261 times per second, succeeding where 600 CPU-years of brute-force search failed.
+• Shift Toward Physics-Native Efficiency: Across deep tech, engineering teams are moving away from bulky external hardware and brute-force compute in favor of self-contained material dynamics and leaner mathematical signal extraction.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Room-Temperature Antiferromagnetic Memory:</strong> Engineers created nanoscale all-antiferromagnetic tunnel junctions that electrically switch and read data states at room temperature via octupole spin-transfer torque, enabling interference-proof spintronic memory without external magnets or cryogenic cooling.</li>
+  <li><strong>Self-Organizing Active Biological Fluids:</strong> Researchers synchronized chaotic microtubule-kinesin flows into steady millimeter-scale rhythms by adding long entangled DNA strands, establishing a physical feedback blueprint for autonomous soft robotics and microfluidic actuators.</li>
+  <li><strong>Lattice Algorithm for Pulsar Discovery:</strong> A cryptography-inspired lattice method scanned 15 years of NASA Fermi gamma-ray data in roughly 10 CPU-hours to uncover an isolated millisecond pulsar spinning 261 times per second, succeeding where 600 CPU-years of brute-force search failed.</li>
+  <li><strong>Shift Toward Physics-Native Efficiency:</strong> Across deep tech, engineering teams are moving away from bulky external hardware and brute-force compute in favor of self-contained material dynamics and leaner mathematical signal extraction.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Room-Temperature Antiferromagnetic Memory: Engineers created nanoscale all-antiferromagnetic tunnel junctions that electrically switch and read data states at room temperature via octupole spin-transfer torque, enabling interference-proof spintronic memory without external magnets or cryogenic cooling.
+• Self-Organizing Active Biological Fluids: Researchers synchronized chaotic microtubule-kinesin flows into steady millimeter-scale rhythms by adding long entangled DNA strands, establishing a physical feedback blueprint for autonomous soft robotics and microfluidic actuators.
+• Lattice Algorithm for Pulsar Discovery: A cryptography-inspired lattice method scanned 15 years of NASA Fermi gamma-ray data in roughly 10 CPU-hours to uncover an isolated millisecond pulsar spinning 261 times per second, succeeding where 600 CPU-years of brute-force search failed.
+• Shift Toward Physics-Native Efficiency: Across deep tech, engineering teams are moving away from bulky external hardware and brute-force compute in favor of self-contained material dynamics and leaner mathematical signal extraction.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261120_science_x_2.mp3" length="3069435" type="audio/mpeg"/>
+      <guid isPermaLink="false">3ecfe00466edf5661f30f501bb840215</guid>
+      <itunes:duration>192</itunes:duration>
+    </item>
+      <item>
+      <title>EXPIRE cache 300: 5-Min Pauses Wipe Prompts Amid $10B Spend (Still Billed) (TLDR)</title>
+      <pubDate>Fri, 20 Nov 2026 06:28:36 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Gemini 4 Neon &amp; Project Genie: Google released Gemini 4 Neon for coding and science at $3/$15 per million tokens alongside live text-prompt world mutations in Genie 4.
+• AI-Designed Chip Area Reductions: OpenAI models proposed circuit edits cutting key block area by 10–13% on its Jalapeño chip and delivering up to 14% gains on AMD flagship GPUs.
+• Inference Economics &amp; Cache Timeouts: With Anthropic&#x27;s quarterly compute spend near $10B, benchmarks expose costly 5-minute prompt cache wipes re-ingesting 16.8k MCP tokens and slow models taking 7x more steps.
+• Lean Routing &amp; Hard Sandboxing: Engineering teams are abandoning bloated agent swarms for custom silicon, lean model routing, and strict local file and network boundaries like OpenAI&#x27;s Codex sandbox.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Gemini 4 Neon &amp; Project Genie:</strong> Google released Gemini 4 Neon for coding and science at $3/$15 per million tokens alongside live text-prompt world mutations in Genie 4.</li>
+  <li><strong>AI-Designed Chip Area Reductions:</strong> OpenAI models proposed circuit edits cutting key block area by 10–13% on its Jalapeño chip and delivering up to 14% gains on AMD flagship GPUs.</li>
+  <li><strong>Inference Economics &amp; Cache Timeouts:</strong> With Anthropic&#x27;s quarterly compute spend near $10B, benchmarks expose costly 5-minute prompt cache wipes re-ingesting 16.8k MCP tokens and slow models taking 7x more steps.</li>
+  <li><strong>Lean Routing &amp; Hard Sandboxing:</strong> Engineering teams are abandoning bloated agent swarms for custom silicon, lean model routing, and strict local file and network boundaries like OpenAI&#x27;s Codex sandbox.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Gemini 4 Neon &amp; Project Genie: Google released Gemini 4 Neon for coding and science at $3/$15 per million tokens alongside live text-prompt world mutations in Genie 4.
+• AI-Designed Chip Area Reductions: OpenAI models proposed circuit edits cutting key block area by 10–13% on its Jalapeño chip and delivering up to 14% gains on AMD flagship GPUs.
+• Inference Economics &amp; Cache Timeouts: With Anthropic&#x27;s quarterly compute spend near $10B, benchmarks expose costly 5-minute prompt cache wipes re-ingesting 16.8k MCP tokens and slow models taking 7x more steps.
+• Lean Routing &amp; Hard Sandboxing: Engineering teams are abandoning bloated agent swarms for custom silicon, lean model routing, and strict local file and network boundaries like OpenAI&#x27;s Codex sandbox.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261120_tldr_3.mp3" length="2548342" type="audio/mpeg"/>
+      <guid isPermaLink="false">69329bc9972df898c59aa9c50274b32b</guid>
+      <itunes:duration>159</itunes:duration>
     </item>
   </channel>
 </rss>
