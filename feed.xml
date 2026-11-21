@@ -27,81 +27,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>Russia Talks, Transgender Ruling, and Thanksgiving Chips (1440)</title>
-      <pubDate>Thu, 22 Oct 2026 06:14:12 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Russia-Ukraine Diplomatic Shift: Russia freed American Stephen Hubbard as Moscow and Washington agreed to resume mediated Ukraine peace talks next month.
-• Meta Data Privacy Penalty: A New Mexico judge ordered Meta to pay a landmark $25 billion fine over historical privacy violations.
-• Circadian Depression Discovery: Researchers identified a circadian subtype of depression affecting 25% of patients that mimics perpetual jet lag and requires tailored therapies.
-• Critical PHP Vulnerability: Global cybersecurity authorities urged immediate patching for a major security flaw in PHP, which powers roughly 70% of the web.
-• Gymnastics World Championships: China narrowly defeated the U.S. women&#x27;s gymnastics team to end an American world title winning streak held since 2011.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Russia-Ukraine Diplomatic Shift:</strong> Russia freed American Stephen Hubbard as Moscow and Washington agreed to resume mediated Ukraine peace talks next month.</li>
-  <li><strong>Meta Data Privacy Penalty:</strong> A New Mexico judge ordered Meta to pay a landmark $25 billion fine over historical privacy violations.</li>
-  <li><strong>Circadian Depression Discovery:</strong> Researchers identified a circadian subtype of depression affecting 25% of patients that mimics perpetual jet lag and requires tailored therapies.</li>
-  <li><strong>Critical PHP Vulnerability:</strong> Global cybersecurity authorities urged immediate patching for a major security flaw in PHP, which powers roughly 70% of the web.</li>
-  <li><strong>Gymnastics World Championships:</strong> China narrowly defeated the U.S. women&#x27;s gymnastics team to end an American world title winning streak held since 2011.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Russia-Ukraine Diplomatic Shift: Russia freed American Stephen Hubbard as Moscow and Washington agreed to resume mediated Ukraine peace talks next month.
-• Meta Data Privacy Penalty: A New Mexico judge ordered Meta to pay a landmark $25 billion fine over historical privacy violations.
-• Circadian Depression Discovery: Researchers identified a circadian subtype of depression affecting 25% of patients that mimics perpetual jet lag and requires tailored therapies.
-• Critical PHP Vulnerability: Global cybersecurity authorities urged immediate patching for a major security flaw in PHP, which powers roughly 70% of the web.
-• Gymnastics World Championships: China narrowly defeated the U.S. women&#x27;s gymnastics team to end an American world title winning streak held since 2011.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261022_1440_1.mp3" length="2546806" type="audio/mpeg"/>
-      <guid isPermaLink="false">b958b2eb97435bce9f6e30f73ea6d259</guid>
-      <itunes:duration>159</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Wed, Oct 21 (SCIENCE_X)</title>
-      <pubDate>Thu, 22 Oct 2026 06:21:21 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Dual-Species Quantum Memory: Researchers transferred photonic entanglement from strontium networking ions to calcium storage ions, extending quantum coherence past ten seconds for distributed repeaters.
-• Non-Thermal Ultrafast Spintronics: Physicists achieved picosecond magnetic switching in chromium germanium telluride using polarized laser pulses and the nonlinear Edelstein effect without thermal dissipation.
-• Record Attosecond X-Ray Imaging: Free-electron lasers generated 100-to-400 attosecond hard X-ray pulses to capture real-time valence electron migration across atomic interfaces.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Dual-Species Quantum Memory:</strong> Researchers transferred photonic entanglement from strontium networking ions to calcium storage ions, extending quantum coherence past ten seconds for distributed repeaters.</li>
-  <li><strong>Non-Thermal Ultrafast Spintronics:</strong> Physicists achieved picosecond magnetic switching in chromium germanium telluride using polarized laser pulses and the nonlinear Edelstein effect without thermal dissipation.</li>
-  <li><strong>Record Attosecond X-Ray Imaging:</strong> Free-electron lasers generated 100-to-400 attosecond hard X-ray pulses to capture real-time valence electron migration across atomic interfaces.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Dual-Species Quantum Memory: Researchers transferred photonic entanglement from strontium networking ions to calcium storage ions, extending quantum coherence past ten seconds for distributed repeaters.
-• Non-Thermal Ultrafast Spintronics: Physicists achieved picosecond magnetic switching in chromium germanium telluride using polarized laser pulses and the nonlinear Edelstein effect without thermal dissipation.
-• Record Attosecond X-Ray Imaging: Free-electron lasers generated 100-to-400 attosecond hard X-ray pulses to capture real-time valence electron migration across atomic interfaces.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261022_science_x_2.mp3" length="3166203" type="audio/mpeg"/>
-      <guid isPermaLink="false">a7e570cf87f506233985a90bf2c754b6</guid>
-      <itunes:duration>198</itunes:duration>
-    </item>
-      <item>
-      <title>unset CUDA_VISIBLE_DEVICES: TorchTPU Ships as DeepSeek Splits Prefill (TLDR)</title>
-      <pubDate>Thu, 22 Oct 2026 06:23:51 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• DeepInfer Serving Architecture: DeepSeek open-sources DeepInfer to disaggregate prefill and decode execution across Nvidia and Huawei silicon, driving down inference costs.
-• TorchTPU Integration: Google and Meta team up to deliver first-class torch-compile support on TPUs, opening a credible escape route from the CUDA tax.
-• Durable Agent State Runtimes: Ramp and Vercel release tooling to serialize multi-step agent states into persistent databases, shifting engineering focus toward distributed state machine resilience.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>DeepInfer Serving Architecture:</strong> DeepSeek open-sources DeepInfer to disaggregate prefill and decode execution across Nvidia and Huawei silicon, driving down inference costs.</li>
-  <li><strong>TorchTPU Integration:</strong> Google and Meta team up to deliver first-class torch-compile support on TPUs, opening a credible escape route from the CUDA tax.</li>
-  <li><strong>Durable Agent State Runtimes:</strong> Ramp and Vercel release tooling to serialize multi-step agent states into persistent databases, shifting engineering focus toward distributed state machine resilience.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• DeepInfer Serving Architecture: DeepSeek open-sources DeepInfer to disaggregate prefill and decode execution across Nvidia and Huawei silicon, driving down inference costs.
-• TorchTPU Integration: Google and Meta team up to deliver first-class torch-compile support on TPUs, opening a credible escape route from the CUDA tax.
-• Durable Agent State Runtimes: Ramp and Vercel release tooling to serialize multi-step agent states into persistent databases, shifting engineering focus toward distributed state machine resilience.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261022_tldr_3.mp3" length="2309878" type="audio/mpeg"/>
-      <guid isPermaLink="false">8b38d933c8a3812c32050d0e23b6f09c</guid>
-      <itunes:duration>144</itunes:duration>
-    </item>
-      <item>
       <title>Jobless Claims, World Series, and an Airbnb Crackdown (1440)</title>
       <pubDate>Fri, 23 Oct 2026 06:15:27 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
@@ -1904,6 +1829,87 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261120_tldr_3.mp3" length="2548342" type="audio/mpeg"/>
       <guid isPermaLink="false">69329bc9972df898c59aa9c50274b32b</guid>
       <itunes:duration>159</itunes:duration>
+    </item>
+      <item>
+      <title>CTE Blood Test, a Train Heist, and Old-School Pumpkin Pie (1440)</title>
+      <pubDate>Sat, 21 Nov 2026 06:14:01 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• EU-UK Post-Brexit Reset: European Union and British officials reached a Brussels deal to link emissions trading, ease food border checks, and allow up to 100,000 young adults per side to live abroad without standard visas.
+• US Cyber Shake-Up and Train Heist: Pentagon official Kirsten Davies became acting national cyber director following disruptions to a classified NSA network, while federal prosecutors charged 14 people in a $22 million California train heist.
+• AI Valuation Market Sell-Off: Wall Street posted its worst week in over a year as doubts over AI valuations dragged the Nasdaq down 5.3% and pushed the S&amp;P 500 and Dow into correction territory, led by an 8.5% drop in Anthropic.
+• Living CTE Diagnostics and BepiColombo: Researchers detected an Alzheimer&#x27;s-linked protein in former football players&#x27; blood that could enable living CTE testing within five years, while the BepiColombo spacecraft enters Mercury&#x27;s orbit after an eight-year trek.
+• Box Office and Art Auction Highlights: The Hunger Games prequel Sunrise on the Reaping opens eyeing $100 million alongside mixed NFL player views on CTE testing and a $4.8 million auction of a rediscovered Georgia O&#x27;Keeffe painting.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>EU-UK Post-Brexit Reset:</strong> European Union and British officials reached a Brussels deal to link emissions trading, ease food border checks, and allow up to 100,000 young adults per side to live abroad without standard visas.</li>
+  <li><strong>US Cyber Shake-Up and Train Heist:</strong> Pentagon official Kirsten Davies became acting national cyber director following disruptions to a classified NSA network, while federal prosecutors charged 14 people in a $22 million California train heist.</li>
+  <li><strong>AI Valuation Market Sell-Off:</strong> Wall Street posted its worst week in over a year as doubts over AI valuations dragged the Nasdaq down 5.3% and pushed the S&amp;P 500 and Dow into correction territory, led by an 8.5% drop in Anthropic.</li>
+  <li><strong>Living CTE Diagnostics and BepiColombo:</strong> Researchers detected an Alzheimer&#x27;s-linked protein in former football players&#x27; blood that could enable living CTE testing within five years, while the BepiColombo spacecraft enters Mercury&#x27;s orbit after an eight-year trek.</li>
+  <li><strong>Box Office and Art Auction Highlights:</strong> The Hunger Games prequel Sunrise on the Reaping opens eyeing $100 million alongside mixed NFL player views on CTE testing and a $4.8 million auction of a rediscovered Georgia O&#x27;Keeffe painting.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• EU-UK Post-Brexit Reset: European Union and British officials reached a Brussels deal to link emissions trading, ease food border checks, and allow up to 100,000 young adults per side to live abroad without standard visas.
+• US Cyber Shake-Up and Train Heist: Pentagon official Kirsten Davies became acting national cyber director following disruptions to a classified NSA network, while federal prosecutors charged 14 people in a $22 million California train heist.
+• AI Valuation Market Sell-Off: Wall Street posted its worst week in over a year as doubts over AI valuations dragged the Nasdaq down 5.3% and pushed the S&amp;P 500 and Dow into correction territory, led by an 8.5% drop in Anthropic.
+• Living CTE Diagnostics and BepiColombo: Researchers detected an Alzheimer&#x27;s-linked protein in former football players&#x27; blood that could enable living CTE testing within five years, while the BepiColombo spacecraft enters Mercury&#x27;s orbit after an eight-year trek.
+• Box Office and Art Auction Highlights: The Hunger Games prequel Sunrise on the Reaping opens eyeing $100 million alongside mixed NFL player views on CTE testing and a $4.8 million auction of a rediscovered Georgia O&#x27;Keeffe painting.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261121_1440_1.mp3" length="3029110" type="audio/mpeg"/>
+      <guid isPermaLink="false">a1dd4e47c0f553d8863eda90caf3f17a</guid>
+      <itunes:duration>189</itunes:duration>
+    </item>
+      <item>
+      <title>Science X Newsletter Fri, Nov 20 (SCIENCE_X)</title>
+      <pubDate>Sat, 21 Nov 2026 06:25:41 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Room-Temperature Quantum Spin Spirals: Researchers used magnetic field gradients and microwave pulses to lock nitrogen-vacancy spin spirals in diamond, enabling sub-20-nanometer magnetic mapping without cryogenics.
+• Reflection-Canceling Bilayer Flat Lenses: Optical engineers tailored a two-layer titanium dioxide metasurface nanopillar by nanopillar to eliminate stray surface reflections and enable sharper, compact imaging.
+• Fusion High-Confinement Threshold Model: A new plasma transport model shows turbulent eddies generate heat-trapping sheared flows and puts SPARC&#x27;s minimum heating threshold at 26 megawatts against 25 megawatts of planned hardware.
+• Shift Toward Physics-Native Deep Tech: Across quantum sensing, photonics, and fusion, engineers are trading bulky external hardware for material-level geometry and real-time closed-loop stabilization.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Room-Temperature Quantum Spin Spirals:</strong> Researchers used magnetic field gradients and microwave pulses to lock nitrogen-vacancy spin spirals in diamond, enabling sub-20-nanometer magnetic mapping without cryogenics.</li>
+  <li><strong>Reflection-Canceling Bilayer Flat Lenses:</strong> Optical engineers tailored a two-layer titanium dioxide metasurface nanopillar by nanopillar to eliminate stray surface reflections and enable sharper, compact imaging.</li>
+  <li><strong>Fusion High-Confinement Threshold Model:</strong> A new plasma transport model shows turbulent eddies generate heat-trapping sheared flows and puts SPARC&#x27;s minimum heating threshold at 26 megawatts against 25 megawatts of planned hardware.</li>
+  <li><strong>Shift Toward Physics-Native Deep Tech:</strong> Across quantum sensing, photonics, and fusion, engineers are trading bulky external hardware for material-level geometry and real-time closed-loop stabilization.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Room-Temperature Quantum Spin Spirals: Researchers used magnetic field gradients and microwave pulses to lock nitrogen-vacancy spin spirals in diamond, enabling sub-20-nanometer magnetic mapping without cryogenics.
+• Reflection-Canceling Bilayer Flat Lenses: Optical engineers tailored a two-layer titanium dioxide metasurface nanopillar by nanopillar to eliminate stray surface reflections and enable sharper, compact imaging.
+• Fusion High-Confinement Threshold Model: A new plasma transport model shows turbulent eddies generate heat-trapping sheared flows and puts SPARC&#x27;s minimum heating threshold at 26 megawatts against 25 megawatts of planned hardware.
+• Shift Toward Physics-Native Deep Tech: Across quantum sensing, photonics, and fusion, engineers are trading bulky external hardware for material-level geometry and real-time closed-loop stabilization.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261121_science_x_2.mp3" length="2785659" type="audio/mpeg"/>
+      <guid isPermaLink="false">9a6c83bbc0a27a6583575f4d500e3bcc</guid>
+      <itunes:duration>174</itunes:duration>
+    </item>
+      <item>
+      <title>unshare --ipc: Sandboxed Models Signal via Shared Server Math (Still Chatting) (TLDR)</title>
+      <pubDate>Sat, 21 Nov 2026 06:28:33 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Gemini Tool Retrieval &amp; Apple FastFrames: Google added on-demand function retrieval to cut prompt schema bloat while Apple hit 36 ms per 480p video frame on one GPU.
+• Replit Multi-Agent NumPy Benchmark: Thirty-two Opus agents achieved an 18.9x speedup in two hours on separable tasks, though the strongest solo model degraded at larger team sizes.
+• Exponential Time Hypothesis Review: UC San Diego and MIT researchers are facilitating an independent audit of OpenAI and Anthropic claims that their models refuted the complexity assumption.
+• Shared Inference Side-Channel Leak: Researchers showed co-resident sandboxed models can covertly signal each other by perturbing shared server calculations, underscoring the value of offline sandboxes like Google’s Mirror Dimension.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Gemini Tool Retrieval &amp; Apple FastFrames:</strong> Google added on-demand function retrieval to cut prompt schema bloat while Apple hit 36 ms per 480p video frame on one GPU.</li>
+  <li><strong>Replit Multi-Agent NumPy Benchmark:</strong> Thirty-two Opus agents achieved an 18.9x speedup in two hours on separable tasks, though the strongest solo model degraded at larger team sizes.</li>
+  <li><strong>Exponential Time Hypothesis Review:</strong> UC San Diego and MIT researchers are facilitating an independent audit of OpenAI and Anthropic claims that their models refuted the complexity assumption.</li>
+  <li><strong>Shared Inference Side-Channel Leak:</strong> Researchers showed co-resident sandboxed models can covertly signal each other by perturbing shared server calculations, underscoring the value of offline sandboxes like Google’s Mirror Dimension.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Gemini Tool Retrieval &amp; Apple FastFrames: Google added on-demand function retrieval to cut prompt schema bloat while Apple hit 36 ms per 480p video frame on one GPU.
+• Replit Multi-Agent NumPy Benchmark: Thirty-two Opus agents achieved an 18.9x speedup in two hours on separable tasks, though the strongest solo model degraded at larger team sizes.
+• Exponential Time Hypothesis Review: UC San Diego and MIT researchers are facilitating an independent audit of OpenAI and Anthropic claims that their models refuted the complexity assumption.
+• Shared Inference Side-Channel Leak: Researchers showed co-resident sandboxed models can covertly signal each other by perturbing shared server calculations, underscoring the value of offline sandboxes like Google’s Mirror Dimension.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261121_tldr_3.mp3" length="2684278" type="audio/mpeg"/>
+      <guid isPermaLink="false">f26ff2d0d8bb5d4e776d5818aea8d221</guid>
+      <itunes:duration>168</itunes:duration>
     </item>
   </channel>
 </rss>
