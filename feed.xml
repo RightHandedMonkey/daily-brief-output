@@ -27,78 +27,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>Jobless Claims, World Series, and an Airbnb Crackdown (1440)</title>
-      <pubDate>Fri, 23 Oct 2026 06:15:27 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Bundibugyo Ebola Outbreak: African health officials convened an emergency summit after a confirmed case in Nigeria expanded history&#x27;s most widespread outbreak driven by the rare Bundibugyo strain.
-• Market Turmoil &amp; Biotech Slide: Crude oil spiked past $113 a barrel while Moderna shares plunged over 17% following underwhelming leaked data from its personalized cancer vaccine trial.
-• Extended Antimatter Trapping: Physicists achieved a multi-month containment of a single antimatter particle, setting the stage for breakthrough precision tests into early cosmic physics.
-• Historic World Series Clash: The Milwaukee Brewers and Tampa Bay Rays opened the Fall Classic, guaranteeing a first-time champion between two bottom-half payroll franchises.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Bundibugyo Ebola Outbreak:</strong> African health officials convened an emergency summit after a confirmed case in Nigeria expanded history&#x27;s most widespread outbreak driven by the rare Bundibugyo strain.</li>
-  <li><strong>Market Turmoil &amp; Biotech Slide:</strong> Crude oil spiked past $113 a barrel while Moderna shares plunged over 17% following underwhelming leaked data from its personalized cancer vaccine trial.</li>
-  <li><strong>Extended Antimatter Trapping:</strong> Physicists achieved a multi-month containment of a single antimatter particle, setting the stage for breakthrough precision tests into early cosmic physics.</li>
-  <li><strong>Historic World Series Clash:</strong> The Milwaukee Brewers and Tampa Bay Rays opened the Fall Classic, guaranteeing a first-time champion between two bottom-half payroll franchises.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Bundibugyo Ebola Outbreak: African health officials convened an emergency summit after a confirmed case in Nigeria expanded history&#x27;s most widespread outbreak driven by the rare Bundibugyo strain.
-• Market Turmoil &amp; Biotech Slide: Crude oil spiked past $113 a barrel while Moderna shares plunged over 17% following underwhelming leaked data from its personalized cancer vaccine trial.
-• Extended Antimatter Trapping: Physicists achieved a multi-month containment of a single antimatter particle, setting the stage for breakthrough precision tests into early cosmic physics.
-• Historic World Series Clash: The Milwaukee Brewers and Tampa Bay Rays opened the Fall Classic, guaranteeing a first-time champion between two bottom-half payroll franchises.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261023_1440_1.mp3" length="2741494" type="audio/mpeg"/>
-      <guid isPermaLink="false">5877e5380e8656e41fcb98371b3361d5</guid>
-      <itunes:duration>171</itunes:duration>
-    </item>
-      <item>
-      <title>Science X Newsletter Thu, Oct 22 (SCIENCE_X)</title>
-      <pubDate>Fri, 23 Oct 2026 06:21:16 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Diamond Laser Magnetometer: Researchers engineered a diamond NV laser threshold magnetometer with 100% optical contrast and sub-400 femtotesla sensitivity, dramatically bypassing standard readout bottlenecks.
-• Ultra-Wide-Bandgap Semiconductor: Silicon-doped aluminum gallium oxide grown on sapphire achieved an ultra-wide bandgap above seven electron volts and a 100-million-fold conductivity jump for high-voltage power diodes.
-• Bio-Stabilized Quantum Materials: Intercalating the amino acid arginine into tantalum disulfide layers stabilized room-temperature charge density waves up to 57 degrees Celsius without cryogenics.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Diamond Laser Magnetometer:</strong> Researchers engineered a diamond NV laser threshold magnetometer with 100% optical contrast and sub-400 femtotesla sensitivity, dramatically bypassing standard readout bottlenecks.</li>
-  <li><strong>Ultra-Wide-Bandgap Semiconductor:</strong> Silicon-doped aluminum gallium oxide grown on sapphire achieved an ultra-wide bandgap above seven electron volts and a 100-million-fold conductivity jump for high-voltage power diodes.</li>
-  <li><strong>Bio-Stabilized Quantum Materials:</strong> Intercalating the amino acid arginine into tantalum disulfide layers stabilized room-temperature charge density waves up to 57 degrees Celsius without cryogenics.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Diamond Laser Magnetometer: Researchers engineered a diamond NV laser threshold magnetometer with 100% optical contrast and sub-400 femtotesla sensitivity, dramatically bypassing standard readout bottlenecks.
-• Ultra-Wide-Bandgap Semiconductor: Silicon-doped aluminum gallium oxide grown on sapphire achieved an ultra-wide bandgap above seven electron volts and a 100-million-fold conductivity jump for high-voltage power diodes.
-• Bio-Stabilized Quantum Materials: Intercalating the amino acid arginine into tantalum disulfide layers stabilized room-temperature charge density waves up to 57 degrees Celsius without cryogenics.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261023_science_x_2.mp3" length="3157755" type="audio/mpeg"/>
-      <guid isPermaLink="false">73ac31c9fdde4f955bdf9b674e5da7f0</guid>
-      <itunes:duration>197</itunes:duration>
-    </item>
-      <item>
-      <title>pip install pwned: PyPI Poisoning Hits LiteLLM (Approval Modals Scream) (TLDR)</title>
-      <pubDate>Fri, 23 Oct 2026 06:24:02 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Anthropic Unveils Claude Duet: Opus 5.5 introduces ambient workspace monitoring behind confirmation gates, shifting enterprise authorization risks directly onto engineer approval fatigue.
-• Recursive Releases Flint MoE: A 40B sparse MoE coding model activates just 2.5B parameters per token to achieve 125+ TPS on local unified memory.
-• Malicious LiteLLM Package Infiltrates PyPI: A rogue proxy package slipped into PyPI exposes supply-chain vulnerabilities across orchestration layers despite Google Cloud Model Garden governance.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Anthropic Unveils Claude Duet:</strong> Opus 5.5 introduces ambient workspace monitoring behind confirmation gates, shifting enterprise authorization risks directly onto engineer approval fatigue.</li>
-  <li><strong>Recursive Releases Flint MoE:</strong> A 40B sparse MoE coding model activates just 2.5B parameters per token to achieve 125+ TPS on local unified memory.</li>
-  <li><strong>Malicious LiteLLM Package Infiltrates PyPI:</strong> A rogue proxy package slipped into PyPI exposes supply-chain vulnerabilities across orchestration layers despite Google Cloud Model Garden governance.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Anthropic Unveils Claude Duet: Opus 5.5 introduces ambient workspace monitoring behind confirmation gates, shifting enterprise authorization risks directly onto engineer approval fatigue.
-• Recursive Releases Flint MoE: A 40B sparse MoE coding model activates just 2.5B parameters per token to achieve 125+ TPS on local unified memory.
-• Malicious LiteLLM Package Infiltrates PyPI: A rogue proxy package slipped into PyPI exposes supply-chain vulnerabilities across orchestration layers despite Google Cloud Model Garden governance.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261023_tldr_3.mp3" length="2776438" type="audio/mpeg"/>
-      <guid isPermaLink="false">d7475b567e79aa12e76611930b95a5d0</guid>
-      <itunes:duration>173</itunes:duration>
-    </item>
-      <item>
       <title>Science X Newsletter Fri, Oct 23 (SCIENCE_X)</title>
       <pubDate>Sat, 24 Oct 2026 06:15:52 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
@@ -1910,6 +1838,32 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261121_tldr_3.mp3" length="2684278" type="audio/mpeg"/>
       <guid isPermaLink="false">f26ff2d0d8bb5d4e776d5818aea8d221</guid>
       <itunes:duration>168</itunes:duration>
+    </item>
+      <item>
+      <title>Thanksgiving Origins, Upcoming Swiss Vote, and Historic Data Breaches (1440)</title>
+      <pubDate>Sun, 22 Nov 2026 06:13:53 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Global Diplomacy &amp; Elections: Swiss voters weigh loosening weapons export rules alongside a Trump-Xi-Putin trilateral summit, a U.S.-Greenland security pact, an ICJ genocide ruling against Myanmar, and Mary Peltola&#x27;s Alaska win.
+• AI Market Sell-Off &amp; Corporate News: Early optimism around Nvidia&#x27;s nearly $116 billion revenue and Anthropic&#x27;s $1.5 trillion Nasdaq debut reversed into an S&amp;P 500 and Dow correction, while Meta faces an $887 million privacy fine.
+• Space &amp; Biotech Milestones: SpaceX&#x27;s Starship catch, Voyager 1 reaching one light-day from Earth, and a 25-million-cell brain atlas aiding living CTE blood tests coincide with Tuesday&#x27;s supermoon and Darwin&#x27;s 167th anniversary.
+• Thanksgiving &amp; Cultural Anniversaries: Surging Thanksgiving travel and football history since 1920 feature alongside the 55th anniversary of the unsolved D.B. Cooper skyjacking and a timeline of historic data breaches.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Global Diplomacy &amp; Elections:</strong> Swiss voters weigh loosening weapons export rules alongside a Trump-Xi-Putin trilateral summit, a U.S.-Greenland security pact, an ICJ genocide ruling against Myanmar, and Mary Peltola&#x27;s Alaska win.</li>
+  <li><strong>AI Market Sell-Off &amp; Corporate News:</strong> Early optimism around Nvidia&#x27;s nearly $116 billion revenue and Anthropic&#x27;s $1.5 trillion Nasdaq debut reversed into an S&amp;P 500 and Dow correction, while Meta faces an $887 million privacy fine.</li>
+  <li><strong>Space &amp; Biotech Milestones:</strong> SpaceX&#x27;s Starship catch, Voyager 1 reaching one light-day from Earth, and a 25-million-cell brain atlas aiding living CTE blood tests coincide with Tuesday&#x27;s supermoon and Darwin&#x27;s 167th anniversary.</li>
+  <li><strong>Thanksgiving &amp; Cultural Anniversaries:</strong> Surging Thanksgiving travel and football history since 1920 feature alongside the 55th anniversary of the unsolved D.B. Cooper skyjacking and a timeline of historic data breaches.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Global Diplomacy &amp; Elections: Swiss voters weigh loosening weapons export rules alongside a Trump-Xi-Putin trilateral summit, a U.S.-Greenland security pact, an ICJ genocide ruling against Myanmar, and Mary Peltola&#x27;s Alaska win.
+• AI Market Sell-Off &amp; Corporate News: Early optimism around Nvidia&#x27;s nearly $116 billion revenue and Anthropic&#x27;s $1.5 trillion Nasdaq debut reversed into an S&amp;P 500 and Dow correction, while Meta faces an $887 million privacy fine.
+• Space &amp; Biotech Milestones: SpaceX&#x27;s Starship catch, Voyager 1 reaching one light-day from Earth, and a 25-million-cell brain atlas aiding living CTE blood tests coincide with Tuesday&#x27;s supermoon and Darwin&#x27;s 167th anniversary.
+• Thanksgiving &amp; Cultural Anniversaries: Surging Thanksgiving travel and football history since 1920 feature alongside the 55th anniversary of the unsolved D.B. Cooper skyjacking and a timeline of historic data breaches.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261122_1440_1.mp3" length="3153142" type="audio/mpeg"/>
+      <guid isPermaLink="false">c531ba5ee86ed4f87a7270ee175c9904</guid>
+      <itunes:duration>197</itunes:duration>
     </item>
   </channel>
 </rss>
