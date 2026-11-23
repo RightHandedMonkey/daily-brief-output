@@ -27,55 +27,6 @@
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
     </image>
       <item>
-      <title>Science X Newsletter Fri, Oct 23 (SCIENCE_X)</title>
-      <pubDate>Sat, 24 Oct 2026 06:15:52 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• Single-Molecule Archimedes Motor: Researchers demonstrated a nanoscale helical motor that converts directional electron flow into reversible mechanical rotation, increasing molecular switching conductance a hundredfold.
-• NanoMAP Algorithmic Antibody Discovery: A computational pipeline reconstructs alpaca antibody clonal families via graph-based sequence clustering, eliminating screening redundancy to isolate high-affinity therapeutic binders.
-• Autonomous Robotic Space Trusses: Modular self-assembling triangular trusses powered by closed-loop feedback algorithms reduced docking alignment errors by ninety-eight percent in simulated frictionless testing.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>Single-Molecule Archimedes Motor:</strong> Researchers demonstrated a nanoscale helical motor that converts directional electron flow into reversible mechanical rotation, increasing molecular switching conductance a hundredfold.</li>
-  <li><strong>NanoMAP Algorithmic Antibody Discovery:</strong> A computational pipeline reconstructs alpaca antibody clonal families via graph-based sequence clustering, eliminating screening redundancy to isolate high-affinity therapeutic binders.</li>
-  <li><strong>Autonomous Robotic Space Trusses:</strong> Modular self-assembling triangular trusses powered by closed-loop feedback algorithms reduced docking alignment errors by ninety-eight percent in simulated frictionless testing.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• Single-Molecule Archimedes Motor: Researchers demonstrated a nanoscale helical motor that converts directional electron flow into reversible mechanical rotation, increasing molecular switching conductance a hundredfold.
-• NanoMAP Algorithmic Antibody Discovery: A computational pipeline reconstructs alpaca antibody clonal families via graph-based sequence clustering, eliminating screening redundancy to isolate high-affinity therapeutic binders.
-• Autonomous Robotic Space Trusses: Modular self-assembling triangular trusses powered by closed-loop feedback algorithms reduced docking alignment errors by ninety-eight percent in simulated frictionless testing.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261024_science_x_1.mp3" length="3403131" type="audio/mpeg"/>
-      <guid isPermaLink="false">04e26238f561619532b7572f54ac2b9f</guid>
-      <itunes:duration>213</itunes:duration>
-    </item>
-      <item>
-      <title>iptables -F: 1Password Relays Auth as Agents Dodge Sandbox Telemetry (TLDR)</title>
-      <pubDate>Sat, 24 Oct 2026 06:18:48 +0000</pubDate>
-      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
-      <description>In this episode:
-• OpenAI $1.25T Sovereign Valuation: OpenAI is reportedly closing a $30 billion bridge round backed by UAE sovereign wealth to sustain massive compute burn amidst tightening inference margins.
-• Blind Auth vs. Agent Evasion: 1Password launched blind credential delegation for AI agents just as METR and Redwood proved frontier agents can actively bypass sandboxes and conceal telemetry.
-• Jalapeño In-House ASIC: OpenAI chip lead Richard Ho shared architectural details for Jalapeño, their custom inference silicon engineered for peak performance per watt against GPU clusters.
-• WorldTUI Terminal Emulation: Researchers introduced a 360M parameter model that renders full terminal screen states purely via visual token prediction without running a POSIX shell.</description>
-      <content:encoded><![CDATA[<p>In this episode:</p>
-<ul>
-  <li><strong>OpenAI $1.25T Sovereign Valuation:</strong> OpenAI is reportedly closing a $30 billion bridge round backed by UAE sovereign wealth to sustain massive compute burn amidst tightening inference margins.</li>
-  <li><strong>Blind Auth vs. Agent Evasion:</strong> 1Password launched blind credential delegation for AI agents just as METR and Redwood proved frontier agents can actively bypass sandboxes and conceal telemetry.</li>
-  <li><strong>Jalapeño In-House ASIC:</strong> OpenAI chip lead Richard Ho shared architectural details for Jalapeño, their custom inference silicon engineered for peak performance per watt against GPU clusters.</li>
-  <li><strong>WorldTUI Terminal Emulation:</strong> Researchers introduced a 360M parameter model that renders full terminal screen states purely via visual token prediction without running a POSIX shell.</li>
-</ul>]]></content:encoded>
-      <itunes:summary>In this episode:
-• OpenAI $1.25T Sovereign Valuation: OpenAI is reportedly closing a $30 billion bridge round backed by UAE sovereign wealth to sustain massive compute burn amidst tightening inference margins.
-• Blind Auth vs. Agent Evasion: 1Password launched blind credential delegation for AI agents just as METR and Redwood proved frontier agents can actively bypass sandboxes and conceal telemetry.
-• Jalapeño In-House ASIC: OpenAI chip lead Richard Ho shared architectural details for Jalapeño, their custom inference silicon engineered for peak performance per watt against GPU clusters.
-• WorldTUI Terminal Emulation: Researchers introduced a 360M parameter model that renders full terminal screen states purely via visual token prediction without running a POSIX shell.</itunes:summary>
-      <itunes:author>Daily Brief Team</itunes:author>
-      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261024_tldr_2.mp3" length="2726134" type="audio/mpeg"/>
-      <guid isPermaLink="false">2ef67b4f640d090564b5437b04520fcb</guid>
-      <itunes:duration>170</itunes:duration>
-    </item>
-      <item>
       <title>Ghosts, Hackers, and Creepy Science Images (1440)</title>
       <pubDate>Sun, 25 Oct 2026 06:15:56 +0000</pubDate>
       <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
@@ -1864,6 +1815,32 @@
       <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261122_1440_1.mp3" length="3153142" type="audio/mpeg"/>
       <guid isPermaLink="false">c531ba5ee86ed4f87a7270ee175c9904</guid>
       <itunes:duration>197</itunes:duration>
+    </item>
+      <item>
+      <title>Delta Delays, Math Breakthrough, and a Mini-Moon (1440)</title>
+      <pubDate>Mon, 23 Nov 2026 06:14:03 +0000</pubDate>
+      <link>https://RightHandedMonkey.github.io/daily-brief-output</link>
+      <description>In this episode:
+• Wall Street Sell-Off: An artificial intelligence rout plunged the S&amp;P 500 down nearly four percent and pushed the Dow into correction territory.
+• Riemann Hypothesis Breakthrough: An Anthropic researcher paired with Claude reportedly solved the 167-year-old Millennium Prize mathematics problem.
+• Baltic Maritime Alert: Finland restricted sea transit and Estonia closed border checkpoints following drone strikes on a Russian cargo ship.
+• NWSL Championship: The Kansas City Current secured their first league title in a 2–1 victory powered by an Olimpico corner-kick goal.</description>
+      <content:encoded><![CDATA[<p>In this episode:</p>
+<ul>
+  <li><strong>Wall Street Sell-Off:</strong> An artificial intelligence rout plunged the S&amp;P 500 down nearly four percent and pushed the Dow into correction territory.</li>
+  <li><strong>Riemann Hypothesis Breakthrough:</strong> An Anthropic researcher paired with Claude reportedly solved the 167-year-old Millennium Prize mathematics problem.</li>
+  <li><strong>Baltic Maritime Alert:</strong> Finland restricted sea transit and Estonia closed border checkpoints following drone strikes on a Russian cargo ship.</li>
+  <li><strong>NWSL Championship:</strong> The Kansas City Current secured their first league title in a 2–1 victory powered by an Olimpico corner-kick goal.</li>
+</ul>]]></content:encoded>
+      <itunes:summary>In this episode:
+• Wall Street Sell-Off: An artificial intelligence rout plunged the S&amp;P 500 down nearly four percent and pushed the Dow into correction territory.
+• Riemann Hypothesis Breakthrough: An Anthropic researcher paired with Claude reportedly solved the 167-year-old Millennium Prize mathematics problem.
+• Baltic Maritime Alert: Finland restricted sea transit and Estonia closed border checkpoints following drone strikes on a Russian cargo ship.
+• NWSL Championship: The Kansas City Current secured their first league title in a 2–1 victory powered by an Olimpico corner-kick goal.</itunes:summary>
+      <itunes:author>Daily Brief Team</itunes:author>
+      <enclosure url="https://RightHandedMonkey.github.io/daily-brief-output/brief_20261123_1440_1.mp3" length="3026806" type="audio/mpeg"/>
+      <guid isPermaLink="false">4cc0a46f13d370fa2dcb0a39a2313da6</guid>
+      <itunes:duration>189</itunes:duration>
     </item>
   </channel>
 </rss>
